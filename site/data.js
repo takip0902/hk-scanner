@@ -1,6 +1,6 @@
 window.SCANNER_DATA = {
   "scan_date": "2026-05-09",
-  "scan_timestamp": "2026-05-09T09:50:01.725796+08:00",
+  "scan_timestamp": "2026-05-09T10:06:46.780952+08:00",
   "previous_date": null,
   "total_universe": 5999,
   "data_available": 208,
