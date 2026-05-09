@@ -220,7 +220,11 @@ def screen_new_stock(ticker: str, df: pd.DataFrame) -> dict | None:
     # 上市首日高點
     ipo_high = float(df["High"].iloc[0]) if "High" in df.columns else float(df["Close"].iloc[0])
 
-    if not (close > ma10 > ma20):
+    # Level 2 邏輯: 收市要高過 MA10 同 MA20 (但 MA10 唔需要高過 MA20)
+    # 容許「大升後輕微回調」嘅強股入選
+    if not (close > ma10):
+        return None
+    if not (close > ma20):
         return None
     if close <= ipo_high:
         return None
@@ -285,7 +289,8 @@ def apply_metadata(stocks: list, meta: dict) -> list:
         # 只有當有真實市值資料時，先過濾
         if market_cap > 0 and market_cap < MIN_MARKET_CAP:
             continue
-        # 套用名稱（如果 metadata 有；否則保持已有 fallback name）
+        # 套用名稱：只用中文，冇就保持代碼
+        # 注意：metadata 入面嘅 "name" 已經喺 update_metadata 階段過濾為「中文 or code」
         if m.get("name"):
             s["name"] = m["name"]
         s["market_cap"] = market_cap
@@ -449,7 +454,8 @@ def update_metadata(tickers: list, force_refresh: bool = False) -> dict:
         fetch_count += 1
         if info and (info.get("name_en") or info.get("market_cap", 0) > 0):
             chinese = chinese_names.get(code, "")
-            info["name"] = chinese if chinese else info.get("name_en", code)
+            # 只用中文名；冇中文名就用股票代碼（不顯示英文名）
+            info["name"] = chinese if chinese else code
             meta[ticker] = info
             fetched += 1
             if fetched % 10 == 0:
