@@ -15,6 +15,7 @@ on:
           - fast              # 快速模式（用 cache + 邊緣探索）
           - explore           # 探索模式（重建 universe）
           - fetch_metadata    # 一次過 fetch 全部股票名稱+市值（10-15 分鐘）
+          - refresh_names     # 從 HKEX 官方同步中文名（< 1 分鐘）
   push:
     branches: [main]
     paths:
@@ -63,8 +64,14 @@ jobs:
           cd scanner
           python fetch_metadata.py
 
-      - name: 執行掃描
-        if: steps.mode.outputs.MODE != 'fetch_metadata'
+      - name: 從 HKEX 同步中文名（如選 refresh_names 模式）
+        if: steps.mode.outputs.MODE == 'refresh_names'
+        run: |
+          cd scanner
+          python refresh_names.py
+
+      - name: 執行掃描（只有 fast / explore 模式走這裡）
+        if: steps.mode.outputs.MODE == 'fast' || steps.mode.outputs.MODE == 'explore'
         run: |
           cd scanner
           if [[ "${{ steps.mode.outputs.MODE }}" == "explore" ]]; then
@@ -73,8 +80,8 @@ jobs:
             python scanner.py
           fi
 
-      - name: 跑掃描以套用新 metadata（fetch_metadata 模式之後）
-        if: steps.mode.outputs.MODE == 'fetch_metadata'
+      - name: 跑掃描以套用新 metadata（fetch_metadata / refresh_names 之後）
+        if: steps.mode.outputs.MODE == 'fetch_metadata' || steps.mode.outputs.MODE == 'refresh_names'
         run: |
           cd scanner
           python scanner.py
@@ -83,7 +90,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/data.json site/data.js site/history/ site/streaks.json scanner/universe_cache.json scanner/metadata.json 2>/dev/null || true
+          git add site/data.json site/data.js site/history/ site/streaks.json scanner/universe_cache.json scanner/metadata.json scanner/names.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "沒有數據變動，跳過 commit"
           else
