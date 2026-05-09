@@ -47,7 +47,7 @@ HKT = timezone(timedelta(hours=8))
 MIN_TURNOVER_M = 2.0          # 平均成交額 200萬港元
 MIN_TURNOVER = MIN_TURNOVER_M * 1_000_000
 NEW_STOCK_DAYS = 200          # 少於 200 日上市 = 新股
-MIN_HISTORY_DAYS = 30         # 至少要有 30 日數據先納入 universe
+MIN_HISTORY_DAYS = 10         # 至少要有 30 日數據先納入 universe
 
 
 # ============================================
@@ -122,8 +122,16 @@ def fetch_data(tickers: list[str], period: str = "1y", explore: bool = False) ->
     """
     universe = load_universe_cache()
     if universe and not explore:
-        target = [t for t in tickers if t in universe]
-        print(f"快速模式: {len(target)} 隻 (universe cache)")
+        # 快速模式：universe + 「邊緣探索」（檢查唔喺 universe 嘅範圍嘅 10%）
+        in_universe = [t for t in tickers if t in universe]
+        not_in_universe = [t for t in tickers if t not in universe]
+        # 每次抽樣 not_in_universe 嘅 10%（最多 500 個）
+        import random
+        sample_size = min(500, max(100, len(not_in_universe) // 10))
+        random.seed(int(time.time()) // 86400)  # 每日 seed 唔同
+        edge_sample = random.sample(not_in_universe, min(sample_size, len(not_in_universe)))
+        target = in_universe + edge_sample
+        print(f"快速模式: {len(in_universe)} (universe) + {len(edge_sample)} (邊緣探索) = {len(target)} 隻")
     else:
         target = tickers
         print(f"探索模式: {len(target)} 個代碼範圍")
@@ -267,6 +275,25 @@ def _build_result(ticker, df, close, avg_turnover, category, **extra):
     return result
 
 
+def apply_metadata(stocks: list, meta: dict) -> list:
+    """為每隻通過篩選嘅股票套用 metadata，並過濾市值 < 80 億嘅。"""
+    filtered = []
+    for s in stocks:
+        m = meta.get(s["ticker"], {})
+        market_cap = m.get("market_cap", 0)
+        # 過濾低市值
+        if market_cap and market_cap < MIN_MARKET_CAP:
+            continue
+        # 套用名稱
+        if m.get("name"):
+            s["name"] = m["name"]
+        s["market_cap"] = market_cap
+        s["market_cap_b"] = round(market_cap / 1e9, 2) if market_cap else 0
+        s["sector"] = m.get("sector", "")
+        filtered.append(s)
+    return filtered
+
+
 def screen_stock(ticker: str, df: pd.DataFrame) -> dict | None:
     """根據股票上市時長分流到對應篩選邏輯"""
     if is_new_stock(df):
@@ -345,6 +372,89 @@ def assign_rs_ratings(stocks: list[dict], data: dict) -> None:
     # 套用到強勢股
     for s in stocks:
         s["rs_rating"] = ticker_to_rank.get(s["ticker"], 0)
+
+
+
+# ============================================
+# Metadata (名稱 + 市值)
+# ============================================
+
+METADATA_FILE = SCANNER_DIR / "metadata.json"
+MIN_MARKET_CAP = 8_000_000_000  # 80 億港元
+
+
+def load_metadata() -> dict:
+    """載入股票名稱+市值 cache"""
+    if METADATA_FILE.exists():
+        try:
+            with open(METADATA_FILE) as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
+
+
+def save_metadata(meta: dict) -> None:
+    with open(METADATA_FILE, "w") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+
+
+def fetch_stock_info(ticker: str) -> dict | None:
+    """
+    取得單一股票嘅名稱、市值、行業。
+    失敗返回 None（會 fallback 到舊 cache 或 names.json）。
+    """
+    try:
+        info = yf.Ticker(ticker).info
+        name = info.get("longName") or info.get("shortName") or ""
+        # 處理 yfinance 返回嘅英文名 → 試下 names.json 入面有冇中文
+        market_cap = info.get("marketCap") or 0
+        sector = info.get("sector", "")
+        return {
+            "name_en": name,
+            "market_cap": int(market_cap) if market_cap else 0,
+            "sector": sector,
+        }
+    except Exception:
+        return None
+
+
+def update_metadata(tickers: list, force_refresh: bool = False) -> dict:
+    """
+    更新 metadata cache。
+    對冇資料嘅股票 fetch info；force_refresh 會更新所有。
+    """
+    meta = load_metadata()
+    chinese_names = load_company_names()  # names.json 中文名
+    fetched = 0
+    failed = 0
+
+    for ticker in tickers:
+        code = ticker.replace(".HK", "")
+        # 已有 cache 而且唔強制刷新 → 跳過
+        if not force_refresh and ticker in meta and meta[ticker].get("name_en"):
+            continue
+
+        info = fetch_stock_info(ticker)
+        if info:
+            # 中文名優先
+            chinese = chinese_names.get(code, "")
+            info["name"] = chinese if chinese else info["name_en"]
+            meta[ticker] = info
+            fetched += 1
+            if fetched % 50 == 0:
+                print(f"  Metadata 進度: {fetched} 隻已抓取")
+                save_metadata(meta)  # 中途 save 防止失敗失去進度
+                time.sleep(0.5)
+        else:
+            failed += 1
+        # 避免 rate limit
+        time.sleep(0.05)
+
+    save_metadata(meta)
+    if fetched or failed:
+        print(f"  Metadata 更新: {fetched} 成功, {failed} 失敗, 總共 {len(meta)} 隻")
+    return meta
 
 
 # ============================================
@@ -452,12 +562,17 @@ def run_scan(explore: bool = False) -> dict:
     print(f"  其中標準股: {sum(1 for r in results if r['category'] == 'standard')}")
     print(f"  其中新股  : {sum(1 for r in results if r['category'] == 'new')}")
 
-    # 套用名稱
-    names = load_company_names()
-    for r in results:
-        r["name"] = names.get(r["code"], "")
+    # 取得 metadata (名稱 + 市值)
+    print("更新 metadata...")
+    qualified_tickers = [r["ticker"] for r in results]
+    meta = update_metadata(qualified_tickers)
 
-    # 計算 RS Rating
+    # 套用 metadata + 市值過濾
+    before_count = len(results)
+    results = apply_metadata(results, meta)
+    print(f"市值過濾: {before_count} → {len(results)} (剔除市值 < 80 億)")
+
+    # 計算 RS Rating（只計留低嘅）
     print("計算相對強度排名...")
     assign_rs_ratings(results, data)
 
