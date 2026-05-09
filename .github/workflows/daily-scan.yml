@@ -1,0 +1,91 @@
+name: 港股強勢股每日掃描
+
+on:
+  schedule:
+    # 港股交易日（週一至週五）香港時間 17:30 = UTC 09:30 — 快速模式
+    - cron: '30 9 * * 1-5'
+    # 每週日 UTC 02:00（香港週日 10:00 AM）— 探索模式擴充 universe
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      explore:
+        description: '探索模式（重新發現新股票，會慢啲）'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+  push:
+    branches: [main]
+    paths:
+      - 'scanner/**'
+      - '.github/workflows/daily-scan.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scan-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60   # explore 模式可能用到 30+ 分鐘
+    steps:
+      - name: 取得 repo
+        uses: actions/checkout@v4
+
+      - name: 設定 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安裝套件
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 判斷模式
+        id: mode
+        run: |
+          # 1. 手動觸發 + 揀咗 explore=true → 探索模式
+          # 2. 週日 cron (UTC 02:00) → 探索模式
+          # 3. 平日 cron 或其他 → 快速模式
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.explore }}" == "true" ]]; then
+            echo "EXPLORE_FLAG=--explore" >> $GITHUB_OUTPUT
+            echo "模式: 探索（手動）"
+          elif [[ "${{ github.event_name }}" == "schedule" && "${{ github.event.schedule }}" == "0 2 * * 0" ]]; then
+            echo "EXPLORE_FLAG=--explore" >> $GITHUB_OUTPUT
+            echo "模式: 探索（每週日自動）"
+          else
+            echo "EXPLORE_FLAG=" >> $GITHUB_OUTPUT
+            echo "模式: 快速"
+          fi
+
+      - name: 執行掃描
+        run: |
+          cd scanner
+          python scanner.py ${{ steps.mode.outputs.EXPLORE_FLAG }}
+
+      - name: 提交結果到 repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data.json site/data.js site/history/ site/streaks.json scanner/universe_cache.json
+          if git diff --staged --quiet; then
+            echo "沒有數據變動，跳過 commit"
+          else
+            git commit -m "📈 每日掃描更新 $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: 設定 GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: 上傳網頁到 Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
