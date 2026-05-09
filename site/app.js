@@ -25,6 +25,7 @@ const SORT_LABELS = {
   rs_rating: 'RS Rating',
   streak: '入選天數',
   category: '類別',
+  market_cap_b: '市值(十億)',
   close: '收市價',
   above_ma50_pct: '距均線%',
   pct_5d: '5日漲幅',
@@ -51,7 +52,7 @@ async function loadData() {
     renderAll();
   } catch (err) {
     document.getElementById('stocks-tbody').innerHTML =
-      `<tr><td colspan="15" class="empty-state">數據載入失敗：${esc(err.message)}</td></tr>`;
+      `<tr><td colspan="16" class="empty-state">數據載入失敗：${esc(err.message)}</td></tr>`;
   }
 }
 
@@ -112,7 +113,7 @@ function renderTable() {
   });
 
   if (!stocks.length) {
-    tbody.innerHTML = `<tr><td colspan="15" class="empty-state">沒有符合條件的股票</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="16" class="empty-state">沒有符合條件的股票</td></tr>`;
     return;
   }
 
@@ -142,6 +143,7 @@ function renderTable() {
         <td class="num">${s.ma50.toFixed(3)}</td>
         <td class="num">${s.ma100.toFixed(3)}</td>
         <td class="num">${s.ma200.toFixed(3)}</td>
+        <td class="num">${s.market_cap_b ? s.market_cap_b.toFixed(1) : '—'}</td>
         <td class="num">${s.avg_turnover_m.toFixed(1)}</td>
         <td>${cat}</td>
         <td class="num">${esc(s.last_date)}</td>
@@ -176,6 +178,7 @@ function renderRemoved() {
       <tr>
         <td class="code">${esc(s.code)}</td>
         <td class="name">${esc(s.name || '—')}</td>
+        <td class="num">${s.market_cap_b ? s.market_cap_b.toFixed(1) + 'B' : '—'}</td>
         <td class="num">${s.close.toFixed(3)}</td>
         <td class="num ${upDown(s.above_ma50_pct)}">${s.above_ma50_pct > 0 ? '+' : ''}${s.above_ma50_pct.toFixed(2)}%</td>
         <td class="num">${esc(s.last_date)}</td>
