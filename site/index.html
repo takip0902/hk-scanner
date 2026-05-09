@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'; connect-src 'self'; img-src 'self' data:;">
+<title>港股強勢股 Scanner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="HK Scanner Logo">
+        <rect x="2" y="2" width="28" height="28" rx="6" stroke="currentColor" stroke-width="2"/>
+        <path d="M8 22 L13 14 L18 18 L24 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <circle cx="24" cy="8" r="2" fill="currentColor"/>
+      </svg>
+      <div>
+        <div class="brand-title">港股強勢股 Scanner</div>
+        <div class="brand-sub">HK Equity Momentum Screen</div>
+      </div>
+    </div>
+    <div class="meta" id="meta-info">
+      <div class="meta-item"><span class="meta-label">掃描日期</span><span class="meta-value" id="scan-date">--</span></div>
+      <div class="meta-item"><span class="meta-label">前一日</span><span class="meta-value" id="prev-date">--</span></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <!-- 篩選準則卡 -->
+  <section class="criteria">
+    <div class="criteria-title">篩選準則</div>
+    <div class="criteria-list">
+      <span class="chip">收市價 &gt; MA50</span>
+      <span class="chip">MA50 &gt; MA100</span>
+      <span class="chip">MA50 &gt; MA200</span>
+      <span class="chip">20日平均成交額 &gt; 500萬港元</span>
+    </div>
+  </section>
+
+  <!-- 統計卡 -->
+  <section class="stats">
+    <div class="stat-card">
+      <div class="stat-value" id="stat-total">--</div>
+      <div class="stat-label">符合準則</div>
+    </div>
+    <div class="stat-card stat-new">
+      <div class="stat-value" id="stat-new">--</div>
+      <div class="stat-label">今日新增</div>
+    </div>
+    <div class="stat-card stat-removed">
+      <div class="stat-value" id="stat-removed">--</div>
+      <div class="stat-label">今日剔除</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="stat-kept">--</div>
+      <div class="stat-label">保持入選</div>
+    </div>
+    <div class="stat-card stat-muted">
+      <div class="stat-value" id="stat-universe">--</div>
+      <div class="stat-label">掃描範圍</div>
+    </div>
+  </section>
+
+  <!-- 工具列 -->
+  <section class="toolbar">
+    <input type="text" id="search" placeholder="搜尋股票代碼或名稱..." class="search-input">
+    <div class="filter-group">
+      <button class="filter-btn active" data-filter="all">全部</button>
+      <button class="filter-btn" data-filter="new">新加入</button>
+      <button class="filter-btn" data-filter="kept">保持入選</button>
+    </div>
+    <div class="sort-info">按 <span id="sort-label">距MA50%</span> 排序</div>
+  </section>
+
+  <!-- 強勢股表格 -->
+  <section class="table-section">
+    <div class="section-title">
+      <h2>強勢股清單</h2>
+      <div class="legend">
+        <span class="legend-item"><span class="dot dot-new"></span>新加入</span>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table id="stocks-table">
+        <thead>
+          <tr>
+            <th data-sort="code">代碼</th>
+            <th data-sort="name">名稱</th>
+            <th data-sort="rs_rating" class="num active-sort">RS</th>
+            <th data-sort="streak" class="num">入選天數</th>
+            <th data-sort="close" class="num">收市價</th>
+            <th data-sort="above_ma50_pct" class="num">距均線</th>
+            <th data-sort="pct_5d" class="num">5日 %</th>
+            <th data-sort="pct_20d" class="num">20日 %</th>
+            <th data-sort="pct_from_52w_high" class="num">距52W高</th>
+            <th data-sort="ma50" class="num">MA50</th>
+            <th data-sort="ma100" class="num">MA100</th>
+            <th data-sort="ma200" class="num">MA200</th>
+            <th data-sort="avg_turnover_m" class="num">成交額(M)</th>
+            <th data-sort="category">類別</th>
+            <th data-sort="last_date">數據日期</th>
+          </tr>
+        </thead>
+        <tbody id="stocks-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 剔除股票區 -->
+  <section class="table-section removed-section" id="removed-section" style="display:none">
+    <div class="section-title">
+      <h2>今日剔除</h2>
+      <span class="legend-item"><span class="dot dot-removed"></span>不再符合準則</span>
+    </div>
+    <div class="table-wrap">
+      <table id="removed-table">
+        <thead>
+          <tr>
+            <th>代碼</th>
+            <th>名稱</th>
+            <th class="num">最後收市</th>
+            <th class="num">最後距MA50</th>
+            <th>最後在榜日</th>
+          </tr>
+        </thead>
+        <tbody id="removed-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div>數據來源：Yahoo Finance · 篩選邏輯：移動平均線趨勢 + 成交額過濾</div>
+  <div class="footer-note">本工具僅供研究用途，不構成投資建議。每個交易日收市後執行掃描，與前一日對比。</div>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

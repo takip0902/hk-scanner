@@ -1,0 +1,347 @@
+/* ============================================
+   港股強勢股 Scanner — 樣式
+   設計風格：金融儀表板 / 數據密集 / 高對比
+============================================ */
+
+:root {
+  /* 色彩系統 */
+  --bg: #0b0d10;
+  --bg-elev: #14181d;
+  --bg-elev-2: #1a1f26;
+  --border: #232a33;
+  --border-strong: #2e3742;
+  --text: #e6e9ee;
+  --text-soft: #a8b0bb;
+  --text-muted: #6b7380;
+
+  --accent: #e0c068;          /* 金色（港股氛圍）*/
+  --accent-soft: #b89a4a;
+  --new: #22c55e;             /* 綠色 = 新加入 */
+  --new-bg: rgba(34, 197, 94, 0.12);
+  --removed: #ef4444;         /* 紅色 = 剔除 */
+  --removed-bg: rgba(239, 68, 68, 0.10);
+  --up: #22c55e;
+  --down: #ef4444;
+
+  /* 字體 */
+  --font-sans: "Noto Sans TC", -apple-system, "Segoe UI", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* === 頂部 === */
+.topbar {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(11, 13, 16, 0.85);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.topbar-inner {
+  max-width: 1600px; margin: 0 auto;
+  padding: 16px 28px;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 24px; flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 12px; color: var(--accent); }
+.brand-title { font-size: 18px; font-weight: 600; color: var(--text); letter-spacing: 0.5px; }
+.brand-sub { font-size: 11px; color: var(--text-muted); font-family: var(--font-mono); letter-spacing: 1px; }
+
+.meta { display: flex; gap: 24px; }
+.meta-item { display: flex; flex-direction: column; }
+.meta-label { font-size: 10px; color: var(--text-muted); letter-spacing: 1.5px; text-transform: uppercase; }
+.meta-value { font-family: var(--font-mono); font-weight: 500; font-size: 14px; color: var(--text); margin-top: 2px; }
+
+main {
+  max-width: 1600px; margin: 0 auto;
+  padding: 24px 28px 60px;
+}
+
+/* === 篩選準則 === */
+.criteria {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 20px;
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.criteria-title {
+  font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--text-muted);
+}
+.criteria-list { display: flex; gap: 8px; flex-wrap: wrap; }
+.chip {
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border-strong);
+  padding: 6px 12px; border-radius: 6px;
+  font-size: 12px; font-family: var(--font-mono);
+  color: var(--text);
+}
+
+/* === 統計卡 === */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+.stat-card {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 18px 20px;
+}
+.stat-value {
+  font-family: var(--font-mono); font-size: 28px; font-weight: 600;
+  color: var(--text); line-height: 1;
+}
+.stat-label {
+  font-size: 12px; color: var(--text-soft);
+  margin-top: 6px; letter-spacing: 0.5px;
+}
+.stat-new .stat-value { color: var(--new); }
+.stat-removed .stat-value { color: var(--removed); }
+.stat-muted .stat-value { color: var(--text-soft); }
+
+/* === 工具列 === */
+.toolbar {
+  display: flex; gap: 12px; align-items: center;
+  margin-bottom: 16px; flex-wrap: wrap;
+}
+.search-input {
+  flex: 1; min-width: 220px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: var(--font-sans);
+  outline: none;
+  transition: border-color 0.15s;
+}
+.search-input:focus { border-color: var(--accent-soft); }
+.search-input::placeholder { color: var(--text-muted); }
+
+.filter-group { display: flex; gap: 6px; }
+.filter-btn {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text-soft);
+  padding: 9px 14px;
+  border-radius: 6px;
+  font-size: 13px; cursor: pointer;
+  font-family: var(--font-sans);
+  transition: all 0.15s;
+}
+.filter-btn:hover { color: var(--text); border-color: var(--border-strong); }
+.filter-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #1a1408; font-weight: 600;
+}
+
+.sort-info {
+  font-size: 12px; color: var(--text-muted);
+  font-family: var(--font-mono);
+}
+.sort-info span { color: var(--accent); }
+
+/* === 表格 === */
+.table-section { margin-bottom: 32px; }
+.section-title {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 12px;
+}
+.section-title h2 {
+  font-size: 16px; font-weight: 600;
+  color: var(--text); margin: 0;
+  letter-spacing: 0.3px;
+}
+.legend { display: flex; gap: 16px; }
+.legend-item {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; color: var(--text-soft);
+}
+.dot { width: 8px; height: 8px; border-radius: 50%; }
+.dot-new { background: var(--new); }
+.dot-removed { background: var(--removed); }
+
+.table-wrap {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  overflow-x: auto;
+}
+table {
+  width: 100%; border-collapse: collapse;
+  font-size: 13px;
+}
+thead {
+  background: var(--bg-elev-2);
+  border-bottom: 1px solid var(--border-strong);
+}
+th {
+  text-align: left; padding: 12px 14px;
+  font-weight: 500; font-size: 11px;
+  letter-spacing: 1px; text-transform: uppercase;
+  color: var(--text-muted);
+  cursor: pointer; user-select: none;
+  white-space: nowrap;
+  transition: color 0.15s;
+}
+th:hover { color: var(--text); }
+th.num { text-align: right; font-family: var(--font-mono); }
+th.active-sort { color: var(--accent); }
+th.active-sort::after { content: " ↓"; }
+th.active-sort.asc::after { content: " ↑"; }
+
+tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+}
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: var(--bg-elev-2); }
+
+/* 新加入 highlight */
+tbody tr.is-new {
+  background: var(--new-bg);
+  border-left: 3px solid var(--new);
+}
+tbody tr.is-new:hover { background: rgba(34, 197, 94, 0.18); }
+tbody tr.is-new td:first-child::before {
+  content: "NEW";
+  display: inline-block;
+  background: var(--new);
+  color: #051408;
+  font-size: 9px; font-weight: 700;
+  padding: 2px 6px; border-radius: 3px;
+  margin-right: 8px;
+  letter-spacing: 0.5px;
+  font-family: var(--font-mono);
+  vertical-align: middle;
+}
+
+/* 剔除股 */
+.removed-section .table-wrap { border-color: rgba(239, 68, 68, 0.25); }
+#removed-tbody tr {
+  background: var(--removed-bg);
+  border-left: 3px solid var(--removed);
+}
+#removed-tbody tr:hover { background: rgba(239, 68, 68, 0.16); }
+
+td {
+  padding: 12px 14px;
+  color: var(--text);
+}
+td.num { text-align: right; font-family: var(--font-mono); }
+td.code { font-family: var(--font-mono); font-weight: 600; color: var(--accent); }
+td.name { color: var(--text); }
+td.up { color: var(--up); }
+td.down { color: var(--down); }
+
+/* === 頁腳 === */
+footer {
+  max-width: 1600px; margin: 0 auto;
+  padding: 24px 28px;
+  border-top: 1px solid var(--border);
+  font-size: 12px; color: var(--text-muted);
+  text-align: center;
+}
+.footer-note { margin-top: 6px; font-size: 11px; }
+
+/* === 響應式 === */
+@media (max-width: 720px) {
+  main { padding: 16px; }
+  .topbar-inner { padding: 12px 16px; }
+  .meta { gap: 16px; }
+  th, td { padding: 10px 8px; font-size: 12px; }
+  .stat-value { font-size: 22px; }
+}
+
+/* 空狀態 */
+.empty-state {
+  padding: 60px 20px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+/* === V2 新欄位樣式 === */
+
+/* RS Rating */
+td.rs {
+  font-weight: 600;
+  font-size: 14px;
+}
+td.rs.rs-elite { color: #fbbf24; }   /* 90+ 金色 */
+td.rs.rs-strong { color: #22c55e; }  /* 80-89 綠色 */
+td.rs.rs-ok { color: #94a3b8; }      /* 70-79 灰色 */
+td.rs.rs-weak { color: #64748b; }    /* < 70 暗灰 */
+
+/* Streak counter */
+td.streak {
+  color: var(--text-soft);
+  font-size: 12px;
+}
+td.streak.streak-ok {
+  color: #60a5fa;
+  font-weight: 500;
+}
+td.streak.streak-strong {
+  color: #fbbf24;
+  font-weight: 600;
+}
+
+/* Category badge */
+.cat-std, .cat-new {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-family: var(--font-mono);
+}
+.cat-std {
+  background: rgba(148, 163, 184, 0.15);
+  color: #94a3b8;
+}
+.cat-new {
+  background: rgba(96, 165, 250, 0.15);
+  color: #60a5fa;
+  border: 1px solid rgba(96, 165, 250, 0.3);
+}
+
+/* 新股額外 chip */
+.chip-alt {
+  background: rgba(96, 165, 250, 0.1);
+  border-color: rgba(96, 165, 250, 0.3);
+  color: #60a5fa;
+}
+
+/* RS legend chip */
+.rs-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-right: 12px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.rs-legend-item .dot {
+  width: 6px;
+  height: 6px;
+}
