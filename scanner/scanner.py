@@ -276,15 +276,16 @@ def _build_result(ticker, df, close, avg_turnover, category, **extra):
 
 
 def apply_metadata(stocks: list, meta: dict) -> list:
-    """為每隻通過篩選嘅股票套用 metadata，並過濾市值 < 80 億嘅。"""
+    """為每隻通過篩選嘅股票套用 metadata，並過濾市值 < 80 億嘅。
+    冇 metadata 嘅股票會留低（不過濾），等下次 fetch 補返。"""
     filtered = []
     for s in stocks:
         m = meta.get(s["ticker"], {})
         market_cap = m.get("market_cap", 0)
-        # 過濾低市值
-        if market_cap and market_cap < MIN_MARKET_CAP:
+        # 只有當有真實市值資料時，先過濾
+        if market_cap > 0 and market_cap < MIN_MARKET_CAP:
             continue
-        # 套用名稱
+        # 套用名稱（如果 metadata 有；否則保持已有 fallback name）
         if m.get("name"):
             s["name"] = m["name"]
         s["market_cap"] = market_cap
@@ -421,39 +422,45 @@ def fetch_stock_info(ticker: str) -> dict | None:
 
 def update_metadata(tickers: list, force_refresh: bool = False) -> dict:
     """
-    更新 metadata cache。
-    對冇資料嘅股票 fetch info；force_refresh 會更新所有。
+    更新 metadata cache（增量）。每運行一次補多啲。
+    對冇 cache 嘅股票嘗試 fetch info；fetch 失敗會喺下次運行重試。
     """
     meta = load_metadata()
-    chinese_names = load_company_names()  # names.json 中文名
+    chinese_names = load_company_names()
     fetched = 0
     failed = 0
+    skipped = 0
+
+    # 限制每次最多 fetch 50 隻冇 cache 嘅，避免 rate limit
+    MAX_FETCH_PER_RUN = 50
+    fetch_count = 0
 
     for ticker in tickers:
         code = ticker.replace(".HK", "")
-        # 已有 cache 而且唔強制刷新 → 跳過
-        if not force_refresh and ticker in meta and meta[ticker].get("name_en"):
+        # 已有 cache 而且有市值 → 跳過
+        if not force_refresh and ticker in meta and meta[ticker].get("market_cap", 0) > 0:
+            skipped += 1
             continue
 
+        if fetch_count >= MAX_FETCH_PER_RUN:
+            break
+
         info = fetch_stock_info(ticker)
-        if info:
-            # 中文名優先
+        fetch_count += 1
+        if info and (info.get("name_en") or info.get("market_cap", 0) > 0):
             chinese = chinese_names.get(code, "")
-            info["name"] = chinese if chinese else info["name_en"]
+            info["name"] = chinese if chinese else info.get("name_en", code)
             meta[ticker] = info
             fetched += 1
-            if fetched % 50 == 0:
-                print(f"  Metadata 進度: {fetched} 隻已抓取")
+            if fetched % 10 == 0:
                 save_metadata(meta)  # 中途 save 防止失敗失去進度
-                time.sleep(0.5)
         else:
             failed += 1
-        # 避免 rate limit
-        time.sleep(0.05)
+        # 較長延遲避免 rate limit
+        time.sleep(0.3)
 
     save_metadata(meta)
-    if fetched or failed:
-        print(f"  Metadata 更新: {fetched} 成功, {failed} 失敗, 總共 {len(meta)} 隻")
+    print(f"  Metadata: {fetched} 新增, {failed} 失敗, {skipped} 用 cache, 總共 {len(meta)} 隻")
     return meta
 
 
@@ -562,15 +569,27 @@ def run_scan(explore: bool = False) -> dict:
     print(f"  其中標準股: {sum(1 for r in results if r['category'] == 'standard')}")
     print(f"  其中新股  : {sum(1 for r in results if r['category'] == 'new')}")
 
-    # 取得 metadata (名稱 + 市值)
+    # 先設定預設 name（fallback 防止 KeyError）
+    chinese_names = load_company_names()
+    for r in results:
+        r["name"] = chinese_names.get(r["code"], r["code"])
+        r["market_cap"] = 0
+        r["market_cap_b"] = 0
+        r["sector"] = ""
+
+    # 取得 metadata (名稱 + 市值) - 容錯處理
     print("更新 metadata...")
     qualified_tickers = [r["ticker"] for r in results]
-    meta = update_metadata(qualified_tickers)
+    try:
+        meta = update_metadata(qualified_tickers)
+    except Exception as e:
+        print(f"  Metadata 更新失敗: {e}, 使用 cache + 中文名")
+        meta = load_metadata()
 
-    # 套用 metadata + 市值過濾
+    # 套用 metadata + 市值過濾（容錯：冇 metadata 嘅留低）
     before_count = len(results)
     results = apply_metadata(results, meta)
-    print(f"市值過濾: {before_count} → {len(results)} (剔除市值 < 80 億)")
+    print(f"市值過濾: {before_count} → {len(results)} (有市值資料嘅剔除 < 80 億)")
 
     # 計算 RS Rating（只計留低嘅）
     print("計算相對強度排名...")
