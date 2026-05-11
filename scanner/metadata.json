@@ -8202,10 +8202,10 @@
     "sector": ""
   },
   "2823.HK": {
-    "name_en": "iShares Asia Trust - iShares FTSE A50 China Index ETF",
+    "name_en": "iShares FTSE China A50 ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares Asia Trust - iShares FTSE A50 China Index ETF"
+    "name": "2823"
   },
   "2826.HK": {
     "name_en": "Global X ETF Series - Global X China Cloud Computing ETF",
@@ -8226,10 +8226,10 @@
     "sector": ""
   },
   "2834.HK": {
-    "name_en": "iShares Asia Trust - iShares NASDAQ 100 Index ETF",
+    "name_en": "iShares NASDAQ 100 ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares Asia Trust - iShares NASDAQ 100 Index ETF"
+    "name": "2834"
   },
   "2835.HK": {
     "name_en": "Phillip Capital Management HK - Phillip HK New LST EQ",
@@ -8346,16 +8346,16 @@
     "sector": ""
   },
   "3010.HK": {
-    "name_en": "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF",
+    "name_en": "iShares Core MSCI Asia ex Japan ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF"
+    "name": "3010"
   },
   "3011.HK": {
-    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
+    "name_en": "ICBC CICC USD Money Market ETF USD",
     "market_cap": 0,
     "sector": "",
-    "name": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF"
+    "name": "3011"
   },
   "3020.HK": {
     "name_en": "Xtrackers - MSCI USA Swap UCITS ETF",
@@ -8403,7 +8403,7 @@
     "name_en": "CSOP Hong Kong Dollar Money Market ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "CSOP Hong Kong Dollar Money Market ETF"
+    "name": "3053"
   },
   "3064.HK": {
     "name_en": "Global X Exchange Traded Funds Series OFC - Global X MSCI Asia Pacific ex Japan ETF",
@@ -8418,10 +8418,10 @@
     "sector": ""
   },
   "3070.HK": {
-    "name_en": "Ping An of China Trust - Ping An of China CSI HK Dividend ETF",
+    "name_en": "Ping An of China CSI HK Dividend ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Ping An of China Trust - Ping An of China CSI HK Dividend ETF"
+    "name": "3070"
   },
   "3071.HK": {
     "name_en": "CICC Fund Series - CICC HKD Money Market ETF",
@@ -8430,10 +8430,10 @@
     "sector": ""
   },
   "3076.HK": {
-    "name_en": "Fubon NYSE FactSet Taiwan Core Semiconductor Index ETF",
+    "name_en": "Fubon ICE FactSet Taiwan Core Semiconductor Index ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Fubon NYSE FactSet Taiwan Core Semiconductor Index ETF"
+    "name": "3076"
   },
   "3084.HK": {
     "name_en": "Global X India Sector Leader Active ETF",
@@ -8445,7 +8445,7 @@
     "name_en": "ChinaAMC NASDAQ 100 ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "ChinaAMC NASDAQ 100 ETF"
+    "name": "3086"
   },
   "3087.HK": {
     "name_en": "Xtrackers - Vietnam Swap UCITS ETF 1C",
@@ -8499,13 +8499,13 @@
     "name_en": "ChinaAMC Asia High Dividend ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "ChinaAMC Asia High Dividend ETF"
+    "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
+    "name_en": "Bosera HKD Money Market ETF HKD Counter",
     "market_cap": 0,
     "sector": "",
-    "name": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF"
+    "name": "3152"
   },
   "3160.HK": {
     "name_en": "ChinaAMC MSCI Japan Hedged to USD",
@@ -8568,10 +8568,10 @@
     "sector": ""
   },
   "3191.HK": {
-    "name_en": "Global X ETF Series OFC - Global X China Semiconductor ETF",
+    "name_en": "Global X China Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Global X ETF Series OFC - Global X China Semiconductor ETF"
+    "name": "3191"
   },
   "3268.HK": {
     "name_en": "MEIG",
@@ -8694,10 +8694,10 @@
     "sector": ""
   },
   "3431.HK": {
-    "name_en": "Csop Etf Series - Csop Ftse Hk-korea Tech+ Index Etf",
+    "name_en": "CSOP FTSE HK-Korea Tech+ Index ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Csop Etf Series - Csop Ftse Hk-korea Tech+ Index Etf"
+    "name": "3431"
   },
   "3435.HK": {
     "name_en": "Hang Seng Cms Bloomberg Us Treasury 7-10 Year Index Etf",
@@ -8706,10 +8706,10 @@
     "sector": ""
   },
   "3437.HK": {
-    "name_en": "Bosera China Reform Hong Kong Central-SOEs High Dividend Yield Index ETF",
-    "name": "Bosera China Reform Hong Kong Central-SOEs High Dividend Yield Index ETF",
+    "name_en": "SOEs High Dividend Yield Index ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3437"
   },
   "3440.HK": {
     "name_en": "Global X Exchange Traded Funds Series OFC - Global X US Treasury 0-3 Month ETF",
@@ -8718,16 +8718,16 @@
     "sector": ""
   },
   "3448.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf",
+    "name_en": "Global X China Core TECH ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf"
+    "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
+    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf"
+    "name": "3451"
   },
   "3454.HK": {
     "name_en": "CSOP ETF Series - CSOP MAG Seven ETF",
@@ -8736,10 +8736,10 @@
     "sector": ""
   },
   "3466.HK": {
-    "name_en": "Hang Seng High Dividend 30 Index Etf",
+    "name_en": "Hang Seng High Dividend 30 Index ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Hang Seng High Dividend 30 Index Etf"
+    "name": "3466"
   },
   "3470.HK": {
     "name_en": "Global X Exchange Traded Funds Series OFC - Global X Ftse Greater China Etf",
@@ -10446,40 +10446,40 @@
     "name": "Champion Real Estate Investment Trust"
   },
   "2848.HK": {
-    "name_en": "Xtrackers - MSCI Korea UCITS ETF",
+    "name_en": "Xtrackers MSCI Korea UCITS ETF 1C",
     "market_cap": 0,
     "sector": "",
-    "name": "Xtrackers - MSCI Korea UCITS ETF"
+    "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
+    "name_en": "iShares Core MSCI Taiwan ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF"
+    "name": "3074"
   },
   "3132.HK": {
-    "name_en": "Samsung Bloomberg Global Semiconductor ETF",
+    "name_en": "SAMSUNG Bloomberg Global Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Samsung Bloomberg Global Semiconductor ETF"
+    "name": "3132"
   },
   "3151.HK": {
     "name_en": "Premia China STAR50 ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Premia China STAR50 ETF"
+    "name": "3151"
   },
   "3175.HK": {
-    "name_en": "Samsung ETFs Trust - Samsung S&P GSCI Crude Oil ER Futures ETF",
+    "name_en": "Samsung S&P GSCI Crude Oil ER Futures ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Samsung ETFs Trust - Samsung S&P GSCI Crude Oil ER Futures ETF"
+    "name": "3175"
   },
   "3190.HK": {
-    "name_en": "Fubon Shanghai-Shenzhen-Hong Kong High Dividend Yield ETF",
+    "name_en": "Fubon Hang Seng Shanghai-Shenzhen-Hong Kong (Selected Corporations) High Dividend Yield Index ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Fubon Shanghai-Shenzhen-Hong Kong High Dividend Yield ETF"
+    "name": "3190"
   },
   "3323.HK": {
     "name_en": "China National Building Material Company Limited",
@@ -10500,16 +10500,16 @@
     "name": "赤峰黃金"
   },
   "9747.HK": {
-    "name_en": "CSOP Leveraged and Inverse Series - CSOP Samsung Electronics Daily (2x) Leveraged Product",
+    "name_en": "CSOP Samsung Electronics Daily (2x) Leveraged Product",
     "market_cap": 0,
     "sector": "",
-    "name": "CSOP Leveraged and Inverse Series - CSOP Samsung Electronics Daily (2x) Leveraged Product"
+    "name": "9747"
   },
   "3109.HK": {
-    "name_en": "Csop Asset Management Limited - CSOP STAR 50 Index ETF",
+    "name_en": "CSOP ETF Series OFC - CSOP STAR 50 Index ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Csop Asset Management Limited - CSOP STAR 50 Index ETF"
+    "name": "3109"
   },
   "1883.HK": {
     "name_en": "CITIC Telecom International Holdings Limited",
@@ -10536,15 +10536,93 @@
     "name": "大新銀行集團"
   },
   "2809.HK": {
-    "name_en": "Global X ETF Series OFC - Global X China Clean Energy ETF",
+    "name_en": "Global X China Clean Energy ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Global X ETF Series OFC - Global X China Clean Energy ETF"
+    "name": "2809"
   },
   "1716.HK": {
     "name_en": "Most Kwai Chung Limited",
     "market_cap": 1944000000,
     "sector": "Communication Services",
     "name": "毛記葵涌"
+  },
+  "2339.HK": {
+    "name_en": "BeijingWest Industries International Limited",
+    "market_cap": 5763492864,
+    "sector": "Consumer Cyclical",
+    "name": "京西國際"
+  },
+  "2427.HK": {
+    "name_en": "Guanze Medical Information Industry (Holding) Co., Ltd.",
+    "market_cap": 5947000320,
+    "sector": "Healthcare",
+    "name": "GUANZE MEDICAL"
+  },
+  "2637.HK": {
+    "name_en": "Fujian Haixi Pharmaceuticals Co., Ltd.",
+    "market_cap": 19865714688,
+    "sector": "Healthcare",
+    "name": "海西新藥"
+  },
+  "2668.HK": {
+    "name_en": "Pak Tak International Limited",
+    "market_cap": 1942350080,
+    "sector": "Consumer Cyclical",
+    "name": "百德國際"
+  },
+  "2670.HK": {
+    "name_en": "Beijing Yunji Technology Co., Ltd.",
+    "market_cap": 24274108416,
+    "sector": "Industrials",
+    "name": "雲迹"
+  },
+  "2822.HK": {
+    "name_en": "CSOP FTSE China A50 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "2822"
+  },
+  "3119.HK": {
+    "name_en": "Global X Exchange Traded Funds Series OFC - Global X Asia Semiconductor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3119"
+  },
+  "3195.HK": {
+    "name_en": "Hang Seng S&P 500 Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3195"
+  },
+  "3302.HK": {
+    "name_en": "Kinergy Corporation Ltd.",
+    "market_cap": 395769184,
+    "sector": "Industrials",
+    "name": "精技集團"
+  },
+  "3483.HK": {
+    "name_en": "E Fund (HK) MSCI Asia Pacific Select High Dividend Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3483"
+  },
+  "9879.HK": {
+    "name_en": "Migao Group Holdings Limited",
+    "market_cap": 7280609792,
+    "sector": "Basic Materials",
+    "name": "米高集團"
+  },
+  "1720.HK": {
+    "name_en": "Putian Communication Group Limited",
+    "market_cap": 704000000,
+    "sector": "Technology",
+    "name": "普天通信集團"
+  },
+  "6600.HK": {
+    "name_en": "OneRobotics (Shenzhen) Co., Ltd.",
+    "market_cap": 25690595328,
+    "sector": "Technology",
+    "name": "臥安機器人"
   }
 }
