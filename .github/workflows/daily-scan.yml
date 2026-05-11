@@ -16,11 +16,8 @@ on:
           - explore           # 探索模式（重建 universe）
           - fetch_metadata    # 一次過 fetch 全部股票名稱+市值（10-15 分鐘）
           - refresh_names     # 從 HKEX 官方同步中文名（< 1 分鐘）
-  push:
-    branches: [main]
-    paths:
-      - 'scanner/**'
-      - '.github/workflows/daily-scan.yml'
+  # 注意：移除 push trigger，避免 commit 時自動跑 scanner 產生假信號
+  # 想跑就用 workflow_dispatch 手動觸發
 
 permissions:
   contents: write
