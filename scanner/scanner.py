@@ -601,16 +601,40 @@ def run_scan(explore: bool = False) -> dict:
     print("計算相對強度排名...")
     assign_rs_ratings(results, data)
 
-    # 對比前一日（用 baseline finder 修正週末 bug）
+    # 取得本次掃描嘅實際數據日期（最新 last_date）
+    current_last_dates = [r.get("last_date") for r in results if r.get("last_date")]
+    current_data_date = max(current_last_dates) if current_last_dates else None
+    print(f"本次數據日期: {current_data_date}")
+
+    # 對比前一日 - 用 last_date（實際收市日）做比較，唔係 scan_date
     prev = find_previous_baseline()
     prev_codes = set()
     prev_date = None
+    prev_data_date = None
     prev_stocks = []
     if prev:
         prev_stocks = prev.get("stocks", [])
         prev_codes = {s["code"] for s in prev_stocks}
         prev_date = prev.get("scan_date")
-        print(f"對比 baseline: {prev_date} ({len(prev_codes)} 隻)")
+        # 計算 baseline 嘅 last_date
+        prev_last_dates = [s.get("last_date") for s in prev_stocks if s.get("last_date")]
+        prev_data_date = max(prev_last_dates) if prev_last_dates else None
+        print(f"對比 baseline: scan={prev_date} data={prev_data_date} ({len(prev_codes)} 隻)")
+
+    # 🛡 保護：如果本次數據日期同 baseline 一樣，唔好覆蓋（避免產生假信號）
+    # 例外：第一次跑（冇 baseline）就照寫
+    if prev and current_data_date and prev_data_date and current_data_date == prev_data_date:
+        print(f"")
+        print(f"⚠️ 數據日期未更新（仍是 {current_data_date}），跳過本次寫入避免假信號")
+        print(f"   原因：港股可能未開市 / 收市數據未更新")
+        print(f"   data.json / data.js / streaks.json / history 都唔會被改動")
+        # 直接退出，唔覆蓋任何嘢
+        return {
+            "skipped": True,
+            "reason": "data_date_unchanged",
+            "current_data_date": current_data_date,
+            "prev_data_date": prev_data_date,
+        }
 
     current_codes = {r["code"] for r in results}
     new_codes = current_codes - prev_codes
@@ -674,4 +698,7 @@ if __name__ == "__main__":
     #   python scanner.py            # 快速模式（用 universe cache）
     #   python scanner.py --explore  # 探索模式（重建 universe）
     explore = "--explore" in sys.argv
-    run_scan(explore=explore)
+    result = run_scan(explore=explore)
+    if result.get("skipped"):
+        print(f"\n🛡 Scanner 跳過寫入。原因: {result.get('reason')}")
+        sys.exit(0)  # 正常退出，唔當 error
