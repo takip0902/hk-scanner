@@ -10714,5 +10714,23 @@
     "market_cap": 16985571328,
     "sector": "Industrials",
     "name": "太平洋航運"
+  },
+  "2768.HK": {
+    "name_en": "Qingdao Gon Technology Co., Ltd.",
+    "market_cap": 15589686272,
+    "sector": "Basic Materials",
+    "name": "國恩科技"
+  },
+  "3110.HK": {
+    "name_en": "Global X ETF Series - Global X Hang Seng High Dividend Yield ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3110"
+  },
+  "1837.HK": {
+    "name_en": "Natural Food International Holding Limited",
+    "market_cap": 3567277824,
+    "sector": "Consumer Defensive",
+    "name": "五谷磨房"
   }
 }
