@@ -10732,5 +10732,77 @@
     "market_cap": 3567277824,
     "sector": "Consumer Defensive",
     "name": "五谷磨房"
+  },
+  "1286.HK": {
+    "name_en": "Impro Precision Industries Limited",
+    "market_cap": 20307193856,
+    "sector": "Industrials",
+    "name": "鷹普精密"
+  },
+  "1571.HK": {
+    "name_en": "Xin Point Holdings Limited",
+    "market_cap": 4536529920,
+    "sector": "Consumer Cyclical",
+    "name": "信邦控股"
+  },
+  "1905.HK": {
+    "name_en": "Haitong Unitrust International Financial Leasing Co., Ltd.",
+    "market_cap": 6341180928,
+    "sector": "Financial Services",
+    "name": "海通恆信"
+  },
+  "2691.HK": {
+    "name_en": "NANHUA FUTURES",
+    "market_cap": 7679655936,
+    "sector": "Financial Services",
+    "name": "南華期貨股份"
+  },
+  "2865.HK": {
+    "name_en": "Hainan Drinda New Energy Technology Co., Ltd.",
+    "market_cap": 13154102272,
+    "sector": "Technology",
+    "name": "鈞達股份"
+  },
+  "2889.HK": {
+    "name_en": "PATEO CONNECT Technology (Shanghai) Corporation",
+    "market_cap": 24898547712,
+    "sector": "Technology",
+    "name": "博泰車聯"
+  },
+  "2631.HK": {
+    "name_en": "SICC Co., Ltd.",
+    "market_cap": 62370406400,
+    "sector": "Technology",
+    "name": "天岳先進"
+  },
+  "2632.HK": {
+    "name_en": "Jiangsu New Vision Automotive",
+    "market_cap": 13857288192,
+    "sector": "Technology",
+    "name": "澤景股份"
+  },
+  "1866.HK": {
+    "name_en": "China XLX Fertiliser Ltd.",
+    "market_cap": 14888263680,
+    "sector": "Basic Materials",
+    "name": "中國心連心化肥"
+  },
+  "3455.HK": {
+    "name_en": "Invesco QQQ Trust, Series 1",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3455"
+  },
+  "3097.HK": {
+    "name_en": "Global X ETF Series II - Global X S&P Crude Oil Futures Enhanced ER ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3097"
+  },
+  "6636.HK": {
+    "name_en": "Shandong Extreme Vision Technology Co., Ltd.",
+    "market_cap": 12093172736,
+    "sector": "Technology",
+    "name": "極視角"
   }
 }
