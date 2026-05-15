@@ -435,7 +435,7 @@ def update_metadata(tickers: list, force_refresh: bool = False) -> dict:
     skipped = 0
 
     # 限制每次最多 fetch 50 隻冇 cache 嘅，避免 rate limit
-    MAX_FETCH_PER_RUN = 50
+    MAX_FETCH_PER_RUN = 200  # 美股版調高: 每次跑 fetch 200 隻 metadata
     fetch_count = 0
 
     for ticker in tickers:
