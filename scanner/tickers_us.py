@@ -64,6 +64,61 @@ def fetch_nasdaq100() -> List[str]:
         return []
 
 
+def fetch_nasdaq_listed() -> List[str]:
+    """從 NASDAQ Trader 官方拎所有 NASDAQ 上市股 (包 NBIS、CRWV 等新 IPO)"""
+    try:
+        url = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
+        req = urllib.request.Request(url, headers=USER_AGENT)
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = resp.read().decode('utf-8', errors='ignore')
+        symbols = set()
+        for line in data.strip().split('\n')[1:]:  # skip header
+            parts = line.split('|')
+            if not parts or not parts[0]:
+                continue
+            sym = parts[0].strip()
+            # Skip metadata line
+            if 'File Creation' in sym or len(sym) > 6:
+                continue
+            # Skip test issues (Y in column 3)
+            if len(parts) > 3 and parts[3] == 'Y':
+                continue
+            # Only normal symbols (letters + maybe dash)
+            if sym.replace('-', '').replace('.', '').isalpha():
+                # yfinance format: BRK.A -> BRK-A
+                symbols.add(sym.replace('.', '-'))
+        return sorted(symbols)
+    except Exception as e:
+        print(f"  NASDAQ listed fetch 失敗: {e}")
+        return []
+
+
+def fetch_nyse_amex_listed() -> List[str]:
+    """從 NASDAQ Trader 官方拎 NYSE / AMEX 上市股"""
+    try:
+        url = "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
+        req = urllib.request.Request(url, headers=USER_AGENT)
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = resp.read().decode('utf-8', errors='ignore')
+        symbols = set()
+        for line in data.strip().split('\n')[1:]:
+            parts = line.split('|')
+            if not parts or not parts[0]:
+                continue
+            sym = parts[0].strip()
+            if 'File Creation' in sym or len(sym) > 6:
+                continue
+            # Skip test issues
+            if len(parts) > 6 and parts[6] == 'Y':
+                continue
+            if sym.replace('-', '').replace('.', '').isalpha():
+                symbols.add(sym.replace('.', '-'))
+        return sorted(symbols)
+    except Exception as e:
+        print(f"  NYSE/AMEX listed fetch 失敗: {e}")
+        return []
+
+
 def fetch_russell1000() -> List[str]:
     """從 iShares IWB ETF 抓 Russell 1000 holdings"""
     try:
@@ -89,6 +144,33 @@ def fetch_russell1000() -> List[str]:
         return [s for s in symbols if isinstance(s, str) and s and s != '-']
     except Exception as e:
         print(f"  Russell 1000 fetch 失敗: {e}")
+        return []
+
+
+def fetch_russell3000() -> List[str]:
+    """從 iShares IWV ETF 抓 Russell 3000 holdings (覆蓋 98% 美股)"""
+    try:
+        url = ("https://www.ishares.com/us/products/239714/ishares-russell-3000-etf/"
+               "1467271812596.ajax?fileType=csv&fileName=IWV_holdings&dataType=fund")
+        req = urllib.request.Request(url, headers=USER_AGENT)
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = resp.read().decode('utf-8', errors='ignore')
+        lines = data.split('\n')
+        header_idx = None
+        for i, line in enumerate(lines):
+            if line.startswith('Ticker') or '"Ticker"' in line:
+                header_idx = i
+                break
+        if header_idx is None:
+            return []
+        csv_text = '\n'.join(lines[header_idx:])
+        df = pd.read_csv(io.StringIO(csv_text))
+        if 'Asset Class' in df.columns:
+            df = df[df['Asset Class'].str.contains('Equity', na=False, case=False)]
+        symbols = df['Ticker'].astype(str).str.replace(".", "-", regex=False).tolist()
+        return [s for s in symbols if isinstance(s, str) and s.replace('-', '').isalpha() and 1 <= len(s) <= 6]
+    except Exception as e:
+        print(f"  Russell 3000 fetch 失敗: {e}")
         return []
 
 
@@ -150,12 +232,29 @@ def build_universe() -> dict:
     sources['nasdaq100'] = ndx
     print(f"   ✓ {len(ndx)} stocks")
 
-    print("3. Fetching Russell 1000 (iShares IWB)...")
-    russ = fetch_russell1000()
-    sources['russell1000'] = russ
-    print(f"   ✓ {len(russ)} stocks")
+    print("3. Fetching NASDAQ listed (包 NBIS、CRWV、所有新 IPO)...")
+    nasdaq_all = fetch_nasdaq_listed()
+    sources['nasdaq_listed'] = nasdaq_all
+    print(f"   ✓ {len(nasdaq_all)} stocks")
 
-    print("4. IPO universe (will be detected via yfinance firstTradeDate)...")
+    print("4. Fetching NYSE/AMEX listed (傳統大藍籌)...")
+    nyse_all = fetch_nyse_amex_listed()
+    sources['nyse_amex_listed'] = nyse_all
+    print(f"   ✓ {len(nyse_all)} stocks")
+
+    print("5. Russell 3000 (overlap，補 cover 萬一前 2 個失敗)...")
+    russ3000 = fetch_russell3000()
+    sources['russell3000'] = russ3000
+    print(f"   ✓ {len(russ3000)} stocks")
+
+    # Russell 1000 fallback
+    if len(nasdaq_all) + len(nyse_all) < 3000:
+        print("6. Fallback: Russell 1000")
+        russ1000 = fetch_russell1000()
+        sources['russell1000'] = russ1000
+        print(f"   ✓ {len(russ1000)} stocks")
+
+    print("7. IPO universe (detected via yfinance firstTradeDate)...")
     ipos = fetch_recent_ipos()
     sources['recent_ipos'] = ipos
     print(f"   ✓ {len(ipos)} IPO candidates")
