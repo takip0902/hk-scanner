@@ -1,23 +1,25 @@
-name: 港股強勢股每日掃描
+name: 港美股強勢股每日掃描
 
 on:
   schedule:
-    - cron: '30 9 * * 1-5'   # 平日 17:30 HKT - 快速模式
-    - cron: '0 2 * * 0'      # 週日 10:00 HKT - 探索模式
+    - cron: '30 9 * * 1-5'    # 港股 HKT 17:30 (UTC 09:30)
+    - cron: '0 11 * * 1-5'    # 港股 HKT 19:00 backup
+    - cron: '0 22 * * 1-5'    # 美股 HKT 06:00 隔日 (UTC 22:00 = ET 18:00 收市後)
+    - cron: '0 2 * * 0'       # 港股週日 10:00 探索
   workflow_dispatch:
     inputs:
+      market:
+        description: '市場'
+        required: false
+        default: 'both'
+        type: choice
+        options: ['both', 'hk', 'us']
       mode:
         description: '運行模式'
         required: false
         default: 'fast'
         type: choice
-        options:
-          - fast              # 快速模式（用 cache + 邊緣探索）
-          - explore           # 探索模式（重建 universe）
-          - fetch_metadata    # 一次過 fetch 全部股票名稱+市值（10-15 分鐘）
-          - refresh_names     # 從 HKEX 官方同步中文名（< 1 分鐘）
-  # 注意：移除 push trigger，避免 commit 時自動跑 scanner 產生假信號
-  # 想跑就用 workflow_dispatch 手動觸發
+        options: ['fast', 'explore', 'fetch_metadata', 'refresh_names']
 
 permissions:
   contents: write
@@ -43,55 +45,83 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 判斷模式
-        id: mode
+      - name: 判斷模式 + 市場
+        id: setup
         run: |
           MODE="${{ inputs.mode }}"
-          if [[ "${{ github.event_name }}" == "schedule" && "${{ github.event.schedule }}" == "0 2 * * 0" ]]; then
-            MODE="explore"
-          elif [[ -z "$MODE" ]]; then
-            MODE="fast"
+          MARKET="${{ inputs.market }}"
+
+          # 根據 schedule trigger 自動決定
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            SCHED="${{ github.event.schedule }}"
+            if [[ "$SCHED" == "0 22 * * 1-5" ]]; then
+              # 美股收市後
+              MARKET="us"
+              MODE="fast"
+            elif [[ "$SCHED" == "0 2 * * 0" ]]; then
+              # 港股週日探索
+              MARKET="hk"
+              MODE="explore"
+            else
+              # 港股平日
+              MARKET="hk"
+              MODE="fast"
+            fi
           fi
+
+          MODE="${MODE:-fast}"
+          MARKET="${MARKET:-both}"
           echo "MODE=$MODE" >> $GITHUB_OUTPUT
-          echo "運行模式: $MODE"
+          echo "MARKET=$MARKET" >> $GITHUB_OUTPUT
+          echo "運行: market=$MARKET, mode=$MODE"
 
-      - name: 一次過 fetch metadata（如選 fetch_metadata 模式）
-        if: steps.mode.outputs.MODE == 'fetch_metadata'
+      # ====== HK Scanner ======
+      - name: 港股掃描
+        if: steps.setup.outputs.MARKET == 'hk' || steps.setup.outputs.MARKET == 'both'
         run: |
           cd scanner
-          python fetch_metadata.py
-
-      - name: 從 HKEX 同步中文名（如選 refresh_names 模式）
-        if: steps.mode.outputs.MODE == 'refresh_names'
-        run: |
-          cd scanner
-          python refresh_names.py
-
-      - name: 執行掃描（只有 fast / explore 模式走這裡）
-        if: steps.mode.outputs.MODE == 'fast' || steps.mode.outputs.MODE == 'explore'
-        run: |
-          cd scanner
-          if [[ "${{ steps.mode.outputs.MODE }}" == "explore" ]]; then
-            python scanner.py --explore
+          MODE="${{ steps.setup.outputs.MODE }}"
+          if [[ "$MODE" == "explore" ]]; then
+            python scanner.py --explore || true
+          elif [[ "$MODE" == "fetch_metadata" ]]; then
+            python fetch_metadata.py || true
+            python scanner.py || true
+          elif [[ "$MODE" == "refresh_names" ]]; then
+            python refresh_names.py || true
+            python scanner.py || true
           else
-            python scanner.py
+            python scanner.py || true
           fi
 
-      - name: 跑掃描以套用新 metadata（fetch_metadata / refresh_names 之後）
-        if: steps.mode.outputs.MODE == 'fetch_metadata' || steps.mode.outputs.MODE == 'refresh_names'
+      # ====== US Scanner ======
+      - name: 美股掃描
+        if: steps.setup.outputs.MARKET == 'us' || steps.setup.outputs.MARKET == 'both'
         run: |
           cd scanner
-          python scanner.py
+          MODE="${{ steps.setup.outputs.MODE }}"
+          if [[ "$MODE" == "explore" ]]; then
+            # 美股 explore = rebuild universe
+            python tickers_us.py
+            python scanner_us.py || true
+          else
+            python scanner_us.py || true
+          fi
 
       - name: 提交結果到 repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/data.json site/data.js site/history/ site/streaks.json scanner/universe_cache.json scanner/metadata.json scanner/names.json 2>/dev/null || true
+          git add site/data.json site/data.js site/data_us.json site/data_us.js \
+                  site/history/ site/history_us/ \
+                  site/streaks.json site/streaks_us.json \
+                  scanner/universe_cache.json scanner/universe_cache_us.json \
+                  scanner/metadata.json scanner/metadata_us.json \
+                  scanner/names.json scanner/names_us.json \
+                  scanner/universe_us.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "沒有數據變動，跳過 commit"
           else
-            git commit -m "📈 每日掃描更新 $(date -u +%Y-%m-%d) [${{ steps.mode.outputs.MODE }}]"
+            git commit -m "📈 ${MARKET:-both} 掃描更新 $(date -u +%Y-%m-%d)"
             git push
           fi
 
