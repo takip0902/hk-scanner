@@ -345,3 +345,34 @@ td.streak.streak-strong {
   width: 6px;
   height: 6px;
 }
+
+
+/* === 港美股 Tab 切換 === */
+.market-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 12px 28px;
+  border-top: 1px solid var(--border);
+  background: var(--bg-elev);
+}
+.market-tab {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-soft);
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  transition: all 0.15s;
+}
+.market-tab:hover {
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+.market-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #1a1408;
+  font-weight: 600;
+}
