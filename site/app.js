@@ -2,6 +2,7 @@
 
 let state = {
   data: null,
+  market: 'hk',
   filter: 'all',
   search: '',
   sortKey: 'rs_rating',
@@ -39,20 +40,40 @@ const SORT_LABELS = {
 };
 
 async function loadData() {
-  // 優先讀取 inline 數據（離線可用），否則 fetch JSON
-  if (window.SCANNER_DATA) {
-    state.data = window.SCANNER_DATA;
-    renderAll();
-    return;
-  }
-  try {
-    const res = await fetch('data.json?t=' + Date.now());
-    if (!res.ok) throw new Error('無法載入數據');
-    state.data = await res.json();
-    renderAll();
-  } catch (err) {
-    document.getElementById('stocks-tbody').innerHTML =
-      `<tr><td colspan="16" class="empty-state">數據載入失敗：${esc(err.message)}</td></tr>`;
+  // 根據而家揀緊邊個 market 載入對應數據
+  if (state.market === 'us') {
+    if (window.SCANNER_DATA_US) {
+      state.data = window.SCANNER_DATA_US;
+      renderAll();
+      return;
+    }
+    try {
+      const res = await fetch('data_us.json?t=' + Date.now());
+      if (!res.ok) throw new Error('無法載入美股數據');
+      state.data = await res.json();
+      renderAll();
+    } catch (err) {
+      state.data = null;
+      document.getElementById('stocks-tbody').innerHTML =
+        `<tr><td colspan="16" class="empty-state">美股數據未準備好</td></tr>`;
+    }
+  } else {
+    // HK
+    if (window.SCANNER_DATA) {
+      state.data = window.SCANNER_DATA;
+      renderAll();
+      return;
+    }
+    try {
+      const res = await fetch('data.json?t=' + Date.now());
+      if (!res.ok) throw new Error('無法載入數據');
+      state.data = await res.json();
+      renderAll();
+    } catch (err) {
+      state.data = null;
+      document.getElementById('stocks-tbody').innerHTML =
+        `<tr><td colspan="16" class="empty-state">港股數據載入失敗</td></tr>`;
+    }
   }
 }
 
@@ -212,6 +233,30 @@ document.querySelectorAll('th[data-sort]').forEach(th => {
       state.sortDir = (key === 'code' || key === 'name' || key === 'last_date') ? 'asc' : 'desc';
     }
     renderTable();
+  });
+});
+
+// 港美股 Tab 切換
+document.querySelectorAll('.market-tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.market-tab').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.market = btn.dataset.market;
+    state.search = '';
+    document.getElementById('search').value = '';
+
+    // 切換 chips 顯示
+    const chipsHk = document.getElementById('chips-hk');
+    const chipsUs = document.getElementById('chips-us');
+    if (chipsHk && chipsUs) {
+      chipsHk.style.display = state.market === 'hk' ? '' : 'none';
+      chipsUs.style.display = state.market === 'us' ? '' : 'none';
+    }
+    // 切換頂部品牌字
+    const brand = document.querySelector('.brand-title');
+    if (brand) brand.textContent = state.market === 'us' ? '美股強勢股 Scanner' : '港股強勢股 Scanner';
+
+    loadData();
   });
 });
 
