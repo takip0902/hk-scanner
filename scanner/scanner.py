@@ -601,10 +601,18 @@ def run_scan(explore: bool = False) -> dict:
     print("計算相對強度排名...")
     assign_rs_ratings(results, data)
 
-    # 取得本次掃描嘅實際數據日期（最新 last_date）
+    # 取得本次掃描嘅實際數據日期
+    # 用「mode (最常見)」而唔係「max」，避免 partial update 假新
     current_last_dates = [r.get("last_date") for r in results if r.get("last_date")]
-    current_data_date = max(current_last_dates) if current_last_dates else None
-    print(f"本次數據日期: {current_data_date}")
+    if current_last_dates:
+        from collections import Counter
+        date_counts = Counter(current_last_dates)
+        # 取最常見嘅日期作 baseline (代表大多數股票嘅數據日)
+        current_data_date = date_counts.most_common(1)[0][0]
+        max_date = max(current_last_dates)
+        print(f"本次數據日期 (mode): {current_data_date}, max: {max_date}, 樣本分佈: {dict(date_counts.most_common(3))}")
+    else:
+        current_data_date = None
 
     # 對比前一日 - 用 last_date（實際收市日）做比較，唔係 scan_date
     prev = find_previous_baseline()
@@ -621,9 +629,9 @@ def run_scan(explore: bool = False) -> dict:
         prev_data_date = max(prev_last_dates) if prev_last_dates else None
         print(f"對比 baseline: scan={prev_date} data={prev_data_date} ({len(prev_codes)} 隻)")
 
-    # 🛡 保護：如果本次數據日期同 baseline 一樣，唔好覆蓋（避免產生假信號）
-    # 例外：第一次跑（冇 baseline）就照寫
-    if prev and current_data_date and prev_data_date and current_data_date == prev_data_date:
+    # 🛡 保護：本次數據日期必須嚴格新過 baseline 至少 1 日，先寫入
+    # 避免：(1) 同日重跑、(2) partial update (e.g. yfinance 部分股有新日期但大部分仲係舊嘅)
+    if prev and current_data_date and prev_data_date and current_data_date <= prev_data_date:
         print(f"")
         print(f"⚠️ 數據日期未更新（仍是 {current_data_date}），跳過本次寫入避免假信號")
         print(f"   原因：港股可能未開市 / 收市數據未更新")
