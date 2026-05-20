@@ -561,6 +561,21 @@ def run_scan(explore: bool = False) -> dict:
     tickers = get_all_tickers()
     data = fetch_data(tickers, explore=explore)
 
+    # 🛡 保護 1：Coverage gate — 避免 yfinance 大規模 fetch fail 寫入假數據
+    coverage_ratio = len(data) / max(len(tickers), 1)
+    MIN_COVERAGE_RATIO = 0.30
+    if len(tickers) > 100 and coverage_ratio < MIN_COVERAGE_RATIO:
+        print(f"")
+        print(f"⚠️ Coverage 太低：{len(data)}/{len(tickers)} = {coverage_ratio:.1%} < {MIN_COVERAGE_RATIO:.0%}")
+        print(f"   yfinance 大規模 fetch fail，跳過寫入避免覆蓋 baseline")
+        return {
+            "skipped": True,
+            "reason": "low_coverage",
+            "coverage_ratio": coverage_ratio,
+            "data_available": len(data),
+            "universe_size": len(tickers),
+        }
+
     print(f"\n開始篩選...")
     results = []
     for ticker, df in data.items():
@@ -629,8 +644,38 @@ def run_scan(explore: bool = False) -> dict:
         prev_data_date = max(prev_last_dates) if prev_last_dates else None
         print(f"對比 baseline: scan={prev_date} data={prev_data_date} ({len(prev_codes)} 隻)")
 
-    # 🛡 保護：本次數據日期必須嚴格新過 baseline 至少 1 日，先寫入
-    # 避免：(1) 同日重跑、(2) partial update (e.g. yfinance 部分股有新日期但大部分仲係舊嘅)
+    # 🛡 保護 2：Mode ratio — mode 日期必須佔至少 60% sample
+    if current_last_dates and current_data_date:
+        mode_count = date_counts[current_data_date]
+        mode_ratio = mode_count / len(current_last_dates)
+        MIN_MODE_RATIO = 0.60
+        if mode_ratio < MIN_MODE_RATIO:
+            print(f"")
+            print(f"⚠️ Mode ratio 太低：{current_data_date} {mode_count}/{len(current_last_dates)} = {mode_ratio:.1%} < {MIN_MODE_RATIO:.0%}")
+            print(f"   yfinance partial update，數據不一致，跳過寫入")
+            return {
+                "skipped": True,
+                "reason": "low_mode_ratio",
+                "current_data_date": current_data_date,
+                "mode_ratio": mode_ratio,
+                "sample_size": len(current_last_dates),
+            }
+
+    # 🛡 保護 3：Result floor — 審出太少隻表示不正常
+    MIN_RESULTS = 50
+    if prev and len(prev_codes) > MIN_RESULTS and len(results) < MIN_RESULTS:
+        print(f"")
+        print(f"⚠️ 結果太少：{len(results)} 隻 < {MIN_RESULTS}（baseline 有 {len(prev_codes)} 隻）")
+        print(f"   不正常總果，跳過寫入避免覆蓋 baseline")
+        return {
+            "skipped": True,
+            "reason": "too_few_results",
+            "current_results": len(results),
+            "prev_results": len(prev_codes),
+        }
+
+    # 🛡 保護 4：本次數據日期必須嚴格新過 baseline 至少 1 日，先寫入
+    # 避免：(1) 同日重跑、(2) partial update
     if prev and current_data_date and prev_data_date and current_data_date <= prev_data_date:
         print(f"")
         print(f"⚠️ 數據日期未更新（仍是 {current_data_date}），跳過本次寫入避免假信號")
