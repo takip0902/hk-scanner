@@ -8329,9 +8329,9 @@
   },
   "3003.HK": {
     "name_en": "CSOP Asset Management Limited-CSOP MSCI China A 50 Connect ETF",
-    "name": "CSOP Asset Management Limited-CSOP MSCI China A 50 Connect ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3003"
   },
   "3004.HK": {
     "name_en": "CSOP ETF Series OFC - CSOP FTSE Vietnam 30 ETF",
@@ -10804,5 +10804,71 @@
     "market_cap": 12093172736,
     "sector": "Technology",
     "name": "極視角"
+  },
+  "1334.HK": {
+    "name_en": "Ruichang International Holdings Limited",
+    "market_cap": 1215000064,
+    "sector": "Industrials",
+    "name": "瑞昌國際控股"
+  },
+  "1348.HK": {
+    "name_en": "Quali-Smart Holdings Limited",
+    "market_cap": 464383104,
+    "sector": "Consumer Cyclical",
+    "name": "滉達富控股"
+  },
+  "1451.HK": {
+    "name_en": "MS Group Holdings Limited",
+    "market_cap": 233016000,
+    "sector": "Consumer Cyclical",
+    "name": "萬成集團股份"
+  },
+  "1631.HK": {
+    "name_en": "REF Holdings Limited",
+    "market_cap": 399360000,
+    "sector": "Industrials",
+    "name": "REF HOLDINGS"
+  },
+  "1735.HK": {
+    "name_en": "Central New Energy Holding Group Limited",
+    "market_cap": 40846082048,
+    "sector": "Industrials",
+    "name": "中環新能源"
+  },
+  "2589.HK": {
+    "name_en": "Auntea Jenny (Shanghai) Industrial Co., Ltd.",
+    "market_cap": 24066101248,
+    "sector": "Consumer Cyclical",
+    "name": "滬上阿姨"
+  },
+  "2658.HK": {
+    "name_en": "Guangdong Tianyu Semiconductor Co., Ltd.",
+    "market_cap": 18853292032,
+    "sector": "Technology",
+    "name": "天域半導體"
+  },
+  "3321.HK": {
+    "name_en": "ZhongKe Group Holdings Limited",
+    "market_cap": 118834488,
+    "sector": "Industrials",
+    "name": "中科集團控股"
+  },
+  "6933.HK": {
+    "name_en": "Sino-Entertainment Technology Holdings Limited",
+    "market_cap": 346682272,
+    "sector": "Communication Services",
+    "name": "新娛科控股"
+  },
+  "6939.HK": {
+    "name_en": "MEGAIN Holding (Cayman) Co., Ltd.",
+    "market_cap": 1120500096,
+    "sector": "Technology",
+    "name": "美佳音控股"
+  },
+  "1995.HK": {
+    "name_en": "Ever Sunshine Services Group Limited",
+    "market_cap": 3108135680,
+    "sector": "Real Estate",
+    "name": "永升服務"
   }
 }
