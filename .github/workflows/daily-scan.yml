@@ -156,7 +156,7 @@ jobs:
           else
             echo ""
             echo "==== 開始 commit + push ===="
-            git commit -m "📈 ${MARKET:-both} 掃描更新 $(date -u +%Y-%m-%d %H:%M UTC)"
+            git commit -m "📈 ${MARKET:-both} 掃描更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
             echo "==== commit hash ===="
             git log -1 --oneline
             echo "==== push 結果 ===="
