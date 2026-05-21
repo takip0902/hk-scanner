@@ -107,22 +107,62 @@ jobs:
             python scanner_us.py || true
           fi
 
+      - name: 診斷 — 掃描輸出嘅 site/ 現狀
+        run: |
+          echo "==== site/ 文件列表 ===="
+          ls -la site/*.json site/*.js 2>&1 || echo "某些文件不存在"
+          echo ""
+          echo "==== data.json 首 200 字 ===="
+          head -c 200 site/data.json 2>&1 || echo "data.json 讀不到"
+          echo ""
+          echo "==== data_us.json 首 200 字 ===="
+          head -c 200 site/data_us.json 2>&1 || echo "data_us.json 讀不到"
+          echo ""
+
       - name: 提交結果到 repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/data.json site/data.js site/data_us.json site/data_us.js \
-                  site/history/ site/history_us/ \
-                  site/streaks.json site/streaks_us.json \
-                  scanner/universe_cache.json scanner/universe_cache_us.json \
-                  scanner/metadata.json scanner/metadata_us.json \
-                  scanner/names.json scanner/names_us.json \
-                  scanner/universe_us.json 2>/dev/null || true
+
+          echo "==== 未 stage 前：git status ===="
+          git status --short
+
+          echo ""
+          echo "==== 逐一 add（顯示咩文件存在 / 咩文件不存在）===="
+          for f in site/data.json site/data.js site/data_us.json site/data_us.js \
+                   site/streaks.json site/streaks_us.json \
+                   scanner/universe_cache.json scanner/universe_cache_us.json \
+                   scanner/metadata.json scanner/metadata_us.json \
+                   scanner/names.json scanner/names_us.json \
+                   scanner/universe_us.json; do
+            if [ -e "$f" ]; then
+              git add "$f" && echo "  ✅ add $f"
+            else
+              echo "  ✘ 冇: $f"
+            fi
+          done
+          # 目錄分開 add
+          [ -d site/history ] && git add site/history/ && echo "  ✅ add site/history/"
+          [ -d site/history_us ] && git add site/history_us/ && echo "  ✅ add site/history_us/"
+
+          echo ""
+          echo "==== Staged changes 摘要 ===="
+          git diff --staged --stat
+
           if git diff --staged --quiet; then
-            echo "沒有數據變動，跳過 commit"
+            echo ""
+            echo "⚠️ 沒有數據變動，跳過 commit"
+            echo "   可能原因：scanner 被保護機制 skip / 計到咩 result 跟 repo 一樣"
           else
-            git commit -m "📈 ${MARKET:-both} 掃描更新 $(date -u +%Y-%m-%d)"
-            git push
+            echo ""
+            echo "==== 開始 commit + push ===="
+            git commit -m "📈 ${MARKET:-both} 掃描更新 $(date -u +%Y-%m-%d %H:%M UTC)"
+            echo "==== commit hash ===="
+            git log -1 --oneline
+            echo "==== push 結果 ===="
+            git push 2>&1
+            echo "==== push 之後嘅 git log ===="
+            git log -3 --oneline
           fi
 
       - name: 設定 GitHub Pages
