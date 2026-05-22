@@ -694,6 +694,52 @@ def run_scan(explore: bool = False) -> dict:
     removed_codes = prev_codes - current_codes
     kept_codes = current_codes & prev_codes
 
+    # 🛡 保護 5：Per-stock stale guard — yfinance partial fail 保護
+    # 某些股股票今次 yfinance 拿不到 fresh data（last_date 舊過 current_data_date），
+    # 舊數據會 fail screening 遺變 removed。該隻股可能仍係強勢，不應錠誤列入 removed。
+    # 修補：如果 baseline 入面的股票，但這次 fetched data 舊過 current_data_date，
+    # 保留 baseline 狀態，不列入 removed。
+    rescued_codes = set()
+    if current_data_date and prev_codes:
+        from datetime import datetime as _dt
+        try:
+            current_data_dt = _dt.strptime(current_data_date, "%Y-%m-%d")
+        except Exception:
+            current_data_dt = None
+
+        if current_data_dt:
+            for code in list(removed_codes):
+                # 查這隻 baseline 股票今次 fetched data 嘅 last_date
+                # data dict key 係 ticker (e.g. "2513.HK")
+                # 嘅 baseline stock dict 有 "ticker" 欄
+                baseline_stock = next((s for s in prev_stocks if s.get("code") == code), None)
+                if not baseline_stock:
+                    continue
+                ticker = baseline_stock.get("ticker")
+                fetched_df = data.get(ticker) if ticker else None
+                if fetched_df is None or len(fetched_df) == 0:
+                    # yfinance 未能 fetch 到這隻股，保留 baseline 狀態
+                    rescued_codes.add(code)
+                    continue
+                try:
+                    fetched_last = str(fetched_df.index[-1].date())
+                    fetched_last_dt = _dt.strptime(fetched_last, "%Y-%m-%d")
+                    if fetched_last_dt < current_data_dt:
+                        # 這隻股拿到舊數據，不審 evaluate，保留 baseline 狀態
+                        rescued_codes.add(code)
+                except Exception:
+                    rescued_codes.add(code)  # 任何 exception 都保護 rescue
+
+        if rescued_codes:
+            print(f"⚠️ yfinance partial fail 保護：{len(rescued_codes)} 隻股拿不到 fresh data、保留 baseline 狀態不列入 removed")
+            print(f"   例：{sorted(rescued_codes)[:10]}")
+            # 將 rescued 股票從 baseline 入面拾出來，加回去 results + kept
+            rescued_stocks = [s for s in prev_stocks if s["code"] in rescued_codes]
+            results.extend(rescued_stocks)
+            removed_codes -= rescued_codes
+            kept_codes |= rescued_codes
+            current_codes |= rescued_codes
+
     removed_stocks = [s for s in prev_stocks if s["code"] in removed_codes]
 
     # Streak 更新
