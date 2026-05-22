@@ -10870,5 +10870,23 @@
     "market_cap": 3108135680,
     "sector": "Real Estate",
     "name": "永升服務"
+  },
+  "3147.HK": {
+    "name_en": "CSOP ETF Series - CSOP SZSE ChiNext ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3147"
+  },
+  "3296.HK": {
+    "name_en": "HUAQIN",
+    "market_cap": 90505347072,
+    "sector": "Technology",
+    "name": "華勤技術"
+  },
+  "9893.HK": {
+    "name_en": "Pizu Group Holdings Limited",
+    "market_cap": 6476879872,
+    "sector": "Basic Materials",
+    "name": "比優集團"
   }
 }
