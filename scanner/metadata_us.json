@@ -1,1 +1,530 @@
-{}
+{
+  "AZZ": {
+    "name_en": "AZZ Inc.",
+    "market_cap": 4095694080,
+    "sector": "Industrials",
+    "name": "AZZ Inc."
+  },
+  "BAI": {
+    "name_en": "iShares A.I. Innovation and Tech Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares A.I. Innovation and Tech Active ETF"
+  },
+  "BAK": {
+    "name_en": "Braskem S.A.",
+    "market_cap": 1908739328,
+    "sector": "Basic Materials",
+    "name": "Braskem S.A."
+  },
+  "BALT": {
+    "name_en": "Innovator Defined Wealth Shield ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Innovator Defined Wealth Shield ETF"
+  },
+  "BAND": {
+    "name_en": "Bandwidth Inc.",
+    "market_cap": 1874293248,
+    "sector": "Technology",
+    "name": "Bandwidth Inc."
+  },
+  "BANR": {
+    "name_en": "Banner Corporation",
+    "market_cap": 2194329088,
+    "sector": "Financial Services",
+    "name": "Banner Corporation"
+  },
+  "BATRK": {
+    "name_en": "Atlanta Braves Holdings, Inc.",
+    "market_cap": 3207832320,
+    "sector": "Communication Services",
+    "name": "Atlanta Braves Holdings, Inc."
+  },
+  "BB": {
+    "name_en": "BlackBerry Limited",
+    "market_cap": 3897308160,
+    "sector": "Technology",
+    "name": "BlackBerry Limited"
+  },
+  "BBAX": {
+    "name_en": "JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF"
+  },
+  "BBCA": {
+    "name_en": "JPMorgan BetaBuilders Canada ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan BetaBuilders Canada ETF"
+  },
+  "BBJP": {
+    "name_en": "JPMorgan BetaBuilders Japan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan BetaBuilders Japan ETF"
+  },
+  "BBUS": {
+    "name_en": "JPMorgan BetaBuilders U.S. Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan BetaBuilders U.S. Equity ETF"
+  },
+  "BCAT": {
+    "name_en": "BlackRock Capital Allocation Term Trust",
+    "market_cap": 1622968960,
+    "sector": "Financial Services",
+    "name": "BlackRock Capital Allocation Term Trust"
+  },
+  "BCI": {
+    "name_en": "abrdn Bloomberg All Commodity Strategy K-1 Free ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "abrdn Bloomberg All Commodity Strategy K-1 Free ETF"
+  },
+  "BDVL": {
+    "name_en": "iShares Disciplined Volatility Equity Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Disciplined Volatility Equity Active ETF"
+  },
+  "BDYN": {
+    "name_en": "iShares Dynamic Equity Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Dynamic Equity Active ETF"
+  },
+  "BE": {
+    "name_en": "Bloom Energy Corporation",
+    "market_cap": 87574577152,
+    "sector": "Industrials",
+    "name": "Bloom Energy Corporation"
+  },
+  "BEG": {
+    "name_en": "Leverage Shares 2X Long BE Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Leverage Shares 2X Long BE Daily ETF"
+  },
+  "BELFA": {
+    "name_en": "Bel Fuse Inc.",
+    "market_cap": 3003831296,
+    "sector": "Technology",
+    "name": "Bel Fuse Inc."
+  },
+  "BELFB": {
+    "name_en": "Bel Fuse Inc.",
+    "market_cap": 3703592704,
+    "sector": "Technology",
+    "name": "Bel Fuse Inc."
+  },
+  "BEN": {
+    "name_en": "Franklin Resources, Inc.",
+    "market_cap": 16036002816,
+    "sector": "Financial Services",
+    "name": "Franklin Resources, Inc."
+  },
+  "BEP": {
+    "name_en": "Brookfield Renewable Partners L.P.",
+    "market_cap": 22740099072,
+    "sector": "Utilities",
+    "name": "Brookfield Renewable Partners L.P."
+  },
+  "BEX": {
+    "name_en": "Tradr 2X Long BE Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Tradr 2X Long BE Daily ETF"
+  },
+  "BFC": {
+    "name_en": "Bank First Corporation",
+    "market_cap": 1597797632,
+    "sector": "Financial Services",
+    "name": "Bank First Corporation"
+  },
+  "BFH": {
+    "name_en": "Bread Financial Holdings, Inc.",
+    "market_cap": 3466117888,
+    "sector": "Financial Services",
+    "name": "Bread Financial Holdings, Inc."
+  },
+  "BFLY": {
+    "name_en": "Butterfly Network, Inc.",
+    "market_cap": 1172151296,
+    "sector": "Healthcare",
+    "name": "Butterfly Network, Inc."
+  },
+  "BGC": {
+    "name_en": "BGC Group, Inc.",
+    "market_cap": 5331900416,
+    "sector": "Financial Services",
+    "name": "BGC Group, Inc."
+  },
+  "BHE": {
+    "name_en": "Benchmark Electronics, Inc.",
+    "market_cap": 2957702912,
+    "sector": "Technology",
+    "name": "Benchmark Electronics, Inc."
+  },
+  "BHP": {
+    "name_en": "BHP Group Limited",
+    "market_cap": 215776919552,
+    "sector": "Basic Materials",
+    "name": "BHP Group Limited"
+  },
+  "BHYB": {
+    "name_en": "Xtrackers USD High Yield BB-B ex Financials ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Xtrackers USD High Yield BB-B ex Financials ETF"
+  },
+  "BIIB": {
+    "name_en": "Biogen Inc.",
+    "market_cap": 27972804608,
+    "sector": "Healthcare",
+    "name": "Biogen Inc."
+  },
+  "BIL": {
+    "name_en": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
+  },
+  "BILS": {
+    "name_en": "State Street SPDR Bloomberg 3-12 Month T-Bill ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR Bloomberg 3-12 Month T-Bill ETF"
+  },
+  "BILZ": {
+    "name_en": "PIMCO Ultra Short Government Active Exchange-Traded Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "PIMCO Ultra Short Government Active Exchange-Traded Fund"
+  },
+  "BIP": {
+    "name_en": "Brookfield Infrastructure Partners L.P.",
+    "market_cap": 18285301760,
+    "sector": "Utilities",
+    "name": "Brookfield Infrastructure Partners L.P."
+  },
+  "BK": {
+    "name_en": "The Bank of New York Mellon Corporation",
+    "market_cap": 94143750144,
+    "sector": "Financial Services",
+    "name": "The Bank of New York Mellon Corporation"
+  },
+  "BKDV": {
+    "name_en": "BNY Mellon Dynamic Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "BNY Mellon Dynamic Value ETF"
+  },
+  "BKGI": {
+    "name_en": "Bny Mellon Global Infrastructure Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Bny Mellon Global Infrastructure Income ETF"
+  },
+  "BKH": {
+    "name_en": "Black Hills Corporation",
+    "market_cap": 5645661696,
+    "sector": "Utilities",
+    "name": "Black Hills Corporation"
+  },
+  "BKLC": {
+    "name_en": "BNY Mellon US Large Cap Core Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "BNY Mellon US Large Cap Core Equity ETF"
+  },
+  "BKLN": {
+    "name_en": "Invesco Senior Loan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco Senior Loan ETF"
+  },
+  "BKR": {
+    "name_en": "Baker Hughes Company",
+    "market_cap": 65278119936,
+    "sector": "Energy",
+    "name": "Baker Hughes Company"
+  },
+  "BKSY": {
+    "name_en": "BlackSky Technology Inc.",
+    "market_cap": 1656918016,
+    "sector": "Industrials",
+    "name": "BlackSky Technology Inc."
+  },
+  "BLBD": {
+    "name_en": "Blue Bird Corporation",
+    "market_cap": 2051331840,
+    "sector": "Industrials",
+    "name": "Blue Bird Corporation"
+  },
+  "BLCR": {
+    "name_en": "iShares Large Cap Core Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Large Cap Core Active ETF"
+  },
+  "BLDP": {
+    "name_en": "Ballard Power Systems Inc.",
+    "market_cap": 1637013760,
+    "sector": "Industrials",
+    "name": "Ballard Power Systems Inc."
+  },
+  "BMO": {
+    "name_en": "Bank of Montreal",
+    "market_cap": 112596860928,
+    "sector": "Financial Services",
+    "name": "Bank of Montreal"
+  },
+  "BMY": {
+    "name_en": "Bristol-Myers Squibb Company",
+    "market_cap": 121605341184,
+    "sector": "Healthcare",
+    "name": "Bristol-Myers Squibb Company"
+  },
+  "BNL": {
+    "name_en": "Broadstone Net Lease, Inc.",
+    "market_cap": 4083276800,
+    "sector": "Real Estate",
+    "name": "Broadstone Net Lease, Inc."
+  },
+  "BNO": {
+    "name_en": "United States Brent Oil Fund, LP",
+    "market_cap": 0,
+    "sector": "",
+    "name": "United States Brent Oil Fund, LP"
+  },
+  "BOH": {
+    "name_en": "Bank of Hawaii Corporation",
+    "market_cap": 3095193856,
+    "sector": "Financial Services",
+    "name": "Bank of Hawaii Corporation"
+  },
+  "BOXX": {
+    "name_en": "Alpha Architect 1-3 Month Box ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Alpha Architect 1-3 Month Box ETF"
+  },
+  "BPOP": {
+    "name_en": "Popular, Inc.",
+    "market_cap": 9645806592,
+    "sector": "Financial Services",
+    "name": "Popular, Inc."
+  },
+  "BRKRP": {
+    "name_en": "Bruker Corporation",
+    "market_cap": 0,
+    "sector": "Healthcare",
+    "name": "Bruker Corporation"
+  },
+  "BRUN": {
+    "name_en": "Boost Run, Inc.",
+    "market_cap": 1567659776,
+    "sector": "Technology",
+    "name": "Boost Run, Inc."
+  },
+  "BRX": {
+    "name_en": "Brixmor Property Group Inc.",
+    "market_cap": 9468978176,
+    "sector": "Real Estate",
+    "name": "Brixmor Property Group Inc."
+  },
+  "BSCQ": {
+    "name_en": "Invesco BulletShares 2026 Corporate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco BulletShares 2026 Corporate Bond ETF"
+  },
+  "BSCR": {
+    "name_en": "Invesco BulletShares 2027 Corporate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco BulletShares 2027 Corporate Bond ETF"
+  },
+  "BSCS": {
+    "name_en": "Invesco BulletShares 2028 Corporate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco BulletShares 2028 Corporate Bond ETF"
+  },
+  "BTE": {
+    "name_en": "Baytex Energy Corp.",
+    "market_cap": 3696574208,
+    "sector": "Energy",
+    "name": "Baytex Energy Corp."
+  },
+  "BTI": {
+    "name_en": "British American Tobacco p.l.c.",
+    "market_cap": 142141669376,
+    "sector": "Consumer Defensive",
+    "name": "British American Tobacco p.l.c."
+  },
+  "BTSG": {
+    "name_en": "BrightSpring Health Services, Inc.",
+    "market_cap": 11245328384,
+    "sector": "Healthcare",
+    "name": "BrightSpring Health Services, Inc."
+  },
+  "BTSGU": {
+    "name_en": "BrightSpring Health Services, Inc.",
+    "market_cap": 0,
+    "sector": "Healthcare",
+    "name": "BrightSpring Health Services, Inc."
+  },
+  "BUD": {
+    "name_en": "Anheuser-Busch InBev SA/NV",
+    "market_cap": 161412956160,
+    "sector": "Consumer Defensive",
+    "name": "Anheuser-Busch InBev SA/NV"
+  },
+  "BUFR": {
+    "name_en": "FT Vest Laddered Buffer ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "FT Vest Laddered Buffer ETF"
+  },
+  "BULZ": {
+    "name_en": "MicroSectors Solactive FANG Innovation 3X Leveraged ETNs",
+    "market_cap": 0,
+    "sector": "",
+    "name": "MicroSectors Solactive FANG Innovation 3X Leveraged ETNs"
+  },
+  "BUSE": {
+    "name_en": "First Busey Corporation",
+    "market_cap": 2270051072,
+    "sector": "Financial Services",
+    "name": "First Busey Corporation"
+  },
+  "BW": {
+    "name_en": "Babcock & Wilcox Enterprises, Inc.",
+    "market_cap": 3057164288,
+    "sector": "Industrials",
+    "name": "Babcock & Wilcox Enterprises, Inc."
+  },
+  "BWA": {
+    "name_en": "BorgWarner Inc.",
+    "market_cap": 13035054080,
+    "sector": "Consumer Cyclical",
+    "name": "BorgWarner Inc."
+  },
+  "BWET": {
+    "name_en": "Breakwave Tanker Shipping ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Breakwave Tanker Shipping ETF"
+  },
+  "C": {
+    "name_en": "Citigroup Inc.",
+    "market_cap": 213572354048,
+    "sector": "Financial Services",
+    "name": "Citigroup Inc."
+  },
+  "CABA": {
+    "name_en": "Cabaletta Bio, Inc.",
+    "market_cap": 601672192,
+    "sector": "Healthcare",
+    "name": "Cabaletta Bio, Inc."
+  },
+  "CACC": {
+    "name_en": "Credit Acceptance Corporation",
+    "market_cap": 5731909632,
+    "sector": "Financial Services",
+    "name": "Credit Acceptance Corporation"
+  },
+  "CADL": {
+    "name_en": "Candel Therapeutics, Inc.",
+    "market_cap": 581032960,
+    "sector": "Healthcare",
+    "name": "Candel Therapeutics, Inc."
+  },
+  "CALF": {
+    "name_en": "Pacer US Small Cap Cash Cows 100 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Pacer US Small Cap Cash Cows 100 ETF"
+  },
+  "CALY": {
+    "name_en": "Callaway Golf Company",
+    "market_cap": 2854550272,
+    "sector": "Consumer Cyclical",
+    "name": "Callaway Golf Company"
+  },
+  "CARR": {
+    "name_en": "Carrier Global Corporation",
+    "market_cap": 51645489152,
+    "sector": "Industrials",
+    "name": "Carrier Global Corporation"
+  },
+  "CASY": {
+    "name_en": "Casey's General Stores, Inc.",
+    "market_cap": 30572804096,
+    "sector": "Consumer Cyclical",
+    "name": "Casey's General Stores, Inc."
+  },
+  "CAT": {
+    "name_en": "Caterpillar Inc.",
+    "market_cap": 398849605632,
+    "sector": "Industrials",
+    "name": "Caterpillar Inc."
+  },
+  "CATY": {
+    "name_en": "Cathay General Bancorp",
+    "market_cap": 3837780992,
+    "sector": "Financial Services",
+    "name": "Cathay General Bancorp"
+  },
+  "CB": {
+    "name_en": "Chubb Limited",
+    "market_cap": 128094683136,
+    "sector": "Financial Services",
+    "name": "Chubb Limited"
+  },
+  "CBC": {
+    "name_en": "Central Bancompany, Inc.",
+    "market_cap": 6840585728,
+    "sector": "Financial Services",
+    "name": "Central Bancompany, Inc."
+  },
+  "CBL": {
+    "name_en": "CBL & Associates Properties, Inc.",
+    "market_cap": 1484420096,
+    "sector": "Real Estate",
+    "name": "CBL & Associates Properties, Inc."
+  },
+  "CBOE": {
+    "name_en": "Cboe Global Markets, Inc.",
+    "market_cap": 36831854592,
+    "sector": "Financial Services",
+    "name": "Cboe Global Markets, Inc."
+  },
+  "CBT": {
+    "name_en": "Cabot Corporation",
+    "market_cap": 4044021504,
+    "sector": "Basic Materials",
+    "name": "Cabot Corporation"
+  },
+  "CCO": {
+    "name_en": "Clear Channel Outdoor Holdings, Inc.",
+    "market_cap": 1221560448,
+    "sector": "Communication Services",
+    "name": "Clear Channel Outdoor Holdings, Inc."
+  },
+  "CDP": {
+    "name_en": "COPT Defense Properties",
+    "market_cap": 3731510528,
+    "sector": "Real Estate",
+    "name": "COPT Defense Properties"
+  },
+  "CECO": {
+    "name_en": "CECO Environmental Corp.",
+    "market_cap": 2894236160,
+    "sector": "Industrials",
+    "name": "CECO Environmental Corp."
+  }
+}
