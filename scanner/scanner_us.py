@@ -698,6 +698,42 @@ def run_scan(explore: bool = False) -> dict:
     removed_codes = prev_codes - current_codes
     kept_codes = current_codes & prev_codes
 
+    # 🛡 保護 5：Per-stock stale guard — yfinance partial fail 保護
+    rescued_codes = set()
+    if current_data_date and prev_codes:
+        from datetime import datetime as _dt
+        try:
+            current_data_dt = _dt.strptime(current_data_date, "%Y-%m-%d")
+        except Exception:
+            current_data_dt = None
+
+        if current_data_dt:
+            for code in list(removed_codes):
+                baseline_stock = next((s for s in prev_stocks if s.get("code") == code), None)
+                if not baseline_stock:
+                    continue
+                ticker = baseline_stock.get("ticker") or code  # US tickers 不帶 .HK
+                fetched_df = data.get(ticker) if ticker else None
+                if fetched_df is None or len(fetched_df) == 0:
+                    rescued_codes.add(code)
+                    continue
+                try:
+                    fetched_last = str(fetched_df.index[-1].date())
+                    fetched_last_dt = _dt.strptime(fetched_last, "%Y-%m-%d")
+                    if fetched_last_dt < current_data_dt:
+                        rescued_codes.add(code)
+                except Exception:
+                    rescued_codes.add(code)
+
+        if rescued_codes:
+            print(f"⚠️ yfinance partial fail 保護：{len(rescued_codes)} 隻股拿不到 fresh data、保留 baseline 狀態不列入 removed")
+            print(f"   例：{sorted(rescued_codes)[:10]}")
+            rescued_stocks = [s for s in prev_stocks if s["code"] in rescued_codes]
+            results.extend(rescued_stocks)
+            removed_codes -= rescued_codes
+            kept_codes |= rescued_codes
+            current_codes |= rescued_codes
+
     removed_stocks = [s for s in prev_stocks if s["code"] in removed_codes]
 
     # Streak 更新
