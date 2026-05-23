@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21T23:17:55.735106+08:00",
-  "count": 11915,
+  "updated": "2026-05-23T15:58:27.322122+08:00",
+  "count": 11918,
   "tickers": [
     "A",
     "AA",
@@ -1435,6 +1435,7 @@
     "BOOT",
     "BORR",
     "BOSC",
+    "BOT",
     "BOTJ",
     "BOTT",
     "BOTZ",
@@ -1661,6 +1662,7 @@
     "BWFG",
     "BWG",
     "BWIN",
+    "BWIV",
     "BWLP",
     "BWMN",
     "BWMX",
@@ -11480,6 +11482,7 @@
     "WSBK",
     "WSC",
     "WSDB",
+    "WSE",
     "WSFS",
     "WSGE",
     "WSHP",

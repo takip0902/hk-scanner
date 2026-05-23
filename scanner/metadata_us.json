@@ -526,5 +526,1013 @@
     "market_cap": 2894236160,
     "sector": "Industrials",
     "name": "CECO Environmental Corp."
+  },
+  "AAMI": {
+    "name_en": "Acadian Asset Management Inc.",
+    "market_cap": 2550322944,
+    "sector": "Financial Services",
+    "name": "Acadian Asset Management Inc."
+  },
+  "AAOI": {
+    "name_en": "Applied Optoelectronics, Inc.",
+    "market_cap": 14563260416,
+    "sector": "Technology",
+    "name": "Applied Optoelectronics, Inc."
+  },
+  "AAON": {
+    "name_en": "AAON, Inc.",
+    "market_cap": 11025316864,
+    "sector": "Industrials",
+    "name": "AAON, Inc."
+  },
+  "AAP": {
+    "name_en": "Advance Auto Parts, Inc.",
+    "market_cap": 3496077568,
+    "sector": "Consumer Cyclical",
+    "name": "Advance Auto Parts, Inc."
+  },
+  "AAPL": {
+    "name_en": "Apple Inc.",
+    "market_cap": 4535749181440,
+    "sector": "Technology",
+    "name": "Apple Inc."
+  },
+  "AAPU": {
+    "name_en": "Direxion Daily AAPL Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily AAPL Bull 2X Shares"
+  },
+  "AAXJ": {
+    "name_en": "iShares MSCI All Country Asia ex Japan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI All Country Asia ex Japan ETF"
+  },
+  "ABCB": {
+    "name_en": "Ameris Bancorp",
+    "market_cap": 5699002368,
+    "sector": "Financial Services",
+    "name": "Ameris Bancorp"
+  },
+  "ABEV": {
+    "name_en": "Ambev S.A.",
+    "market_cap": 49832620032,
+    "sector": "Consumer Defensive",
+    "name": "Ambev S.A."
+  },
+  "ABSI": {
+    "name_en": "Absci Corporation",
+    "market_cap": 795115776,
+    "sector": "Healthcare",
+    "name": "Absci Corporation"
+  },
+  "ACLS": {
+    "name_en": "Axcelis Technologies, Inc.",
+    "market_cap": 4823377920,
+    "sector": "Technology",
+    "name": "Axcelis Technologies, Inc."
+  },
+  "ACT": {
+    "name_en": "Enact Holdings, Inc.",
+    "market_cap": 5965139968,
+    "sector": "Financial Services",
+    "name": "Enact Holdings, Inc."
+  },
+  "ACWI": {
+    "name_en": "iShares MSCI ACWI ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI ACWI ETF"
+  },
+  "ACWX": {
+    "name_en": "iShares MSCI ACWI ex U.S. ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI ACWI ex U.S. ETF"
+  },
+  "ACYN": {
+    "name_en": "FT Vest Laddered Autocallable Barrier & Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "FT Vest Laddered Autocallable Barrier & Income ETF"
+  },
+  "AD": {
+    "name_en": "Array Digital Infrastructure, Inc.",
+    "market_cap": 4380064256,
+    "sector": "Communication Services",
+    "name": "Array Digital Infrastructure, Inc."
+  },
+  "ADI": {
+    "name_en": "Analog Devices, Inc.",
+    "market_cap": 193407647744,
+    "sector": "Technology",
+    "name": "Analog Devices, Inc."
+  },
+  "ADM": {
+    "name_en": "Archer-Daniels-Midland Company",
+    "market_cap": 37361266688,
+    "sector": "Consumer Defensive",
+    "name": "Archer-Daniels-Midland Company"
+  },
+  "ADTN": {
+    "name_en": "ADTRAN Holdings, Inc.",
+    "market_cap": 1269240192,
+    "sector": "Technology",
+    "name": "ADTRAN Holdings, Inc."
+  },
+  "AEE": {
+    "name_en": "Ameren Corporation",
+    "market_cap": 30799687680,
+    "sector": "Utilities",
+    "name": "Ameren Corporation"
+  },
+  "AEG": {
+    "name_en": "Aegon Ltd.",
+    "market_cap": 13022843904,
+    "sector": "Financial Services",
+    "name": "Aegon Ltd."
+  },
+  "AEHR": {
+    "name_en": "Aehr Test Systems, Inc.",
+    "market_cap": 2988688128,
+    "sector": "Technology",
+    "name": "Aehr Test Systems, Inc."
+  },
+  "AEP": {
+    "name_en": "American Electric Power Company, Inc.",
+    "market_cap": 71598776320,
+    "sector": "Utilities",
+    "name": "American Electric Power Company, Inc."
+  },
+  "AESI": {
+    "name_en": "Atlas Energy Solutions Inc.",
+    "market_cap": 2381949440,
+    "sector": "Energy",
+    "name": "Atlas Energy Solutions Inc."
+  },
+  "AEVA": {
+    "name_en": "Aeva Technologies, Inc.",
+    "market_cap": 1596193536,
+    "sector": "Technology",
+    "name": "Aeva Technologies, Inc."
+  },
+  "AFL": {
+    "name_en": "Aflac Incorporated",
+    "market_cap": 59988959232,
+    "sector": "Financial Services",
+    "name": "Aflac Incorporated"
+  },
+  "AGIX": {
+    "name_en": "KraneShares Artificial Intelligence and Technology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "KraneShares Artificial Intelligence and Technology ETF"
+  },
+  "AGL": {
+    "name_en": "agilon health, inc.",
+    "market_cap": 1441312256,
+    "sector": "Healthcare",
+    "name": "agilon health, inc."
+  },
+  "AGX": {
+    "name_en": "Argan, Inc.",
+    "market_cap": 9162950656,
+    "sector": "Industrials",
+    "name": "Argan, Inc."
+  },
+  "AHR": {
+    "name_en": "American Healthcare REIT, Inc.",
+    "market_cap": 9672732672,
+    "sector": "Real Estate",
+    "name": "American Healthcare REIT, Inc."
+  },
+  "AIA": {
+    "name_en": "iShares Asia 50 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Asia 50 ETF"
+  },
+  "AIP": {
+    "name_en": "Arteris, Inc.",
+    "market_cap": 1675119488,
+    "sector": "Technology",
+    "name": "Arteris, Inc."
+  },
+  "AIPO": {
+    "name_en": "Defiance AI & Power Infrastructure ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Defiance AI & Power Infrastructure ETF"
+  },
+  "AIQ": {
+    "name_en": "Global X Artificial Intelligence & Technology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Artificial Intelligence & Technology ETF"
+  },
+  "AIRR": {
+    "name_en": "First Trust RBA American Industrial RenaissanceTM ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust RBA American Industrial RenaissanceTM ETF"
+  },
+  "AIS": {
+    "name_en": "VistaShares Artificial Intelligence Supercycle ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VistaShares Artificial Intelligence Supercycle ETF"
+  },
+  "AIT": {
+    "name_en": "Applied Industrial Technologies, Inc.",
+    "market_cap": 11350275072,
+    "sector": "Industrials",
+    "name": "Applied Industrial Technologies, Inc."
+  },
+  "AIXI": {
+    "name_en": "Xiao-I Corporation",
+    "market_cap": 14241497,
+    "sector": "Technology",
+    "name": "Xiao-I Corporation"
+  },
+  "AKAM": {
+    "name_en": "Akamai Technologies, Inc.",
+    "market_cap": 21405100032,
+    "sector": "Technology",
+    "name": "Akamai Technologies, Inc."
+  },
+  "AKR": {
+    "name_en": "Acadia Realty Trust",
+    "market_cap": 3183298560,
+    "sector": "Real Estate",
+    "name": "Acadia Realty Trust"
+  },
+  "ALAB": {
+    "name_en": "Astera Labs, Inc.",
+    "market_cap": 52601667584,
+    "sector": "Technology",
+    "name": "Astera Labs, Inc."
+  },
+  "ALGM": {
+    "name_en": "Allegro MicroSystems, Inc.",
+    "market_cap": 8556919296,
+    "sector": "Technology",
+    "name": "Allegro MicroSystems, Inc."
+  },
+  "ALKS": {
+    "name_en": "Alkermes plc",
+    "market_cap": 6133669376,
+    "sector": "Healthcare",
+    "name": "Alkermes plc"
+  },
+  "ALL": {
+    "name_en": "The Allstate Corporation",
+    "market_cap": 55757373440,
+    "sector": "Financial Services",
+    "name": "The Allstate Corporation"
+  },
+  "ALLW": {
+    "name_en": "State Street Bridgewater All Weather ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street Bridgewater All Weather ETF"
+  },
+  "ALMU": {
+    "name_en": "Aeluma, Inc.",
+    "market_cap": 414432800,
+    "sector": "Technology",
+    "name": "Aeluma, Inc."
+  },
+  "ALX": {
+    "name_en": "Alexander's, Inc.",
+    "market_cap": 1257516928,
+    "sector": "Real Estate",
+    "name": "Alexander's, Inc."
+  },
+  "AM": {
+    "name_en": "Antero Midstream Corporation",
+    "market_cap": 10530307072,
+    "sector": "Energy",
+    "name": "Antero Midstream Corporation"
+  },
+  "AMAT": {
+    "name_en": "Applied Materials, Inc.",
+    "market_cap": 343117496320,
+    "sector": "Technology",
+    "name": "Applied Materials, Inc."
+  },
+  "AMBQ": {
+    "name_en": "Ambiq Micro, Inc.",
+    "market_cap": 1745757824,
+    "sector": "Technology",
+    "name": "Ambiq Micro, Inc."
+  },
+  "AMD": {
+    "name_en": "Advanced Micro Devices, Inc.",
+    "market_cap": 762322092032,
+    "sector": "Technology",
+    "name": "Advanced Micro Devices, Inc."
+  },
+  "AMDG": {
+    "name_en": "Leverage Shares 2X Long AMD Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Leverage Shares 2X Long AMD Daily ETF"
+  },
+  "AMDL": {
+    "name_en": "GraniteShares 2x Long AMD Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "GraniteShares 2x Long AMD Daily ETF"
+  },
+  "AMDY": {
+    "name_en": "YieldMax AMD Option Income Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "YieldMax AMD Option Income Strategy ETF"
+  },
+  "AMKR": {
+    "name_en": "Amkor Technology, Inc.",
+    "market_cap": 16297617408,
+    "sector": "Technology",
+    "name": "Amkor Technology, Inc."
+  },
+  "AMLP": {
+    "name_en": "Alerian MLP ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Alerian MLP ETF"
+  },
+  "AMN": {
+    "name_en": "AMN Healthcare Services, Inc.",
+    "market_cap": 1072822208,
+    "sector": "Healthcare",
+    "name": "AMN Healthcare Services, Inc."
+  },
+  "AMSC": {
+    "name_en": "American Superconductor Corporation",
+    "market_cap": 2468220928,
+    "sector": "Industrials",
+    "name": "American Superconductor Corporation"
+  },
+  "AMUU": {
+    "name_en": "Direxion Daily AMD Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily AMD Bull 2X Shares"
+  },
+  "AMX": {
+    "name_en": "América Móvil, S.A.B. de C.V.",
+    "market_cap": 78588600320,
+    "sector": "Communication Services",
+    "name": "América Móvil, S.A.B. de C.V."
+  },
+  "AMZN": {
+    "name_en": "Amazon.com, Inc.",
+    "market_cap": 2864833626112,
+    "sector": "Consumer Cyclical",
+    "name": "Amazon.com, Inc."
+  },
+  "AMZU": {
+    "name_en": "Direxion Daily AMZN Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily AMZN Bull 2X Shares"
+  },
+  "ANAB": {
+    "name_en": "AnaptysBio, Inc.",
+    "market_cap": 1737614848,
+    "sector": "Healthcare",
+    "name": "AnaptysBio, Inc."
+  },
+  "ANET": {
+    "name_en": "Arista Networks, Inc.",
+    "market_cap": 193949859840,
+    "sector": "Technology",
+    "name": "Arista Networks, Inc."
+  },
+  "AOA": {
+    "name_en": "iShares Core 80/20 Aggressive Allocation ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core 80/20 Aggressive Allocation ETF"
+  },
+  "AOR": {
+    "name_en": "iShares Core 60/40 Balanced Allocation ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core 60/40 Balanced Allocation ETF"
+  },
+  "AOSL": {
+    "name_en": "Alpha and Omega Semiconductor Limited",
+    "market_cap": 1248662016,
+    "sector": "Technology",
+    "name": "Alpha and Omega Semiconductor Limited"
+  },
+  "APLD": {
+    "name_en": "Applied Digital Corporation",
+    "market_cap": 13108248576,
+    "sector": "Technology",
+    "name": "Applied Digital Corporation"
+  },
+  "APLE": {
+    "name_en": "Apple Hospitality REIT, Inc.",
+    "market_cap": 3415897600,
+    "sector": "Real Estate",
+    "name": "Apple Hospitality REIT, Inc."
+  },
+  "APLX": {
+    "name_en": "Tradr 2X Long APLD Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Tradr 2X Long APLD Daily ETF"
+  },
+  "ARCB": {
+    "name_en": "ArcBest Corporation",
+    "market_cap": 2773399040,
+    "sector": "Industrials",
+    "name": "ArcBest Corporation"
+  },
+  "ARCO": {
+    "name_en": "Arcos Dorados Holdings Inc.",
+    "market_cap": 1843301760,
+    "sector": "Consumer Cyclical",
+    "name": "Arcos Dorados Holdings Inc."
+  },
+  "ARI": {
+    "name_en": "Apollo Commercial Real Estate Finance, Inc.",
+    "market_cap": 1453375744,
+    "sector": "Real Estate",
+    "name": "Apollo Commercial Real Estate Finance, Inc."
+  },
+  "ARKQ": {
+    "name_en": "ARK Autonomous Technology & Robotics ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ARK Autonomous Technology & Robotics ETF"
+  },
+  "ARKX": {
+    "name_en": "ARK Space & Defense Innovation ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ARK Space & Defense Innovation ETF"
+  },
+  "ARM": {
+    "name_en": "Arm Holdings plc",
+    "market_cap": 326126206976,
+    "sector": "Technology",
+    "name": "Arm Holdings plc"
+  },
+  "ARMG": {
+    "name_en": "Leverage Shares 2X Long ARM Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Leverage Shares 2X Long ARM Daily ETF"
+  },
+  "ARMK": {
+    "name_en": "Aramark",
+    "market_cap": 13478999040,
+    "sector": "Industrials",
+    "name": "Aramark"
+  },
+  "AROC": {
+    "name_en": "Archrock, Inc.",
+    "market_cap": 6528494592,
+    "sector": "Energy",
+    "name": "Archrock, Inc."
+  },
+  "ARTY": {
+    "name_en": "iShares Future AI & Tech ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Future AI & Tech ETF"
+  },
+  "ARW": {
+    "name_en": "Arrow Electronics, Inc.",
+    "market_cap": 11112940544,
+    "sector": "Technology",
+    "name": "Arrow Electronics, Inc."
+  },
+  "ARWR": {
+    "name_en": "Arrowhead Pharmaceuticals, Inc.",
+    "market_cap": 10557233152,
+    "sector": "Healthcare",
+    "name": "Arrowhead Pharmaceuticals, Inc."
+  },
+  "ASB": {
+    "name_en": "Associated Banc-Corp",
+    "market_cap": 5291565568,
+    "sector": "Financial Services",
+    "name": "Associated Banc-Corp"
+  },
+  "ASC": {
+    "name_en": "Ardmore Shipping Corporation",
+    "market_cap": 768313280,
+    "sector": "Industrials",
+    "name": "Ardmore Shipping Corporation"
+  },
+  "ASHR": {
+    "name_en": "Xtrackers Harvest CSI 300 China A-Shares ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Xtrackers Harvest CSI 300 China A-Shares ETF"
+  },
+  "ASML": {
+    "name_en": "ASML Holding N.V.",
+    "market_cap": 629348499456,
+    "sector": "Technology",
+    "name": "ASML Holding N.V."
+  },
+  "ASND": {
+    "name_en": "Ascendis Pharma A/S",
+    "market_cap": 15262688256,
+    "sector": "Healthcare",
+    "name": "Ascendis Pharma A/S"
+  },
+  "ASRT": {
+    "name_en": "Assertio Holdings, Inc.",
+    "market_cap": 151473504,
+    "sector": "Healthcare",
+    "name": "Assertio Holdings, Inc."
+  },
+  "ASTH": {
+    "name_en": "Astrana Health, Inc.",
+    "market_cap": 1876732160,
+    "sector": "Healthcare",
+    "name": "Astrana Health, Inc."
+  },
+  "ASX": {
+    "name_en": "ASE Technology Holding Co., Ltd.",
+    "market_cap": 76371255296,
+    "sector": "Technology",
+    "name": "ASE Technology Holding Co., Ltd."
+  },
+  "ATEN": {
+    "name_en": "A10 Networks, Inc.",
+    "market_cap": 2099466752,
+    "sector": "Technology",
+    "name": "A10 Networks, Inc."
+  },
+  "ATEX": {
+    "name_en": "Anterix Inc.",
+    "market_cap": 1190849664,
+    "sector": "Communication Services",
+    "name": "Anterix Inc."
+  },
+  "ATI": {
+    "name_en": "ATI Inc.",
+    "market_cap": 22147784704,
+    "sector": "Industrials",
+    "name": "ATI Inc."
+  },
+  "ATKR": {
+    "name_en": "Atkore Inc.",
+    "market_cap": 2861775616,
+    "sector": "Industrials",
+    "name": "Atkore Inc."
+  },
+  "ATOM": {
+    "name_en": "Atomera Incorporated",
+    "market_cap": 357735840,
+    "sector": "Technology",
+    "name": "Atomera Incorporated"
+  },
+  "AUR": {
+    "name_en": "Aurora Innovation, Inc.",
+    "market_cap": 13865706496,
+    "sector": "Consumer Cyclical",
+    "name": "Aurora Innovation, Inc."
+  },
+  "AVA": {
+    "name_en": "Avista Corporation",
+    "market_cap": 3427015936,
+    "sector": "Utilities",
+    "name": "Avista Corporation"
+  },
+  "AVDE": {
+    "name_en": "Avantis International Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis International Equity ETF"
+  },
+  "AVDV": {
+    "name_en": "Avantis International Small Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis International Small Cap Value ETF"
+  },
+  "AVEM": {
+    "name_en": "Avantis Emerging Markets Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis Emerging Markets Equity ETF"
+  },
+  "AVGO": {
+    "name_en": "Broadcom Inc.",
+    "market_cap": 1960815624192,
+    "sector": "Technology",
+    "name": "Broadcom Inc."
+  },
+  "AVGX": {
+    "name_en": "Defiance Daily Target 2X Long AVGO ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Defiance Daily Target 2X Long AVGO ETF"
+  },
+  "AVIV": {
+    "name_en": "Avantis International Large Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis International Large Cap Value ETF"
+  },
+  "AVL": {
+    "name_en": "Direxion Daily AVGO Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily AVGO Bull 2X Shares"
+  },
+  "AVLV": {
+    "name_en": "Avantis US Large Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis US Large Cap Value ETF"
+  },
+  "AVNS": {
+    "name_en": "Avanos Medical, Inc.",
+    "market_cap": 1152358144,
+    "sector": "Healthcare",
+    "name": "Avanos Medical, Inc."
+  },
+  "AVT": {
+    "name_en": "Avnet, Inc.",
+    "market_cap": 7046688768,
+    "sector": "Technology",
+    "name": "Avnet, Inc."
+  },
+  "AVUS": {
+    "name_en": "Avantis US Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis US Equity ETF"
+  },
+  "AVUV": {
+    "name_en": "Avantis US Small Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis US Small Cap Value ETF"
+  },
+  "AWR": {
+    "name_en": "American States Water Company",
+    "market_cap": 3003724800,
+    "sector": "Utilities",
+    "name": "American States Water Company"
+  },
+  "AXGN": {
+    "name_en": "Axogen, Inc.",
+    "market_cap": 2174973184,
+    "sector": "Healthcare",
+    "name": "Axogen, Inc."
+  },
+  "AXSM": {
+    "name_en": "Axsome Therapeutics, Inc.",
+    "market_cap": 12142961664,
+    "sector": "Healthcare",
+    "name": "Axsome Therapeutics, Inc."
+  },
+  "AXTI": {
+    "name_en": "AXT, Inc.",
+    "market_cap": 9213547520,
+    "sector": "Technology",
+    "name": "AXT, Inc."
+  },
+  "AXTX": {
+    "name_en": "Tradr 2X Long AXTI Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Tradr 2X Long AXTI Daily ETF"
+  },
+  "BCAX": {
+    "name_en": "Bicara Therapeutics Inc.",
+    "market_cap": 1424459776,
+    "sector": "Healthcare",
+    "name": "Bicara Therapeutics Inc."
+  },
+  "BOKF": {
+    "name_en": "BOK Financial Corporation",
+    "market_cap": 7944065024,
+    "sector": "Financial Services",
+    "name": "BOK Financial Corporation"
+  },
+  "BURL": {
+    "name_en": "Burlington Stores, Inc.",
+    "market_cap": 20389052416,
+    "sector": "Consumer Cyclical",
+    "name": "Burlington Stores, Inc."
+  },
+  "BWLP": {
+    "name_en": "BW LPG Limited",
+    "market_cap": 3355102976,
+    "sector": "Energy",
+    "name": "BW LPG Limited"
+  },
+  "CDNA": {
+    "name_en": "CareDx, Inc.",
+    "market_cap": 1117394560,
+    "sector": "Healthcare",
+    "name": "CareDx, Inc."
+  },
+  "CELC": {
+    "name_en": "Celcuity Inc.",
+    "market_cap": 6740963840,
+    "sector": "Healthcare",
+    "name": "Celcuity Inc."
+  },
+  "CENTA": {
+    "name_en": "Central Garden & Pet Company",
+    "market_cap": 2163071744,
+    "sector": "Consumer Defensive",
+    "name": "Central Garden & Pet Company"
+  },
+  "CENX": {
+    "name_en": "Century Aluminum Company",
+    "market_cap": 6438262272,
+    "sector": "Basic Materials",
+    "name": "Century Aluminum Company"
+  },
+  "CEVA": {
+    "name_en": "CEVA, Inc.",
+    "market_cap": 1098494848,
+    "sector": "Technology",
+    "name": "CEVA, Inc."
+  },
+  "CFG": {
+    "name_en": "Citizens Financial Group, Inc.",
+    "market_cap": 26595045376,
+    "sector": "Financial Services",
+    "name": "Citizens Financial Group, Inc."
+  },
+  "CFR": {
+    "name_en": "Cullen/Frost Bankers, Inc.",
+    "market_cap": 8752653312,
+    "sector": "Financial Services",
+    "name": "Cullen/Frost Bankers, Inc."
+  },
+  "CGDV": {
+    "name_en": "Capital Group Dividend Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Dividend Value ETF"
+  },
+  "CGGO": {
+    "name_en": "Capital Group Global Growth Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Global Growth Equity ETF"
+  },
+  "CGHM": {
+    "name_en": "Capital Group Municipal High-Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Municipal High-Income ETF"
+  },
+  "CGIC": {
+    "name_en": "Capital Group International Core Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group International Core Equity ETF"
+  },
+  "CGMM": {
+    "name_en": "Capital Group U.S. Small and Mid Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group U.S. Small and Mid Cap ETF"
+  },
+  "CGMS": {
+    "name_en": "Capital Group U.S. Multi-Sector Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group U.S. Multi-Sector Income ETF"
+  },
+  "CGNG": {
+    "name_en": "Capital Group New Geography Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group New Geography Equity ETF"
+  },
+  "CGNX": {
+    "name_en": "Cognex Corporation",
+    "market_cap": 10998661120,
+    "sector": "Technology",
+    "name": "Cognex Corporation"
+  },
+  "CGSD": {
+    "name_en": "Capital Group Short Duration Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Short Duration Income ETF"
+  },
+  "CGUS": {
+    "name_en": "Capital Group Core Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Core Equity ETF"
+  },
+  "CGXU": {
+    "name_en": "Capital Group International Focus Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group International Focus Equity ETF"
+  },
+  "CHAT": {
+    "name_en": "Roundhill Generative AI & Technology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Roundhill Generative AI & Technology ETF"
+  },
+  "CHCO": {
+    "name_en": "City Holding Company",
+    "market_cap": 1758745216,
+    "sector": "Financial Services",
+    "name": "City Holding Company"
+  },
+  "CHEF": {
+    "name_en": "The Chefs' Warehouse, Inc.",
+    "market_cap": 3117857280,
+    "sector": "Consumer Defensive",
+    "name": "The Chefs' Warehouse, Inc."
+  },
+  "CHH": {
+    "name_en": "Choice Hotels International, Inc.",
+    "market_cap": 5146450432,
+    "sector": "Consumer Cyclical",
+    "name": "Choice Hotels International, Inc."
+  },
+  "CHPY": {
+    "name_en": "YieldMax Semiconductor Portfolio Option Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "YieldMax Semiconductor Portfolio Option Income ETF"
+  },
+  "CHRD": {
+    "name_en": "Chord Energy Corporation",
+    "market_cap": 8105956352,
+    "sector": "Energy",
+    "name": "Chord Energy Corporation"
+  },
+  "CIEN": {
+    "name_en": "Ciena Corporation",
+    "market_cap": 82539921408,
+    "sector": "Technology",
+    "name": "Ciena Corporation"
+  },
+  "CIFR": {
+    "name_en": "Cipher Digital Inc.",
+    "market_cap": 8986810368,
+    "sector": "Technology",
+    "name": "Cipher Digital Inc."
+  },
+  "CLIP": {
+    "name_en": "Global X 1-3 Month T-Bill ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X 1-3 Month T-Bill ETF"
+  },
+  "CLMT": {
+    "name_en": "Calumet, Inc.",
+    "market_cap": 2982175488,
+    "sector": "Basic Materials",
+    "name": "Calumet, Inc."
+  },
+  "CLOA": {
+    "name_en": "iShares AAA CLO Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares AAA CLO Active ETF"
+  },
+  "CLS": {
+    "name_en": "Celestica Inc.",
+    "market_cap": 42237669376,
+    "sector": "Technology",
+    "name": "Celestica Inc."
+  },
+  "CM": {
+    "name_en": "Canadian Imperial Bank of Commerce",
+    "market_cap": 106291224576,
+    "sector": "Financial Services",
+    "name": "Canadian Imperial Bank of Commerce"
+  },
+  "CMBT": {
+    "name_en": "Cmb.Tech NV",
+    "market_cap": 4889360384,
+    "sector": "Energy",
+    "name": "Cmb.Tech NV"
+  },
+  "CMI": {
+    "name_en": "Cummins Inc.",
+    "market_cap": 88250908672,
+    "sector": "Industrials",
+    "name": "Cummins Inc."
+  },
+  "CMP": {
+    "name_en": "Compass Minerals International, Inc.",
+    "market_cap": 1283505920,
+    "sector": "Basic Materials",
+    "name": "Compass Minerals International, Inc."
+  },
+  "CMPR": {
+    "name_en": "Cimpress plc",
+    "market_cap": 2481123584,
+    "sector": "Industrials",
+    "name": "Cimpress plc"
+  },
+  "CMPS": {
+    "name_en": "COMPASS Pathways plc",
+    "market_cap": 1593751424,
+    "sector": "Healthcare",
+    "name": "COMPASS Pathways plc"
+  },
+  "CNC": {
+    "name_en": "Centene Corporation",
+    "market_cap": 29203152896,
+    "sector": "Healthcare",
+    "name": "Centene Corporation"
+  },
+  "CNI": {
+    "name_en": "Canadian National Railway Company",
+    "market_cap": 69297979392,
+    "sector": "Industrials",
+    "name": "Canadian National Railway Company"
+  },
+  "CNO": {
+    "name_en": "CNO Financial Group, Inc.",
+    "market_cap": 4414450688,
+    "sector": "Financial Services",
+    "name": "CNO Financial Group, Inc."
+  },
+  "CNP": {
+    "name_en": "CenterPoint Energy, Inc.",
+    "market_cap": 28018079744,
+    "sector": "Utilities",
+    "name": "CenterPoint Energy, Inc."
+  },
+  "CNQ": {
+    "name_en": "Canadian Natural Resources Limited",
+    "market_cap": 101386362880,
+    "sector": "Energy",
+    "name": "Canadian Natural Resources Limited"
+  },
+  "CNS": {
+    "name_en": "Cohen & Steers, Inc.",
+    "market_cap": 3692978688,
+    "sector": "Financial Services",
+    "name": "Cohen & Steers, Inc."
+  },
+  "CNTA": {
+    "name_en": "Centessa Pharmaceuticals plc",
+    "market_cap": 6150476288,
+    "sector": "Healthcare",
+    "name": "Centessa Pharmaceuticals plc"
+  },
+  "COCO": {
+    "name_en": "The Vita Coco Company, Inc.",
+    "market_cap": 4342845440,
+    "sector": "Consumer Defensive",
+    "name": "The Vita Coco Company, Inc."
+  },
+  "CODI": {
+    "name_en": "Compass Diversified",
+    "market_cap": 862204224,
+    "sector": "Industrials",
+    "name": "Compass Diversified"
+  },
+  "COHR": {
+    "name_en": "Coherent Corp.",
+    "market_cap": 73867542528,
+    "sector": "Technology",
+    "name": "Coherent Corp."
+  },
+  "COHU": {
+    "name_en": "Cohu, Inc.",
+    "market_cap": 2195068928,
+    "sector": "Technology",
+    "name": "Cohu, Inc."
+  },
+  "COLM": {
+    "name_en": "Columbia Sportswear Company",
+    "market_cap": 3241814784,
+    "sector": "Consumer Cyclical",
+    "name": "Columbia Sportswear Company"
+  },
+  "COMT": {
+    "name_en": "iShares GSCI Commodity Dynamic Roll Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares GSCI Commodity Dynamic Roll Strategy ETF"
+  },
+  "CON": {
+    "name_en": "Concentra Group Holdings Parent, Inc.",
+    "market_cap": 3239992064,
+    "sector": "Healthcare",
+    "name": "Concentra Group Holdings Parent, Inc."
   }
 }
