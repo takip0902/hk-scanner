@@ -8718,25 +8718,25 @@
     "sector": ""
   },
   "3448.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf",
+    "name_en": "Global X China Core TECH ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
+    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
   },
   "3454.HK": {
-    "name_en": "CSOP ETF Series - CSOP MAG Seven ETF",
-    "name": "CSOP ETF Series - CSOP MAG Seven ETF",
+    "name_en": "CSOP MAG Seven ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3454"
   },
   "3466.HK": {
-    "name_en": "Hang Seng High Dividend 30 Index Etf",
+    "name_en": "Hang Seng High Dividend 30 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3466"
@@ -10894,5 +10894,17 @@
     "market_cap": 110576787456,
     "sector": "Healthcare",
     "name": "科倫博泰生物"
+  },
+  "9963.HK": {
+    "name_en": "Transtech Optelecom Science Holdings Limited",
+    "market_cap": 1874579456,
+    "sector": "Technology",
+    "name": "高科橋"
+  },
+  "1850.HK": {
+    "name_en": "Beautiful Life Group Holdings Limited",
+    "market_cap": 276480000,
+    "sector": "Industrials",
+    "name": "鴻盛昌資源"
   }
 }
