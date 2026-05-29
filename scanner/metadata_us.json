@@ -1534,5 +1534,761 @@
     "market_cap": 3239992064,
     "sector": "Healthcare",
     "name": "Concentra Group Holdings Parent, Inc."
+  },
+  "ABNB": {
+    "name_en": "Airbnb, Inc.",
+    "market_cap": 79826411520,
+    "sector": "Consumer Cyclical",
+    "name": "Airbnb, Inc."
+  },
+  "ACA": {
+    "name_en": "Arcosa, Inc.",
+    "market_cap": 6242111488,
+    "sector": "Industrials",
+    "name": "Arcosa, Inc."
+  },
+  "AIN": {
+    "name_en": "Albany International Corp.",
+    "market_cap": 1833432064,
+    "sector": "Consumer Cyclical",
+    "name": "Albany International Corp."
+  },
+  "AIR": {
+    "name_en": "AAR Corp.",
+    "market_cap": 4571698176,
+    "sector": "Industrials",
+    "name": "AAR Corp."
+  },
+  "AIZ": {
+    "name_en": "Assurant, Inc.",
+    "market_cap": 12258084864,
+    "sector": "Financial Services",
+    "name": "Assurant, Inc."
+  },
+  "ALH": {
+    "name_en": "Alliance Laundry Holdings Inc.",
+    "market_cap": 5072465408,
+    "sector": "Consumer Cyclical",
+    "name": "Alliance Laundry Holdings Inc."
+  },
+  "ALLY": {
+    "name_en": "Ally Financial Inc.",
+    "market_cap": 13119186944,
+    "sector": "Financial Services",
+    "name": "Ally Financial Inc."
+  },
+  "ALM": {
+    "name_en": "Almonty Industries Inc.",
+    "market_cap": 5873456640,
+    "sector": "Basic Materials",
+    "name": "Almonty Industries Inc."
+  },
+  "ALNT": {
+    "name_en": "Allient Inc.",
+    "market_cap": 1267769728,
+    "sector": "Technology",
+    "name": "Allient Inc."
+  },
+  "ALTO": {
+    "name_en": "Alto Ingredients, Inc.",
+    "market_cap": 403702304,
+    "sector": "Basic Materials",
+    "name": "Alto Ingredients, Inc."
+  },
+  "AMPX": {
+    "name_en": "Amprius Technologies, Inc.",
+    "market_cap": 2952926464,
+    "sector": "Industrials",
+    "name": "Amprius Technologies, Inc."
+  },
+  "ARXS": {
+    "name_en": "Arxis, Inc.",
+    "market_cap": 19215976448,
+    "sector": "Industrials",
+    "name": "Arxis, Inc."
+  },
+  "ATRO": {
+    "name_en": "Astronics Corporation",
+    "market_cap": 3160044032,
+    "sector": "Industrials",
+    "name": "Astronics Corporation"
+  },
+  "AVEX": {
+    "name_en": "AEVEX Corp.",
+    "market_cap": 2054124160,
+    "sector": "Industrials",
+    "name": "AEVEX Corp."
+  },
+  "BNS": {
+    "name_en": "The Bank of Nova Scotia",
+    "market_cap": 97828610048,
+    "sector": "Financial Services",
+    "name": "The Bank of Nova Scotia"
+  },
+  "CDNL": {
+    "name_en": "Cardinal Infrastructure Group Inc.",
+    "market_cap": 809916416,
+    "sector": "Industrials",
+    "name": "Cardinal Infrastructure Group Inc."
+  },
+  "CGBL": {
+    "name_en": "Capital Group Core Balanced ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Core Balanced ETF"
+  },
+  "CGDG": {
+    "name_en": "Capital Group Dividend Growers ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Dividend Growers ETF"
+  },
+  "CGEM": {
+    "name_en": "Cullinan Therapeutics, Inc.",
+    "market_cap": 943995584,
+    "sector": "Healthcare",
+    "name": "Cullinan Therapeutics, Inc."
+  },
+  "CGGE": {
+    "name_en": "Capital Group Global Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Global Equity ETF"
+  },
+  "CHPX": {
+    "name_en": "Global X AI Semiconductor & Quantum ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X AI Semiconductor & Quantum ETF"
+  },
+  "CLFD": {
+    "name_en": "Clearfield, Inc.",
+    "market_cap": 634627776,
+    "sector": "Technology",
+    "name": "Clearfield, Inc."
+  },
+  "CNEQ": {
+    "name_en": "Alger Concentrated Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Alger Concentrated Equity ETF"
+  },
+  "COHX": {
+    "name_en": "Tradr 2X Long COHR Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Tradr 2X Long COHR Daily ETF"
+  },
+  "COLD": {
+    "name_en": "Americold Realty Trust, Inc.",
+    "market_cap": 4532290560,
+    "sector": "Real Estate",
+    "name": "Americold Realty Trust, Inc."
+  },
+  "CORO": {
+    "name_en": "iShares International Country Rotation Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares International Country Rotation Active ETF"
+  },
+  "CORZ": {
+    "name_en": "Core Scientific, Inc.",
+    "market_cap": 8824495104,
+    "sector": "Technology",
+    "name": "Core Scientific, Inc."
+  },
+  "COWZ": {
+    "name_en": "Pacer US Cash Cows 100 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Pacer US Cash Cows 100 ETF"
+  },
+  "CP": {
+    "name_en": "Canadian Pacific Kansas City Limited",
+    "market_cap": 80428916736,
+    "sector": "Industrials",
+    "name": "Canadian Pacific Kansas City Limited"
+  },
+  "CPER": {
+    "name_en": "United States Copper Index Fund, LP",
+    "market_cap": 0,
+    "sector": "",
+    "name": "United States Copper Index Fund, LP"
+  },
+  "CPRX": {
+    "name_en": "Catalyst Pharmaceuticals, Inc.",
+    "market_cap": 3829301248,
+    "sector": "Healthcare",
+    "name": "Catalyst Pharmaceuticals, Inc."
+  },
+  "CPSH": {
+    "name_en": "CPS Technologies Corporation",
+    "market_cap": 199877312,
+    "sector": "Technology",
+    "name": "CPS Technologies Corporation"
+  },
+  "CRCL": {
+    "name_en": "Circle Internet Group",
+    "market_cap": 28931543040,
+    "sector": "Financial Services",
+    "name": "Circle Internet Group"
+  },
+  "CRDO": {
+    "name_en": "Credo Technology Group Holding Ltd",
+    "market_cap": 41012445184,
+    "sector": "Technology",
+    "name": "Credo Technology Group Holding Ltd"
+  },
+  "CROX": {
+    "name_en": "Crocs, Inc.",
+    "market_cap": 5894185984,
+    "sector": "Consumer Cyclical",
+    "name": "Crocs, Inc."
+  },
+  "CRS": {
+    "name_en": "Carpenter Technology Corporation",
+    "market_cap": 22955249664,
+    "sector": "Industrials",
+    "name": "Carpenter Technology Corporation"
+  },
+  "CRUS": {
+    "name_en": "Cirrus Logic, Inc.",
+    "market_cap": 8818115584,
+    "sector": "Technology",
+    "name": "Cirrus Logic, Inc."
+  },
+  "CRWD": {
+    "name_en": "CrowdStrike Holdings, Inc.",
+    "market_cap": 170794008576,
+    "sector": "Technology",
+    "name": "CrowdStrike Holdings, Inc."
+  },
+  "CRWV": {
+    "name_en": "CoreWeave, Inc.",
+    "market_cap": 58299650048,
+    "sector": "Technology",
+    "name": "CoreWeave, Inc."
+  },
+  "CSCO": {
+    "name_en": "Cisco Systems, Inc.",
+    "market_cap": 467611811840,
+    "sector": "Technology",
+    "name": "Cisco Systems, Inc."
+  },
+  "CSGS": {
+    "name_en": "CSG Systems International, Inc.",
+    "market_cap": 2300464128,
+    "sector": "Technology",
+    "name": "CSG Systems International, Inc."
+  },
+  "CSHI": {
+    "name_en": "NEOS Enhanced Income 1-3 Month T-Bill ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "NEOS Enhanced Income 1-3 Month T-Bill ETF"
+  },
+  "CSTM": {
+    "name_en": "Constellium SE",
+    "market_cap": 4676767744,
+    "sector": "Basic Materials",
+    "name": "Constellium SE"
+  },
+  "CSWC": {
+    "name_en": "Capital Southwest Corporation",
+    "market_cap": 1449121792,
+    "sector": "Financial Services",
+    "name": "Capital Southwest Corporation"
+  },
+  "CSX": {
+    "name_en": "CSX Corporation",
+    "market_cap": 85121343488,
+    "sector": "Industrials",
+    "name": "CSX Corporation"
+  },
+  "CTOS": {
+    "name_en": "Custom Truck One Source, Inc.",
+    "market_cap": 2224292864,
+    "sector": "Industrials",
+    "name": "Custom Truck One Source, Inc."
+  },
+  "CTRE": {
+    "name_en": "CareTrust REIT, Inc.",
+    "market_cap": 9742547968,
+    "sector": "Real Estate",
+    "name": "CareTrust REIT, Inc."
+  },
+  "CTS": {
+    "name_en": "CTS Corporation",
+    "market_cap": 1852534656,
+    "sector": "Technology",
+    "name": "CTS Corporation"
+  },
+  "CUBE": {
+    "name_en": "CubeSmart",
+    "market_cap": 9227242496,
+    "sector": "Real Estate",
+    "name": "CubeSmart"
+  },
+  "CUBI": {
+    "name_en": "Customers Bancorp, Inc.",
+    "market_cap": 2549396992,
+    "sector": "Financial Services",
+    "name": "Customers Bancorp, Inc."
+  },
+  "CUE": {
+    "name_en": "Cue Biopharma, Inc.",
+    "market_cap": 91594672,
+    "sector": "Healthcare",
+    "name": "Cue Biopharma, Inc."
+  },
+  "CURB": {
+    "name_en": "Curbline Properties Corp.",
+    "market_cap": 3077527296,
+    "sector": "Real Estate",
+    "name": "Curbline Properties Corp."
+  },
+  "CVBF": {
+    "name_en": "CVB Financial Corp.",
+    "market_cap": 3601450496,
+    "sector": "Financial Services",
+    "name": "CVB Financial Corp."
+  },
+  "CVE": {
+    "name_en": "Cenovus Energy Inc.",
+    "market_cap": 52289523712,
+    "sector": "Energy",
+    "name": "Cenovus Energy Inc."
+  },
+  "CVI": {
+    "name_en": "CVR Energy, Inc.",
+    "market_cap": 3379838720,
+    "sector": "Energy",
+    "name": "CVR Energy, Inc."
+  },
+  "CVS": {
+    "name_en": "CVS Health Corporation",
+    "market_cap": 118622961664,
+    "sector": "Healthcare",
+    "name": "CVS Health Corporation"
+  },
+  "CVSA": {
+    "name_en": "Covista Inc.",
+    "market_cap": 4122161408,
+    "sector": "Consumer Defensive",
+    "name": "Covista Inc."
+  },
+  "CW": {
+    "name_en": "Curtiss-Wright Corporation",
+    "market_cap": 27622014976,
+    "sector": "Industrials",
+    "name": "Curtiss-Wright Corporation"
+  },
+  "CWAN": {
+    "name_en": "Clearwater Analytics Holdings, Inc.",
+    "market_cap": 7268189696,
+    "sector": "Technology",
+    "name": "Clearwater Analytics Holdings, Inc."
+  },
+  "CWB": {
+    "name_en": "State Street SPDR Bloomberg Convertible Securities ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR Bloomberg Convertible Securities ETF"
+  },
+  "CWEN": {
+    "name_en": "Clearway Energy, Inc.",
+    "market_cap": 9755131904,
+    "sector": "Utilities",
+    "name": "Clearway Energy, Inc."
+  },
+  "CXW": {
+    "name_en": "CoreCivic, Inc.",
+    "market_cap": 2152801792,
+    "sector": "Industrials",
+    "name": "CoreCivic, Inc."
+  },
+  "CYRX": {
+    "name_en": "Cryoport, Inc.",
+    "market_cap": 768635264,
+    "sector": "Industrials",
+    "name": "Cryoport, Inc."
+  },
+  "CYTK": {
+    "name_en": "Cytokinetics, Incorporated",
+    "market_cap": 10428538880,
+    "sector": "Healthcare",
+    "name": "Cytokinetics, Incorporated"
+  },
+  "CZR": {
+    "name_en": "Caesars Entertainment, Inc.",
+    "market_cap": 5923408896,
+    "sector": "Consumer Cyclical",
+    "name": "Caesars Entertainment, Inc."
+  },
+  "D": {
+    "name_en": "Dominion Energy, Inc.",
+    "market_cap": 59261550592,
+    "sector": "Utilities",
+    "name": "Dominion Energy, Inc."
+  },
+  "DAC": {
+    "name_en": "Danaos Corporation",
+    "market_cap": 2292187648,
+    "sector": "Industrials",
+    "name": "Danaos Corporation"
+  },
+  "DAL": {
+    "name_en": "Delta Air Lines, Inc.",
+    "market_cap": 54195462144,
+    "sector": "Industrials",
+    "name": "Delta Air Lines, Inc."
+  },
+  "DAN": {
+    "name_en": "Dana Incorporated",
+    "market_cap": 3914884864,
+    "sector": "Consumer Cyclical",
+    "name": "Dana Incorporated"
+  },
+  "DAVE": {
+    "name_en": "Dave Inc.",
+    "market_cap": 3417843968,
+    "sector": "Technology",
+    "name": "Dave Inc."
+  },
+  "DBA": {
+    "name_en": "Invesco DB Agriculture Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco DB Agriculture Fund"
+  },
+  "DBB": {
+    "name_en": "Invesco DB Base Metals Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco DB Base Metals Fund"
+  },
+  "DBD": {
+    "name_en": "Diebold Nixdorf, Incorporated",
+    "market_cap": 2806284800,
+    "sector": "Technology",
+    "name": "Diebold Nixdorf, Incorporated"
+  },
+  "DBEF": {
+    "name_en": "Xtrackers MSCI EAFE Hedged Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Xtrackers MSCI EAFE Hedged Equity ETF"
+  },
+  "DBMF": {
+    "name_en": "iMGP DBi Managed Futures Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iMGP DBi Managed Futures Strategy ETF"
+  },
+  "DBO": {
+    "name_en": "Invesco DB Oil Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco DB Oil Fund"
+  },
+  "DBRG": {
+    "name_en": "DigitalBridge Group, Inc.",
+    "market_cap": 3056211968,
+    "sector": "Financial Services",
+    "name": "DigitalBridge Group, Inc."
+  },
+  "DCO": {
+    "name_en": "Ducommun Incorporated",
+    "market_cap": 2296625664,
+    "sector": "Industrials",
+    "name": "Ducommun Incorporated"
+  },
+  "DCOM": {
+    "name_en": "Dime Community Bancshares, Inc.",
+    "market_cap": 1641904256,
+    "sector": "Financial Services",
+    "name": "Dime Community Bancshares, Inc."
+  },
+  "DD": {
+    "name_en": "DuPont de Nemours, Inc.",
+    "market_cap": 19325327360,
+    "sector": "Basic Materials",
+    "name": "DuPont de Nemours, Inc."
+  },
+  "DDD": {
+    "name_en": "3D Systems Corporation",
+    "market_cap": 514314688,
+    "sector": "Technology",
+    "name": "3D Systems Corporation"
+  },
+  "DDOG": {
+    "name_en": "Datadog, Inc.",
+    "market_cap": 80176472064,
+    "sector": "Technology",
+    "name": "Datadog, Inc."
+  },
+  "DECU": {
+    "name_en": "AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF"
+  },
+  "DELL": {
+    "name_en": "Dell Technologies Inc.",
+    "market_cap": 205945602048,
+    "sector": "Technology",
+    "name": "Dell Technologies Inc."
+  },
+  "DEM": {
+    "name_en": "WisdomTree Emerging Markets High Dividend Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "WisdomTree Emerging Markets High Dividend Fund"
+  },
+  "DFAC": {
+    "name_en": "Dimensional U.S. Core Equity 2 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional U.S. Core Equity 2 ETF"
+  },
+  "DFAE": {
+    "name_en": "Dimensional Emerging Core Equity Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Emerging Core Equity Market ETF"
+  },
+  "DFAI": {
+    "name_en": "Dimensional International Core Equity Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International Core Equity Market ETF"
+  },
+  "DFAR": {
+    "name_en": "Dimensional US Real Estate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US Real Estate ETF"
+  },
+  "DFAS": {
+    "name_en": "Dimensional U.S. Small Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional U.S. Small Cap ETF"
+  },
+  "DFAT": {
+    "name_en": "Dimensional U.S. Targeted Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional U.S. Targeted Value ETF"
+  },
+  "DFAU": {
+    "name_en": "Dimensional US Core Equity Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US Core Equity Market ETF"
+  },
+  "DFAX": {
+    "name_en": "Dimensional World ex U.S. Core Equity 2 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional World ex U.S. Core Equity 2 ETF"
+  },
+  "DFEM": {
+    "name_en": "Dimensional Emerging Markets Core Equity 2 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Emerging Markets Core Equity 2 ETF"
+  },
+  "DFGR": {
+    "name_en": "Dimensional Global Real Estate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Global Real Estate ETF"
+  },
+  "DFIC": {
+    "name_en": "Dimensional International Core Equity 2 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International Core Equity 2 ETF"
+  },
+  "DFIS": {
+    "name_en": "Dimensional International Small Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International Small Cap ETF"
+  },
+  "DFIV": {
+    "name_en": "Dimensional International Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International Value ETF"
+  },
+  "DFLV": {
+    "name_en": "Dimensional US Large Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US Large Cap Value ETF"
+  },
+  "DFSV": {
+    "name_en": "Dimensional US Small Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US Small Cap Value ETF"
+  },
+  "DFTX": {
+    "name_en": "Definium Therapeutics, Inc.",
+    "market_cap": 2560888064,
+    "sector": "Healthcare",
+    "name": "Definium Therapeutics, Inc."
+  },
+  "DFUS": {
+    "name_en": "Dimensional U.S. Equity Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional U.S. Equity Market ETF"
+  },
+  "DFUV": {
+    "name_en": "Dimensional US Marketwide Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US Marketwide Value ETF"
+  },
+  "DGII": {
+    "name_en": "Digi International Inc.",
+    "market_cap": 2572044032,
+    "sector": "Technology",
+    "name": "Digi International Inc."
+  },
+  "DGRO": {
+    "name_en": "iShares Core Dividend Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core Dividend Growth ETF"
+  },
+  "DGRW": {
+    "name_en": "WisdomTree U.S. Quality Dividend Growth Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "WisdomTree U.S. Quality Dividend Growth Fund"
+  },
+  "DGX": {
+    "name_en": "Quest Diagnostics Incorporated",
+    "market_cap": 21718640640,
+    "sector": "Healthcare",
+    "name": "Quest Diagnostics Incorporated"
+  },
+  "DGXX": {
+    "name_en": "Digi Power X Inc.",
+    "market_cap": 733339904,
+    "sector": "Utilities",
+    "name": "Digi Power X Inc."
+  },
+  "DHC": {
+    "name_en": "Diversified Healthcare Trust",
+    "market_cap": 2084540544,
+    "sector": "Real Estate",
+    "name": "Diversified Healthcare Trust"
+  },
+  "DINO": {
+    "name_en": "HF Sinclair Corporation",
+    "market_cap": 12305601536,
+    "sector": "Energy",
+    "name": "HF Sinclair Corporation"
+  },
+  "DIOD": {
+    "name_en": "Diodes Incorporated",
+    "market_cap": 5048866816,
+    "sector": "Technology",
+    "name": "Diodes Incorporated"
+  },
+  "DISV": {
+    "name_en": "Dimensional International Small Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International Small Cap Value ETF"
+  },
+  "DK": {
+    "name_en": "Delek US Holdings, Inc.",
+    "market_cap": 2720553984,
+    "sector": "Energy",
+    "name": "Delek US Holdings, Inc."
+  },
+  "DKS": {
+    "name_en": "DICK'S Sporting Goods, Inc.",
+    "market_cap": 20243181568,
+    "sector": "Consumer Cyclical",
+    "name": "DICK'S Sporting Goods, Inc."
+  },
+  "DLLL": {
+    "name_en": "GraniteShares 2x Long DELL Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "GraniteShares 2x Long DELL Daily ETF"
+  },
+  "DLN": {
+    "name_en": "WisdomTree U.S. LargeCap Dividend Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "WisdomTree U.S. LargeCap Dividend Fund"
+  },
+  "DLR": {
+    "name_en": "Digital Realty Trust, Inc.",
+    "market_cap": 68474331136,
+    "sector": "Real Estate",
+    "name": "Digital Realty Trust, Inc."
+  },
+  "DNTH": {
+    "name_en": "Dianthus Therapeutics, Inc.",
+    "market_cap": 4966973952,
+    "sector": "Healthcare",
+    "name": "Dianthus Therapeutics, Inc."
+  },
+  "DOC": {
+    "name_en": "Healthpeak Properties, Inc.",
+    "market_cap": 13450578944,
+    "sector": "Real Estate",
+    "name": "Healthpeak Properties, Inc."
+  },
+  "DOCN": {
+    "name_en": "DigitalOcean Holdings, Inc.",
+    "market_cap": 15853963264,
+    "sector": "Technology",
+    "name": "DigitalOcean Holdings, Inc."
+  },
+  "DRAM": {
+    "name_en": "Roundhill Memory ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Roundhill Memory ETF"
+  },
+  "DRH": {
+    "name_en": "DiamondRock Hospitality Company",
+    "market_cap": 2292910848,
+    "sector": "Real Estate",
+    "name": "DiamondRock Hospitality Company"
+  },
+  "DRN": {
+    "name_en": "Direxion Daily Real Estate Bull 3X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Real Estate Bull 3X Shares"
+  },
+  "DRS": {
+    "name_en": "Leonardo DRS, Inc.",
+    "market_cap": 12913951744,
+    "sector": "Industrials",
+    "name": "Leonardo DRS, Inc."
+  },
+  "DRTS": {
+    "name_en": "Alpha Tau Medical Ltd.",
+    "market_cap": 915001088,
+    "sector": "Healthcare",
+    "name": "Alpha Tau Medical Ltd."
+  },
+  "DSI": {
+    "name_en": "iShares ESG MSCI KLD 400 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares ESG MSCI KLD 400 ETF"
   }
 }
