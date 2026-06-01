@@ -8718,25 +8718,25 @@
     "sector": ""
   },
   "3448.HK": {
-    "name_en": "Global X China Core TECH ETF",
+    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
   },
   "3454.HK": {
-    "name_en": "CSOP MAG Seven ETF",
+    "name_en": "CSOP ETF Series - CSOP MAG Seven ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3454"
   },
   "3466.HK": {
-    "name_en": "Hang Seng High Dividend 30 Index ETF",
+    "name_en": "Hang Seng High Dividend 30 Index Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3466"
@@ -10500,7 +10500,7 @@
     "name": "赤峰黃金"
   },
   "9747.HK": {
-    "name_en": "CSOP Leveraged and Inverse Series - CSOP Samsung Electronics Daily (2x) Leveraged Product",
+    "name_en": "CSOP Samsung Electronics Daily (2x) Leveraged Product",
     "market_cap": 0,
     "sector": "",
     "name": "9747"
@@ -10912,5 +10912,59 @@
     "market_cap": 10722302976,
     "sector": "Industrials",
     "name": "重慶機電"
+  },
+  "3336.HK": {
+    "name_en": "Ju Teng International Holdings Limited",
+    "market_cap": 2748403712,
+    "sector": "Technology",
+    "name": "巨騰國際"
+  },
+  "3396.HK": {
+    "name_en": "Legend Holdings Corporation",
+    "market_cap": 38924935168,
+    "sector": "Technology",
+    "name": "聯想控股"
+  },
+  "3433.HK": {
+    "name_en": "CSOP ETF Series II - CSOP FTSE US Treasury 20+ Years Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3433"
+  },
+  "3441.HK": {
+    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3441"
+  },
+  "3489.HK": {
+    "name_en": "E Fund (HK) FTSE AI Select Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3489"
+  },
+  "6651.HK": {
+    "name_en": "Beijing 51World Digital Twin Technology Co., Ltd.",
+    "market_cap": 40800071680,
+    "sector": "Technology",
+    "name": "五一視界"
+  },
+  "6823.HK": {
+    "name_en": "HKT Trust and HKT Limited",
+    "market_cap": 92787802112,
+    "sector": "Communication Services",
+    "name": "香港電訊－ＳＳ"
+  },
+  "9869.HK": {
+    "name_en": "Helens International Holdings Company Limited",
+    "market_cap": 1631853184,
+    "sector": "Consumer Cyclical",
+    "name": "海倫司"
+  },
+  "9929.HK": {
+    "name_en": "SEM Holdings Limited",
+    "market_cap": 3520000000,
+    "sector": "Industrials",
+    "name": "澳達控股"
   }
 }
