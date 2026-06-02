@@ -2290,5 +2290,521 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares ESG MSCI KLD 400 ETF"
+  },
+  "BEAM": {
+    "name_en": "Beam Therapeutics Inc.",
+    "market_cap": 3203658752,
+    "sector": "Healthcare",
+    "name": "Beam Therapeutics Inc."
+  },
+  "BG": {
+    "name_en": "Bunge Global SA",
+    "market_cap": 25216534528,
+    "sector": "Consumer Defensive",
+    "name": "Bunge Global SA"
+  },
+  "CAIE": {
+    "name_en": "Calamos US Equity Autocallable Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Calamos US Equity Autocallable Income ETF"
+  },
+  "CBU": {
+    "name_en": "Community Financial System, Inc.",
+    "market_cap": 3295194112,
+    "sector": "Financial Services",
+    "name": "Community Financial System, Inc."
+  },
+  "CCCC": {
+    "name_en": "C4 Therapeutics, Inc.",
+    "market_cap": 484284448,
+    "sector": "Healthcare",
+    "name": "C4 Therapeutics, Inc."
+  },
+  "CCRN": {
+    "name_en": "Cross Country Healthcare, Inc.",
+    "market_cap": 405896992,
+    "sector": "Healthcare",
+    "name": "Cross Country Healthcare, Inc."
+  },
+  "CDNS": {
+    "name_en": "Cadence Design Systems, Inc.",
+    "market_cap": 114231959552,
+    "sector": "Technology",
+    "name": "Cadence Design Systems, Inc."
+  },
+  "CGGR": {
+    "name_en": "Capital Group Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Growth ETF"
+  },
+  "CLOV": {
+    "name_en": "Clover Health Investments, Corp.",
+    "market_cap": 2064602624,
+    "sector": "Healthcare",
+    "name": "Clover Health Investments, Corp."
+  },
+  "CNK": {
+    "name_en": "Cinemark Holdings, Inc.",
+    "market_cap": 3623924224,
+    "sector": "Communication Services",
+    "name": "Cinemark Holdings, Inc."
+  },
+  "CRSR": {
+    "name_en": "Corsair Gaming, Inc.",
+    "market_cap": 1227007744,
+    "sector": "Technology",
+    "name": "Corsair Gaming, Inc."
+  },
+  "CX": {
+    "name_en": "CEMEX, S.A.B. de C.V.",
+    "market_cap": 18902677504,
+    "sector": "Basic Materials",
+    "name": "CEMEX, S.A.B. de C.V."
+  },
+  "DBC": {
+    "name_en": "Invesco DB Commodity Index Tracking Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco DB Commodity Index Tracking Fund"
+  },
+  "DIA": {
+    "name_en": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR Dow Jones Industrial Average ETF Trust"
+  },
+  "DIHP": {
+    "name_en": "Dimensional International High Profitability ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International High Profitability ETF"
+  },
+  "DRNZ": {
+    "name_en": "REX Drone ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "REX Drone ETF"
+  },
+  "DTCR": {
+    "name_en": "Global X Data Center & Digital Infrastructure ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Data Center & Digital Infrastructure ETF"
+  },
+  "DUHP": {
+    "name_en": "Dimensional US High Profitability ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US High Profitability ETF"
+  },
+  "DUSB": {
+    "name_en": "Dimensional Ultrashort Fixed Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Ultrashort Fixed Income ETF"
+  },
+  "DVA": {
+    "name_en": "DaVita Inc.",
+    "market_cap": 12182955008,
+    "sector": "Healthcare",
+    "name": "DaVita Inc."
+  },
+  "DVY": {
+    "name_en": "iShares Select Dividend ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Select Dividend ETF"
+  },
+  "DXJ": {
+    "name_en": "WisdomTree Japan Hedged Equity Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "WisdomTree Japan Hedged Equity Fund"
+  },
+  "DXYZ": {
+    "name_en": "Destiny Tech100 Inc.",
+    "market_cap": 1496473344,
+    "sector": "Financial Services",
+    "name": "Destiny Tech100 Inc."
+  },
+  "DY": {
+    "name_en": "Dycom Industries, Inc.",
+    "market_cap": 14832236544,
+    "sector": "Industrials",
+    "name": "Dycom Industries, Inc."
+  },
+  "DYN": {
+    "name_en": "Dyne Therapeutics, Inc.",
+    "market_cap": 3079795712,
+    "sector": "Healthcare",
+    "name": "Dyne Therapeutics, Inc."
+  },
+  "DYNF": {
+    "name_en": "iShares U.S. Equity Factor Rotation Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Equity Factor Rotation Active ETF"
+  },
+  "EA": {
+    "name_en": "Electronic Arts Inc.",
+    "market_cap": 50651799552,
+    "sector": "Communication Services",
+    "name": "Electronic Arts Inc."
+  },
+  "EBAY": {
+    "name_en": "eBay Inc.",
+    "market_cap": 48995397632,
+    "sector": "Consumer Cyclical",
+    "name": "eBay Inc."
+  },
+  "EC": {
+    "name_en": "Ecopetrol S.A.",
+    "market_cap": 33407313920,
+    "sector": "Energy",
+    "name": "Ecopetrol S.A."
+  },
+  "ECG": {
+    "name_en": "Everus Construction Group, Inc.",
+    "market_cap": 7407668736,
+    "sector": "Industrials",
+    "name": "Everus Construction Group, Inc."
+  },
+  "EDC": {
+    "name_en": "Direxion Daily MSCI Emerging Markets Bull 3X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily MSCI Emerging Markets Bull 3X Shares"
+  },
+  "EEM": {
+    "name_en": "iShares MSCI Emerging Markets ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Emerging Markets ETF"
+  },
+  "EEMA": {
+    "name_en": "iShares MSCI Emerging Markets Asia ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Emerging Markets Asia ETF"
+  },
+  "EEMV": {
+    "name_en": "iShares MSCI Emerging Markets Min Vol Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Emerging Markets Min Vol Factor ETF"
+  },
+  "EFA": {
+    "name_en": "iShares MSCI EAFE ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI EAFE ETF"
+  },
+  "EFC": {
+    "name_en": "Ellington Financial Inc.",
+    "market_cap": 1684036352,
+    "sector": "Real Estate",
+    "name": "Ellington Financial Inc."
+  },
+  "EFSC": {
+    "name_en": "Enterprise Financial Services Corp",
+    "market_cap": 2183440896,
+    "sector": "Financial Services",
+    "name": "Enterprise Financial Services Corp"
+  },
+  "EFV": {
+    "name_en": "iShares MSCI EAFE Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI EAFE Value ETF"
+  },
+  "EFXT": {
+    "name_en": "Enerflex Ltd.",
+    "market_cap": 3096838656,
+    "sector": "Energy",
+    "name": "Enerflex Ltd."
+  },
+  "EHAB": {
+    "name_en": "Enhabit Inc",
+    "market_cap": 706913408,
+    "sector": "Healthcare",
+    "name": "Enhabit Inc"
+  },
+  "EIS": {
+    "name_en": "iShares MSCI Israel ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Israel ETF"
+  },
+  "ELV": {
+    "name_en": "Elevance Health, Inc.",
+    "market_cap": 87442604032,
+    "sector": "Healthcare",
+    "name": "Elevance Health, Inc."
+  },
+  "EMEQ": {
+    "name_en": "Nomura Focused Emerging Markets Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Nomura Focused Emerging Markets Equity ETF"
+  },
+  "EMGF": {
+    "name_en": "iShares Emerging Markets Equity Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Emerging Markets Equity Factor ETF"
+  },
+  "EMN": {
+    "name_en": "Eastman Chemical Company",
+    "market_cap": 8632278016,
+    "sector": "Basic Materials",
+    "name": "Eastman Chemical Company"
+  },
+  "EMXC": {
+    "name_en": "iShares MSCI Emerging Markets ex China ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Emerging Markets ex China ETF"
+  },
+  "ENB": {
+    "name_en": "Enbridge Inc.",
+    "market_cap": 119950442496,
+    "sector": "Energy",
+    "name": "Enbridge Inc."
+  },
+  "ENLT": {
+    "name_en": "Enlight Renewable Energy Ltd",
+    "market_cap": 14659336192,
+    "sector": "Utilities",
+    "name": "Enlight Renewable Energy Ltd"
+  },
+  "ENS": {
+    "name_en": "EnerSys",
+    "market_cap": 8322035200,
+    "sector": "Industrials",
+    "name": "EnerSys"
+  },
+  "ENTG": {
+    "name_en": "Entegris, Inc.",
+    "market_cap": 20671678464,
+    "sector": "Technology",
+    "name": "Entegris, Inc."
+  },
+  "ENVA": {
+    "name_en": "Enova International, Inc.",
+    "market_cap": 4089335040,
+    "sector": "Financial Services",
+    "name": "Enova International, Inc."
+  },
+  "EPOL": {
+    "name_en": "iShares MSCI Poland ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Poland ETF"
+  },
+  "EPP": {
+    "name_en": "iShares MSCI Pacific ex Japan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Pacific ex Japan ETF"
+  },
+  "EQIX": {
+    "name_en": "Equinix, Inc.",
+    "market_cap": 103631405056,
+    "sector": "Real Estate",
+    "name": "Equinix, Inc."
+  },
+  "EQR": {
+    "name_en": "Equity Residential",
+    "market_cap": 25427402752,
+    "sector": "Real Estate",
+    "name": "Equity Residential"
+  },
+  "EQWL": {
+    "name_en": "Invesco S&P 100 Equal Weight ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco S&P 100 Equal Weight ETF"
+  },
+  "ERIC": {
+    "name_en": "Telefonaktiebolaget LM Ericsson (publ)",
+    "market_cap": 44262359040,
+    "sector": "Technology",
+    "name": "Telefonaktiebolaget LM Ericsson (publ)"
+  },
+  "ESGD": {
+    "name_en": "iShares ESG Aware MSCI EAFE ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares ESG Aware MSCI EAFE ETF"
+  },
+  "ESGE": {
+    "name_en": "iShares ESG Aware MSCI EM ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares ESG Aware MSCI EM ETF"
+  },
+  "ESGU": {
+    "name_en": "iShares ESG Aware MSCI USA ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares ESG Aware MSCI USA ETF"
+  },
+  "ESGV": {
+    "name_en": "Vanguard ESG U.S. Stock ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Vanguard ESG U.S. Stock ETF"
+  },
+  "ESI": {
+    "name_en": "Element Solutions Inc",
+    "market_cap": 10155983872,
+    "sector": "Basic Materials",
+    "name": "Element Solutions Inc"
+  },
+  "ESLT": {
+    "name_en": "Elbit Systems Ltd.",
+    "market_cap": 40154906624,
+    "sector": "Industrials",
+    "name": "Elbit Systems Ltd."
+  },
+  "ESS": {
+    "name_en": "Essex Property Trust, Inc.",
+    "market_cap": 19087730688,
+    "sector": "Real Estate",
+    "name": "Essex Property Trust, Inc."
+  },
+  "ET": {
+    "name_en": "Energy Transfer LP",
+    "market_cap": 66311139328,
+    "sector": "Energy",
+    "name": "Energy Transfer LP"
+  },
+  "ETN": {
+    "name_en": "Eaton Corporation plc",
+    "market_cap": 155351056384,
+    "sector": "Industrials",
+    "name": "Eaton Corporation plc"
+  },
+  "ETON": {
+    "name_en": "Eton Pharmaceuticals, Inc.",
+    "market_cap": 785612864,
+    "sector": "Healthcare",
+    "name": "Eton Pharmaceuticals, Inc."
+  },
+  "ETSY": {
+    "name_en": "Etsy, Inc.",
+    "market_cap": 6547840000,
+    "sector": "Consumer Cyclical",
+    "name": "Etsy, Inc."
+  },
+  "EUFN": {
+    "name_en": "iShares MSCI Europe Financials ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Europe Financials ETF"
+  },
+  "EVC": {
+    "name_en": "Entravision Communications Corporation",
+    "market_cap": 854123584,
+    "sector": "Communication Services",
+    "name": "Entravision Communications Corporation"
+  },
+  "EWA": {
+    "name_en": "iShares MSCI Australia ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Australia ETF"
+  },
+  "EWBC": {
+    "name_en": "East West Bancorp, Inc.",
+    "market_cap": 16531338240,
+    "sector": "Financial Services",
+    "name": "East West Bancorp, Inc."
+  },
+  "EWC": {
+    "name_en": "iShares MSCI Canada ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Canada ETF"
+  },
+  "EWI": {
+    "name_en": "iShares MSCI Italy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Italy ETF"
+  },
+  "EWJ": {
+    "name_en": "iShares MSCI Japan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Japan ETF"
+  },
+  "EWN": {
+    "name_en": "iShares MSCI Netherlands ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Netherlands ETF"
+  },
+  "EWP": {
+    "name_en": "iShares MSCI Spain ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Spain ETF"
+  },
+  "EWS": {
+    "name_en": "iShares MSCI Singapore ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Singapore ETF"
+  },
+  "EWT": {
+    "name_en": "iShares MSCI Taiwan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Taiwan ETF"
+  },
+  "EWTX": {
+    "name_en": "Edgewise Therapeutics, Inc.",
+    "market_cap": 4331694080,
+    "sector": "Healthcare",
+    "name": "Edgewise Therapeutics, Inc."
+  },
+  "EWU": {
+    "name_en": "iShares MSCI United Kingdom ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI United Kingdom ETF"
+  },
+  "EWW": {
+    "name_en": "iShares MSCI Mexico ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Mexico ETF"
+  },
+  "EWY": {
+    "name_en": "iShares MSCI South Korea ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI South Korea ETF"
+  },
+  "EXEL": {
+    "name_en": "Exelixis, Inc.",
+    "market_cap": 12638133248,
+    "sector": "Healthcare",
+    "name": "Exelixis, Inc."
+  },
+  "EXTR": {
+    "name_en": "Extreme Networks, Inc.",
+    "market_cap": 3678787584,
+    "sector": "Technology",
+    "name": "Extreme Networks, Inc."
+  },
+  "EZPW": {
+    "name_en": "EZCORP, Inc.",
+    "market_cap": 1905153792,
+    "sector": "Financial Services",
+    "name": "EZCORP, Inc."
   }
 }
