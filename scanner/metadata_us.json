@@ -684,10 +684,10 @@
     "name": "Aflac Incorporated"
   },
   "AGIX": {
-    "name_en": "KraneShares Artificial Intelligence and Technology ETF",
+    "name_en": "KraneShares Artificial Intelligence and Technology Public and Private ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "KraneShares Artificial Intelligence and Technology ETF"
+    "name": "KraneShares Artificial Intelligence and Technology Public and Private ETF"
   },
   "AGL": {
     "name_en": "agilon health, inc.",
@@ -2806,5 +2806,293 @@
     "market_cap": 1905153792,
     "sector": "Financial Services",
     "name": "EZCORP, Inc."
+  },
+  "ADEA": {
+    "name_en": "Adeia Inc.",
+    "market_cap": 3319842048,
+    "sector": "Technology",
+    "name": "Adeia Inc."
+  },
+  "AME": {
+    "name_en": "AMETEK, Inc.",
+    "market_cap": 52565417984,
+    "sector": "Industrials",
+    "name": "AMETEK, Inc."
+  },
+  "ANDE": {
+    "name_en": "The Andersons, Inc.",
+    "market_cap": 2527662336,
+    "sector": "Consumer Defensive",
+    "name": "The Andersons, Inc."
+  },
+  "ANGL": {
+    "name_en": "VanEck Fallen Angel High Yield Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck Fallen Angel High Yield Bond ETF"
+  },
+  "ASTC": {
+    "name_en": "Astrotech Corporation",
+    "market_cap": 79416776,
+    "sector": "Technology",
+    "name": "Astrotech Corporation"
+  },
+  "AUPH": {
+    "name_en": "Aurinia Pharmaceuticals Inc.",
+    "market_cap": 2043480576,
+    "sector": "Healthcare",
+    "name": "Aurinia Pharmaceuticals Inc."
+  },
+  "AVBP": {
+    "name_en": "ArriVent BioPharma, Inc.",
+    "market_cap": 1379083648,
+    "sector": "Healthcare",
+    "name": "ArriVent BioPharma, Inc."
+  },
+  "BBEU": {
+    "name_en": "JPMorgan BetaBuilders Europe ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan BetaBuilders Europe ETF"
+  },
+  "BOTZ": {
+    "name_en": "Global X Robotics & Artificial Intelligence ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Robotics & Artificial Intelligence ETF"
+  },
+  "BYD": {
+    "name_en": "Boyd Gaming Corporation",
+    "market_cap": 6360431616,
+    "sector": "Consumer Cyclical",
+    "name": "Boyd Gaming Corporation"
+  },
+  "CAMT": {
+    "name_en": "Camtek Ltd.",
+    "market_cap": 8445477888,
+    "sector": "Technology",
+    "name": "Camtek Ltd."
+  },
+  "CLSK": {
+    "name_en": "CleanSpark, Inc.",
+    "market_cap": 4566350336,
+    "sector": "Financial Services",
+    "name": "CleanSpark, Inc."
+  },
+  "COLB": {
+    "name_en": "Columbia Banking System, Inc.",
+    "market_cap": 8302583808,
+    "sector": "Financial Services",
+    "name": "Columbia Banking System, Inc."
+  },
+  "CRWL": {
+    "name_en": "GraniteShares 2x Long CRWD Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "GraniteShares 2x Long CRWD Daily ETF"
+  },
+  "CVX": {
+    "name_en": "Chevron Corporation",
+    "market_cap": 380275654656,
+    "sector": "Energy",
+    "name": "Chevron Corporation"
+  },
+  "DAR": {
+    "name_en": "Darling Ingredients Inc.",
+    "market_cap": 9953620992,
+    "sector": "Consumer Defensive",
+    "name": "Darling Ingredients Inc."
+  },
+  "DE": {
+    "name_en": "Deere & Company",
+    "market_cap": 158958141440,
+    "sector": "Industrials",
+    "name": "Deere & Company"
+  },
+  "DIVO": {
+    "name_en": "Amplify CWP Enhanced Dividend Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Amplify CWP Enhanced Dividend Income ETF"
+  },
+  "DOV": {
+    "name_en": "Dover Corporation",
+    "market_cap": 29113796608,
+    "sector": "Industrials",
+    "name": "Dover Corporation"
+  },
+  "DTM": {
+    "name_en": "DT Midstream, Inc.",
+    "market_cap": 14583429120,
+    "sector": "Energy",
+    "name": "DT Midstream, Inc."
+  },
+  "DXPE": {
+    "name_en": "DXP Enterprises, Inc.",
+    "market_cap": 2412006400,
+    "sector": "Industrials",
+    "name": "DXP Enterprises, Inc."
+  },
+  "E": {
+    "name_en": "Eni S.p.A.",
+    "market_cap": 80110231552,
+    "sector": "Energy",
+    "name": "Eni S.p.A."
+  },
+  "EIX": {
+    "name_en": "Edison International",
+    "market_cap": 27766732800,
+    "sector": "Utilities",
+    "name": "Edison International"
+  },
+  "EMB": {
+    "name_en": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
+  },
+  "EME": {
+    "name_en": "EMCOR Group, Inc.",
+    "market_cap": 37496422400,
+    "sector": "Industrials",
+    "name": "EMCOR Group, Inc."
+  },
+  "EOG": {
+    "name_en": "EOG Resources, Inc.",
+    "market_cap": 75761090560,
+    "sector": "Energy",
+    "name": "EOG Resources, Inc."
+  },
+  "EPD": {
+    "name_en": "Enterprise Products Partners L.P.",
+    "market_cap": 82603122688,
+    "sector": "Energy",
+    "name": "Enterprise Products Partners L.P."
+  },
+  "EPR": {
+    "name_en": "EPR Properties",
+    "market_cap": 4322300416,
+    "sector": "Real Estate",
+    "name": "EPR Properties"
+  },
+  "ERX": {
+    "name_en": "Direxion Daily Energy Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Energy Bull 2X Shares"
+  },
+  "EUV": {
+    "name_en": "Corgi Lithography & Semiconductor Photonics ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Corgi Lithography & Semiconductor Photonics ETF"
+  },
+  "EVR": {
+    "name_en": "Evercore Inc.",
+    "market_cap": 13128835072,
+    "sector": "Financial Services",
+    "name": "Evercore Inc."
+  },
+  "EVRG": {
+    "name_en": "Evergy, Inc.",
+    "market_cap": 19083022336,
+    "sector": "Utilities",
+    "name": "Evergy, Inc."
+  },
+  "EZU": {
+    "name_en": "iShares MSCI Eurozone ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Eurozone ETF"
+  },
+  "FANG": {
+    "name_en": "Diamondback Energy, Inc.",
+    "market_cap": 58161528832,
+    "sector": "Energy",
+    "name": "Diamondback Energy, Inc."
+  },
+  "FATE": {
+    "name_en": "Fate Therapeutics, Inc.",
+    "market_cap": 271582880,
+    "sector": "Healthcare",
+    "name": "Fate Therapeutics, Inc."
+  },
+  "FAZ": {
+    "name_en": "Direxion Daily Financial Bear 3X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Financial Bear 3X Shares"
+  },
+  "FBCG": {
+    "name_en": "Fidelity Blue Chip Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Blue Chip Growth ETF"
+  },
+  "FBNC": {
+    "name_en": "First Bancorp",
+    "market_cap": 2404738816,
+    "sector": "Financial Services",
+    "name": "First Bancorp"
+  },
+  "FBP": {
+    "name_en": "First BanCorp.",
+    "market_cap": 3668339456,
+    "sector": "Financial Services",
+    "name": "First BanCorp."
+  },
+  "FCEL": {
+    "name_en": "FuelCell Energy, Inc.",
+    "market_cap": 1190942336,
+    "sector": "Industrials",
+    "name": "FuelCell Energy, Inc."
+  },
+  "FCF": {
+    "name_en": "First Commonwealth Financial Corporation",
+    "market_cap": 1900482560,
+    "sector": "Financial Services",
+    "name": "First Commonwealth Financial Corporation"
+  },
+  "FCFS": {
+    "name_en": "FirstCash Holdings, Inc.",
+    "market_cap": 9462149120,
+    "sector": "Financial Services",
+    "name": "FirstCash Holdings, Inc."
+  },
+  "FCX": {
+    "name_en": "Freeport-McMoRan Inc.",
+    "market_cap": 101125144576,
+    "sector": "Basic Materials",
+    "name": "Freeport-McMoRan Inc."
+  },
+  "FDL": {
+    "name_en": "First Trust Morningstar Dividend Leaders Index Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Morningstar Dividend Leaders Index Fund"
+  },
+  "FDT": {
+    "name_en": "First Trust Developed Markets Ex-US AlphaDEX Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Developed Markets Ex-US AlphaDEX Fund"
+  },
+  "FDVV": {
+    "name_en": "Fidelity High Dividend ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity High Dividend ETF"
+  },
+  "FDX": {
+    "name_en": "FedEx Corporation",
+    "market_cap": 78022017024,
+    "sector": "Industrials",
+    "name": "FedEx Corporation"
+  },
+  "FEIM": {
+    "name_en": "Frequency Electronics, Inc.",
+    "market_cap": 699465728,
+    "sector": "Technology",
+    "name": "Frequency Electronics, Inc."
   }
 }
