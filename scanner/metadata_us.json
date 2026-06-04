@@ -3094,5 +3094,161 @@
     "market_cap": 699465728,
     "sector": "Technology",
     "name": "Frequency Electronics, Inc."
+  },
+  "FELC": {
+    "name_en": "Fidelity Enhanced Large Cap Core ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Enhanced Large Cap Core ETF"
+  },
+  "FELG": {
+    "name_en": "Fidelity Enhanced Large Cap Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Enhanced Large Cap Growth ETF"
+  },
+  "FENI": {
+    "name_en": "Fidelity Enhanced International ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Enhanced International ETF"
+  },
+  "FENY": {
+    "name_en": "Fidelity MSCI Energy Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity MSCI Energy Index ETF"
+  },
+  "FEOE": {
+    "name_en": "First Eagle Overseas Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Eagle Overseas Equity ETF"
+  },
+  "FEPI": {
+    "name_en": "REX FANG & Innovation Equity Premium Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "REX FANG & Innovation Equity Premium Income ETF"
+  },
+  "FESM": {
+    "name_en": "Fidelity Enhanced Small Cap Core ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Enhanced Small Cap Core ETF"
+  },
+  "FFBC": {
+    "name_en": "First Financial Bancorp.",
+    "market_cap": 3123747584,
+    "sector": "Financial Services",
+    "name": "First Financial Bancorp."
+  },
+  "FFIV": {
+    "name_en": "F5, Inc.",
+    "market_cap": 22887032832,
+    "sector": "Technology",
+    "name": "F5, Inc."
+  },
+  "FHB": {
+    "name_en": "First Hawaiian, Inc.",
+    "market_cap": 3218831872,
+    "sector": "Financial Services",
+    "name": "First Hawaiian, Inc."
+  },
+  "FHI": {
+    "name_en": "Federated Hermes, Inc.",
+    "market_cap": 4243517696,
+    "sector": "Financial Services",
+    "name": "Federated Hermes, Inc."
+  },
+  "FIDU": {
+    "name_en": "Fidelity MSCI Industrials Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity MSCI Industrials Index ETF"
+  },
+  "FIX": {
+    "name_en": "Comfort Systems USA, Inc.",
+    "market_cap": 65091747840,
+    "sector": "Industrials",
+    "name": "Comfort Systems USA, Inc."
+  },
+  "FLDR": {
+    "name_en": "Fidelity Low Duration Bond Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Low Duration Bond Factor ETF"
+  },
+  "FLEX": {
+    "name_en": "Flex Ltd.",
+    "market_cap": 59331239936,
+    "sector": "Technology",
+    "name": "Flex Ltd."
+  },
+  "FLJP": {
+    "name_en": "Franklin FTSE Japan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin FTSE Japan ETF"
+  },
+  "FLKR": {
+    "name_en": "Franklin FTSE South Korea ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin FTSE South Korea ETF"
+  },
+  "FLOT": {
+    "name_en": "iShares Floating Rate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Floating Rate Bond ETF"
+  },
+  "FLR": {
+    "name_en": "Fluor Corporation",
+    "market_cap": 7005841408,
+    "sector": "Industrials",
+    "name": "Fluor Corporation"
+  },
+  "FLRN": {
+    "name_en": "State Street SPDR Bloomberg Investment Grade Floating Rate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR Bloomberg Investment Grade Floating Rate ETF"
+  },
+  "FLTR": {
+    "name_en": "VanEck IG Floating Rate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck IG Floating Rate ETF"
+  },
+  "FLTW": {
+    "name_en": "Franklin FTSE Taiwan ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin FTSE Taiwan ETF"
+  },
+  "FLXR": {
+    "name_en": "TCW Flexible Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "TCW Flexible Income ETF"
+  },
+  "FLY": {
+    "name_en": "Firefly Aerospace Inc.",
+    "market_cap": 6533276672,
+    "sector": "Industrials",
+    "name": "Firefly Aerospace Inc."
+  },
+  "FLYW": {
+    "name_en": "Flywire Corporation",
+    "market_cap": 1803135232,
+    "sector": "Technology",
+    "name": "Flywire Corporation"
+  },
+  "FMDE": {
+    "name_en": "Fidelity Enhanced Mid Cap Core ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Enhanced Mid Cap Core ETF"
   }
 }
