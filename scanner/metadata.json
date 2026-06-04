@@ -10500,7 +10500,7 @@
     "name": "赤峰黃金"
   },
   "9747.HK": {
-    "name_en": "CSOP Samsung Electronics Daily (2x) Leveraged Product",
+    "name_en": "CSOP Leveraged and Inverse Series - CSOP Samsung Electronics Daily (2x) Leveraged Product",
     "market_cap": 0,
     "sector": "",
     "name": "9747"
@@ -10966,5 +10966,83 @@
     "market_cap": 3520000000,
     "sector": "Industrials",
     "name": "澳達控股"
+  },
+  "1277.HK": {
+    "name_en": "Kinetic Development Group Limited",
+    "market_cap": 16269899776,
+    "sector": "Energy",
+    "name": "力量發展"
+  },
+  "1417.HK": {
+    "name_en": "Riverine China Holdings Limited",
+    "market_cap": 720899968,
+    "sector": "Real Estate",
+    "name": "浦江中國"
+  },
+  "1523.HK": {
+    "name_en": "PLOVER BAY TECH",
+    "market_cap": 0,
+    "sector": "Technology",
+    "name": "珩灣科技"
+  },
+  "1963.HK": {
+    "name_en": "Bank of Chongqing Co., Ltd.",
+    "market_cap": 28387385344,
+    "sector": "Financial Services",
+    "name": "重慶銀行"
+  },
+  "1986.HK": {
+    "name_en": "Tsaker New Energy Tech Co., Limited",
+    "market_cap": 1025957504,
+    "sector": "Basic Materials",
+    "name": "彩客新能源"
+  },
+  "2028.HK": {
+    "name_en": "Jolimark Holdings Limited",
+    "market_cap": 631267904,
+    "sector": "Technology",
+    "name": "映美控股"
+  },
+  "2225.HK": {
+    "name_en": "Jinhai Medical Technology Limited",
+    "market_cap": 19361400832,
+    "sector": "Industrials",
+    "name": "今海醫療科技"
+  },
+  "2439.HK": {
+    "name_en": "China Treasures New Materials Group Ltd.",
+    "market_cap": 410000000,
+    "sector": "Basic Materials",
+    "name": "中寶新材"
+  },
+  "2476.HK": {
+    "name_en": "VGT",
+    "market_cap": 407855693824,
+    "sector": "Technology",
+    "name": "勝宏科技"
+  },
+  "2715.HK": {
+    "name_en": "ESTUN",
+    "market_cap": 15997709312,
+    "sector": "Technology",
+    "name": "埃斯頓"
+  },
+  "2846.HK": {
+    "name_en": "iShares Asia Trust - iShares Core CSI 300 Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "2846"
+  },
+  "3389.HK": {
+    "name_en": "Hengdeli Holdings Limited",
+    "market_cap": 1123024896,
+    "sector": "Industrials",
+    "name": "亨得利"
+  },
+  "9990.HK": {
+    "name_en": "Archosaur Games Inc.",
+    "market_cap": 1624732032,
+    "sector": "Communication Services",
+    "name": "祖龍娛樂"
   }
 }
