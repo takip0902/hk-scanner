@@ -3250,5 +3250,155 @@
     "market_cap": 0,
     "sector": "",
     "name": "Fidelity Enhanced Mid Cap Core ETF"
+  },
+  "AA": {
+    "name_en": "Alcoa Corporation",
+    "market_cap": 20588687360,
+    "sector": "Basic Materials",
+    "name": "Alcoa Corporation"
+  },
+  "ABCL": {
+    "name_en": "AbCellera Biologics Inc.",
+    "market_cap": 1945241216,
+    "sector": "Healthcare",
+    "name": "AbCellera Biologics Inc."
+  },
+  "ACDC": {
+    "name_en": "ProFrac Holding Corp.",
+    "market_cap": 1458221312,
+    "sector": "Energy",
+    "name": "ProFrac Holding Corp."
+  },
+  "ACMR": {
+    "name_en": "ACM Research, Inc.",
+    "market_cap": 6234021376,
+    "sector": "Technology",
+    "name": "ACM Research, Inc."
+  },
+  "APGE": {
+    "name_en": "Apogee Therapeutics, Inc.",
+    "market_cap": 6852894208,
+    "sector": "Healthcare",
+    "name": "Apogee Therapeutics, Inc."
+  },
+  "ARGT": {
+    "name_en": "Global X MSCI Argentina ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X MSCI Argentina ETF"
+  },
+  "AVGG": {
+    "name_en": "Leverage Shares 2X Long AVGO Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Leverage Shares 2X Long AVGO Daily ETF"
+  },
+  "BCAR": {
+    "name_en": "D. Boral ARC Acquisition I Corp.",
+    "market_cap": 442526432,
+    "sector": "Financial Services",
+    "name": "D. Boral ARC Acquisition I Corp."
+  },
+  "BRKR": {
+    "name_en": "Bruker Corporation",
+    "market_cap": 9128971264,
+    "sector": "Healthcare",
+    "name": "Bruker Corporation"
+  },
+  "CAKE": {
+    "name_en": "The Cheesecake Factory Incorporated",
+    "market_cap": 3171913728,
+    "sector": "Consumer Cyclical",
+    "name": "The Cheesecake Factory Incorporated"
+  },
+  "CLYM": {
+    "name_en": "Climb Bio, Inc.",
+    "market_cap": 624739584,
+    "sector": "Healthcare",
+    "name": "Climb Bio, Inc."
+  },
+  "COWG": {
+    "name_en": "Pacer US Large Cap Cash Cows Growth Leaders ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Pacer US Large Cap Cash Cows Growth Leaders ETF"
+  },
+  "CYD": {
+    "name_en": "China Yuchai International Limited",
+    "market_cap": 2182065664,
+    "sector": "Consumer Cyclical",
+    "name": "China Yuchai International Limited"
+  },
+  "DDM": {
+    "name_en": "ProShares Ultra Dow30",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ProShares Ultra Dow30"
+  },
+  "DLUX": {
+    "name_en": "DoubleLine Ultrashort Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "DoubleLine Ultrashort Income ETF"
+  },
+  "DUOT": {
+    "name_en": "Duos Technologies Group, Inc.",
+    "market_cap": 407889440,
+    "sector": "Technology",
+    "name": "Duos Technologies Group, Inc."
+  },
+  "ECPG": {
+    "name_en": "Encore Capital Group, Inc.",
+    "market_cap": 1728097152,
+    "sector": "Financial Services",
+    "name": "Encore Capital Group, Inc."
+  },
+  "EFG": {
+    "name_en": "iShares MSCI EAFE Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI EAFE Growth ETF"
+  },
+  "EGP": {
+    "name_en": "EastGroup Properties, Inc.",
+    "market_cap": 10666112000,
+    "sector": "Real Estate",
+    "name": "EastGroup Properties, Inc."
+  },
+  "FAF": {
+    "name_en": "First American Financial Corporation",
+    "market_cap": 6715210240,
+    "sector": "Financial Services",
+    "name": "First American Financial Corporation"
+  },
+  "FBT": {
+    "name_en": "First Trust NYSE Arca Biotechnology Index Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust NYSE Arca Biotechnology Index Fund"
+  },
+  "FHN": {
+    "name_en": "First Horizon Corporation",
+    "market_cap": 11509482496,
+    "sector": "Financial Services",
+    "name": "First Horizon Corporation"
+  },
+  "FLG": {
+    "name_en": "Flagstar Bank, National Association",
+    "market_cap": 5881261568,
+    "sector": "Financial Services",
+    "name": "Flagstar Bank, National Association"
+  },
+  "FMX": {
+    "name_en": "Fomento Económico Mexicano, S.A.B. de C.V.",
+    "market_cap": 41743699968,
+    "sector": "Consumer Defensive",
+    "name": "Fomento Económico Mexicano, S.A.B. de C.V."
+  },
+  "FN": {
+    "name_en": "Fabrinet",
+    "market_cap": 25610383360,
+    "sector": "Technology",
+    "name": "Fabrinet"
   }
 }
