@@ -11044,5 +11044,23 @@
     "market_cap": 1624732032,
     "sector": "Communication Services",
     "name": "祖龍娛樂"
+  },
+  "2271.HK": {
+    "name_en": "Zhong An Intelligent Living Service Limited",
+    "market_cap": 1628592000,
+    "sector": "Real Estate",
+    "name": "眾安智慧生活"
+  },
+  "2546.HK": {
+    "name_en": "Xizang Zhihui Mining Co., Ltd.",
+    "market_cap": 7224401920,
+    "sector": "Industrials",
+    "name": "智匯礦業"
+  },
+  "2888.HK": {
+    "name_en": "Standard Chartered PLC",
+    "market_cap": 439790764032,
+    "sector": "Financial Services",
+    "name": "渣打集團"
   }
 }
