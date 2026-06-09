@@ -11062,5 +11062,35 @@
     "market_cap": 439790764032,
     "sector": "Financial Services",
     "name": "渣打集團"
+  },
+  "1865.HK": {
+    "name_en": "Pengo Holdings Group Limited",
+    "market_cap": 545310144,
+    "sector": "Industrials",
+    "name": "鵬高控股集團"
+  },
+  "1933.HK": {
+    "name_en": "OneForce Holdings Limited",
+    "market_cap": 203120224,
+    "sector": "Technology",
+    "name": "元力控股"
+  },
+  "1985.HK": {
+    "name_en": "Microware Group Limited",
+    "market_cap": 501000000,
+    "sector": "Technology",
+    "name": "美高域"
+  },
+  "2422.HK": {
+    "name_en": "Rego Interactive Co., Ltd",
+    "market_cap": 2988000000,
+    "sector": "Communication Services",
+    "name": "潤歌互動"
+  },
+  "2827.HK": {
+    "name_en": "World Index Shares ETFs - CSI 300 China Tracker",
+    "market_cap": 0,
+    "sector": "",
+    "name": "2827"
   }
 }
