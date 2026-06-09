@@ -3400,5 +3400,155 @@
     "market_cap": 25610383360,
     "sector": "Technology",
     "name": "Fabrinet"
+  },
+  "ENPH": {
+    "name_en": "Enphase Energy, Inc.",
+    "market_cap": 7496683008,
+    "sector": "Technology",
+    "name": "Enphase Energy, Inc."
+  },
+  "ESQ": {
+    "name_en": "Esquire Financial Holdings, Inc.",
+    "market_cap": 952756416,
+    "sector": "Financial Services",
+    "name": "Esquire Financial Holdings, Inc."
+  },
+  "ETOR": {
+    "name_en": "eToro Group Ltd.",
+    "market_cap": 3108713984,
+    "sector": "Financial Services",
+    "name": "eToro Group Ltd."
+  },
+  "EW": {
+    "name_en": "Edwards Lifesciences Corporation",
+    "market_cap": 49432428544,
+    "sector": "Healthcare",
+    "name": "Edwards Lifesciences Corporation"
+  },
+  "F": {
+    "name_en": "Ford Motor Company",
+    "market_cap": 59770392576,
+    "sector": "Consumer Cyclical",
+    "name": "Ford Motor Company"
+  },
+  "FALN": {
+    "name_en": "iShares Fallen Angels USD Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Fallen Angels USD Bond ETF"
+  },
+  "FEGE": {
+    "name_en": "First Eagle Global Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Eagle Global Equity ETF"
+  },
+  "FELE": {
+    "name_en": "Franklin Electric Co., Inc.",
+    "market_cap": 4422199296,
+    "sector": "Industrials",
+    "name": "Franklin Electric Co., Inc."
+  },
+  "FEZ": {
+    "name_en": "State Street SPDR EURO STOXX 50 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR EURO STOXX 50 ETF"
+  },
+  "FITB": {
+    "name_en": "Fifth Third Bancorp",
+    "market_cap": 47091945472,
+    "sector": "Financial Services",
+    "name": "Fifth Third Bancorp"
+  },
+  "FLMI": {
+    "name_en": "Franklin Dynamic Municipal Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin Dynamic Municipal Bond ETF"
+  },
+  "FNB": {
+    "name_en": "F.N.B. Corporation",
+    "market_cap": 6304120832,
+    "sector": "Financial Services",
+    "name": "F.N.B. Corporation"
+  },
+  "FNDA": {
+    "name_en": "Schwab Fundamental U.S. Small Company ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Schwab Fundamental U.S. Small Company ETF"
+  },
+  "FNDF": {
+    "name_en": "Schwab Fundamental International Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Schwab Fundamental International Equity ETF"
+  },
+  "FNDX": {
+    "name_en": "Schwab Fundamental U.S. Large Company ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Schwab Fundamental U.S. Large Company ETF"
+  },
+  "FNGU": {
+    "name_en": "MicroSectors FANG+ 3X Leveraged",
+    "market_cap": 0,
+    "sector": "",
+    "name": "MicroSectors FANG+ 3X Leveraged"
+  },
+  "FPS": {
+    "name_en": "Forgent Power Solutions, Inc.",
+    "market_cap": 18058721280,
+    "sector": "Industrials",
+    "name": "Forgent Power Solutions, Inc."
+  },
+  "FRDM": {
+    "name_en": "Freedom 100 Emerging Markets ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Freedom 100 Emerging Markets ETF"
+  },
+  "FRME": {
+    "name_en": "First Merchants Corporation",
+    "market_cap": 2522170112,
+    "sector": "Financial Services",
+    "name": "First Merchants Corporation"
+  },
+  "FROG": {
+    "name_en": "JFrog Ltd.",
+    "market_cap": 10376327168,
+    "sector": "Technology",
+    "name": "JFrog Ltd."
+  },
+  "FRT": {
+    "name_en": "Federal Realty Investment Trust",
+    "market_cap": 10612736000,
+    "sector": "Real Estate",
+    "name": "Federal Realty Investment Trust"
+  },
+  "FTDR": {
+    "name_en": "Frontdoor, Inc.",
+    "market_cap": 4460619776,
+    "sector": "Consumer Cyclical",
+    "name": "Frontdoor, Inc."
+  },
+  "FTEC": {
+    "name_en": "Fidelity MSCI Information Technology Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity MSCI Information Technology Index ETF"
+  },
+  "FTHI": {
+    "name_en": "First Trust BuyWrite Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust BuyWrite Income ETF"
+  },
+  "FTNT": {
+    "name_en": "Fortinet, Inc.",
+    "market_cap": 104798019584,
+    "sector": "Technology",
+    "name": "Fortinet, Inc."
   }
 }
