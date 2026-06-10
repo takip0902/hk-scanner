@@ -3550,5 +3550,311 @@
     "market_cap": 104798019584,
     "sector": "Technology",
     "name": "Fortinet, Inc."
+  },
+  "EBC": {
+    "name_en": "Eastern Bankshares, Inc.",
+    "market_cap": 4398490112,
+    "sector": "Financial Services",
+    "name": "Eastern Bankshares, Inc."
+  },
+  "EMA": {
+    "name_en": "Emera Incorporated",
+    "market_cap": 15967980544,
+    "sector": "Utilities",
+    "name": "Emera Incorporated"
+  },
+  "EPC": {
+    "name_en": "Edgewell Personal Care Company",
+    "market_cap": 994895872,
+    "sector": "Consumer Defensive",
+    "name": "Edgewell Personal Care Company"
+  },
+  "ESML": {
+    "name_en": "iShares ESG Aware MSCI USA Small-Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares ESG Aware MSCI USA Small-Cap ETF"
+  },
+  "EXPD": {
+    "name_en": "Expeditors International of Washington, Inc.",
+    "market_cap": 21542608896,
+    "sector": "Industrials",
+    "name": "Expeditors International of Washington, Inc."
+  },
+  "EXR": {
+    "name_en": "Extra Space Storage Inc.",
+    "market_cap": 33015812096,
+    "sector": "Real Estate",
+    "name": "Extra Space Storage Inc."
+  },
+  "FA": {
+    "name_en": "First Advantage Corporation",
+    "market_cap": 2717146624,
+    "sector": "Industrials",
+    "name": "First Advantage Corporation"
+  },
+  "FCNCA": {
+    "name_en": "First Citizens BancShares, Inc.",
+    "market_cap": 24481771520,
+    "sector": "Financial Services",
+    "name": "First Citizens BancShares, Inc."
+  },
+  "FCPT": {
+    "name_en": "Four Corners Property Trust, Inc.",
+    "market_cap": 2761289728,
+    "sector": "Real Estate",
+    "name": "Four Corners Property Trust, Inc."
+  },
+  "FOX": {
+    "name_en": "Fox Corporation",
+    "market_cap": 25643970560,
+    "sector": "Communication Services",
+    "name": "Fox Corporation"
+  },
+  "FOXA": {
+    "name_en": "Fox Corporation",
+    "market_cap": 28572667904,
+    "sector": "Communication Services",
+    "name": "Fox Corporation"
+  },
+  "FOXX": {
+    "name_en": "Foxx Development Holdings Inc.",
+    "market_cap": 33656900,
+    "sector": "Technology",
+    "name": "Foxx Development Holdings Inc."
+  },
+  "FR": {
+    "name_en": "First Industrial Realty Trust, Inc.",
+    "market_cap": 8551196672,
+    "sector": "Real Estate",
+    "name": "First Industrial Realty Trust, Inc."
+  },
+  "FRO": {
+    "name_en": "Frontline plc",
+    "market_cap": 8076758528,
+    "sector": "Energy",
+    "name": "Frontline plc"
+  },
+  "FTRE": {
+    "name_en": "Fortrea Holdings Inc.",
+    "market_cap": 1545514496,
+    "sector": "Healthcare",
+    "name": "Fortrea Holdings Inc."
+  },
+  "FTS": {
+    "name_en": "Fortis Inc.",
+    "market_cap": 28755830784,
+    "sector": "Utilities",
+    "name": "Fortis Inc."
+  },
+  "FTSM": {
+    "name_en": "First Trust Enhanced Short Maturity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Enhanced Short Maturity ETF"
+  },
+  "FTV": {
+    "name_en": "Fortive Corporation",
+    "market_cap": 18309953536,
+    "sector": "Technology",
+    "name": "Fortive Corporation"
+  },
+  "FTXL": {
+    "name_en": "First Trust Nasdaq Semiconductor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Nasdaq Semiconductor ETF"
+  },
+  "FUL": {
+    "name_en": "H.B. Fuller Company",
+    "market_cap": 3334077440,
+    "sector": "Basic Materials",
+    "name": "H.B. Fuller Company"
+  },
+  "FULT": {
+    "name_en": "Fulton Financial Corporation",
+    "market_cap": 4342555136,
+    "sector": "Financial Services",
+    "name": "Fulton Financial Corporation"
+  },
+  "FUN": {
+    "name_en": "Six Flags Entertainment Corporation",
+    "market_cap": 2364999168,
+    "sector": "Consumer Cyclical",
+    "name": "Six Flags Entertainment Corporation"
+  },
+  "FWD": {
+    "name_en": "AB Disruptors ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "AB Disruptors ETF"
+  },
+  "GARP": {
+    "name_en": "iShares Trust - iShares MSCI USA Quality GARP ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Trust - iShares MSCI USA Quality GARP ETF"
+  },
+  "GBCI": {
+    "name_en": "Glacier Bancorp, Inc.",
+    "market_cap": 6232531968,
+    "sector": "Financial Services",
+    "name": "Glacier Bancorp, Inc."
+  },
+  "GBDC": {
+    "name_en": "Golub Capital BDC, Inc.",
+    "market_cap": 3441141504,
+    "sector": "Financial Services",
+    "name": "Golub Capital BDC, Inc."
+  },
+  "GBIL": {
+    "name_en": "Goldman Sachs Access Treasury 0-1 Year ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs Access Treasury 0-1 Year ETF"
+  },
+  "GBTG": {
+    "name_en": "Global Business Travel Group, Inc.",
+    "market_cap": 4870398464,
+    "sector": "Consumer Cyclical",
+    "name": "Global Business Travel Group, Inc."
+  },
+  "GCTS": {
+    "name_en": "GCT Semiconductor Holding, Inc.",
+    "market_cap": 205210880,
+    "sector": "Technology",
+    "name": "GCT Semiconductor Holding, Inc."
+  },
+  "GEO": {
+    "name_en": "The GEO Group, Inc.",
+    "market_cap": 3760018432,
+    "sector": "Industrials",
+    "name": "The GEO Group, Inc."
+  },
+  "GFF": {
+    "name_en": "Griffon Corporation",
+    "market_cap": 4163772672,
+    "sector": "Industrials",
+    "name": "Griffon Corporation"
+  },
+  "GFS": {
+    "name_en": "GLOBALFOUNDRIES Inc.",
+    "market_cap": 41032519680,
+    "sector": "Technology",
+    "name": "GLOBALFOUNDRIES Inc."
+  },
+  "GGB": {
+    "name_en": "Gerdau S.A.",
+    "market_cap": 8892344320,
+    "sector": "Basic Materials",
+    "name": "Gerdau S.A."
+  },
+  "GH": {
+    "name_en": "Guardant Health, Inc.",
+    "market_cap": 17330810880,
+    "sector": "Healthcare",
+    "name": "Guardant Health, Inc."
+  },
+  "GHC": {
+    "name_en": "Graham Holdings Company",
+    "market_cap": 4939277824,
+    "sector": "Consumer Defensive",
+    "name": "Graham Holdings Company"
+  },
+  "GHM": {
+    "name_en": "Graham Corporation",
+    "market_cap": 1123050880,
+    "sector": "Industrials",
+    "name": "Graham Corporation"
+  },
+  "GIII": {
+    "name_en": "G-III Apparel Group, Ltd.",
+    "market_cap": 1437432832,
+    "sector": "Consumer Cyclical",
+    "name": "G-III Apparel Group, Ltd."
+  },
+  "GL": {
+    "name_en": "Globe Life Inc.",
+    "market_cap": 12618826752,
+    "sector": "Financial Services",
+    "name": "Globe Life Inc."
+  },
+  "GLPI": {
+    "name_en": "Gaming and Leisure Properties, Inc.",
+    "market_cap": 13710770176,
+    "sector": "Real Estate",
+    "name": "Gaming and Leisure Properties, Inc."
+  },
+  "GNL": {
+    "name_en": "Global Net Lease, Inc.",
+    "market_cap": 2006990976,
+    "sector": "Real Estate",
+    "name": "Global Net Lease, Inc."
+  },
+  "GNW": {
+    "name_en": "Genworth Financial, Inc.",
+    "market_cap": 3420272640,
+    "sector": "Financial Services",
+    "name": "Genworth Financial, Inc."
+  },
+  "GPIQ": {
+    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs Nasdaq-100 Premiu"
+  },
+  "GPIX": {
+    "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs S&P 500 Premium Income ETF"
+  },
+  "GRDN": {
+    "name_en": "Guardian Pharmacy Services, Inc.",
+    "market_cap": 2657566976,
+    "sector": "Healthcare",
+    "name": "Guardian Pharmacy Services, Inc."
+  },
+  "GRNY": {
+    "name_en": "Fundstrat Granny Shots US Large Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fundstrat Granny Shots US Large Cap ETF"
+  },
+  "GS": {
+    "name_en": "The Goldman Sachs Group, Inc.",
+    "market_cap": 295387987968,
+    "sector": "Financial Services",
+    "name": "The Goldman Sachs Group, Inc."
+  },
+  "GSAT": {
+    "name_en": "Globalstar, Inc.",
+    "market_cap": 10343038976,
+    "sector": "Communication Services",
+    "name": "Globalstar, Inc."
+  },
+  "GSLC": {
+    "name_en": "Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF"
+  },
+  "GSST": {
+    "name_en": "Goldman Sachs Ultra Short Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs Ultra Short Bond ETF"
+  },
+  "GSY": {
+    "name_en": "Invesco Ultra Short Duration ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco Ultra Short Duration ETF"
+  },
+  "GTES": {
+    "name_en": "Gates Industrial Corporation plc",
+    "market_cap": 6433818112,
+    "sector": "Industrials",
+    "name": "Gates Industrial Corporation plc"
   }
 }
