@@ -8713,9 +8713,9 @@
   },
   "3440.HK": {
     "name_en": "Global X Exchange Traded Funds Series OFC - Global X US Treasury 0-3 Month ETF",
-    "name": "Global X Exchange Traded Funds Series OFC - Global X US Treasury 0-3 Month ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3440"
   },
   "3448.HK": {
     "name_en": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf",
@@ -11092,5 +11092,11 @@
     "market_cap": 0,
     "sector": "",
     "name": "2827"
+  },
+  "3421.HK": {
+    "name_en": "Value Partners Hkd Money Market Etf",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3421"
   }
 }
