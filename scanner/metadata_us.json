@@ -3856,5 +3856,53 @@
     "market_cap": 6433818112,
     "sector": "Industrials",
     "name": "Gates Industrial Corporation plc"
+  },
+  "DFSD": {
+    "name_en": "Dimensional Short-Duration Fixed Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Short-Duration Fixed Income ETF"
+  },
+  "DPST": {
+    "name_en": "Direxion Daily Regional Banks Bull 3X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Regional Banks Bull 3X Shares"
+  },
+  "DTE": {
+    "name_en": "DTE Energy Company",
+    "market_cap": 30328446976,
+    "sector": "Utilities",
+    "name": "DTE Energy Company"
+  },
+  "ESE": {
+    "name_en": "ESCO Technologies Inc.",
+    "market_cap": 8184593920,
+    "sector": "Technology",
+    "name": "ESCO Technologies Inc."
+  },
+  "ESTA": {
+    "name_en": "Establishment Labs Holdings Inc.",
+    "market_cap": 2504820480,
+    "sector": "Healthcare",
+    "name": "Establishment Labs Holdings Inc."
+  },
+  "EWG": {
+    "name_en": "iShares MSCI Germany ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Germany ETF"
+  },
+  "EWL": {
+    "name_en": "iShares MSCI Switzerland ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Switzerland ETF"
+  },
+  "EWQ": {
+    "name_en": "iShares MSCI France ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI France ETF"
   }
 }
