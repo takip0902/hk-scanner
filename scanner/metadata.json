@@ -11122,5 +11122,29 @@
     "market_cap": 134279757824,
     "sector": "Technology",
     "name": "天數智芯"
+  },
+  "3153.HK": {
+    "name_en": "CSOP Nikkei 225 Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3153"
+  },
+  "3193.HK": {
+    "name_en": "CSOP ETF Series - CSOP Yinhua CSI 5G Communications Theme ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3193"
+  },
+  "3415.HK": {
+    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3415"
+  },
+  "3486.HK": {
+    "name_en": "E Fund ETFs Trust - E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3486"
   }
 }
