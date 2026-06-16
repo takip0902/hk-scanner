@@ -3904,5 +3904,191 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares MSCI France ETF"
+  },
+  "BKU": {
+    "name_en": "BankUnited, Inc.",
+    "market_cap": 3499624448,
+    "sector": "Financial Services",
+    "name": "BankUnited, Inc."
+  },
+  "BLMN": {
+    "name_en": "Bloomin' Brands, Inc.",
+    "market_cap": 654949312,
+    "sector": "Consumer Cyclical",
+    "name": "Bloomin' Brands, Inc."
+  },
+  "BLOK": {
+    "name_en": "Amplify Blockchain Technology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Amplify Blockchain Technology ETF"
+  },
+  "BLX": {
+    "name_en": "Banco Latinoamericano de Comercio Exterior, S. A.",
+    "market_cap": 2184296192,
+    "sector": "Financial Services",
+    "name": "Banco Latinoamericano de Comercio Exterior, S. A."
+  },
+  "BN": {
+    "name_en": "Brookfield Corporation",
+    "market_cap": 102030647296,
+    "sector": "Financial Services",
+    "name": "Brookfield Corporation"
+  },
+  "BSCT": {
+    "name_en": "Invesco BulletShares 2029 Corporate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco BulletShares 2029 Corporate Bond ETF"
+  },
+  "BSV": {
+    "name_en": "Vanguard Short-Term Bond Index Fund ETF Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Vanguard Short-Term Bond Index Fund ETF Shares"
+  },
+  "BTDR": {
+    "name_en": "Bitdeer Technologies Group",
+    "market_cap": 4457505792,
+    "sector": "Technology",
+    "name": "Bitdeer Technologies Group"
+  },
+  "CAL": {
+    "name_en": "Caleres, Inc.",
+    "market_cap": 472271808,
+    "sector": "Consumer Cyclical",
+    "name": "Caleres, Inc."
+  },
+  "CART": {
+    "name_en": "Maplebear Inc.",
+    "market_cap": 9913556992,
+    "sector": "Consumer Cyclical",
+    "name": "Maplebear Inc."
+  },
+  "CAVA": {
+    "name_en": "CAVA Group, Inc.",
+    "market_cap": 10426738688,
+    "sector": "Consumer Cyclical",
+    "name": "CAVA Group, Inc."
+  },
+  "CGIE": {
+    "name_en": "Capital Group International Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group International Equity ETF"
+  },
+  "CI": {
+    "name_en": "The Cigna Group",
+    "market_cap": 77727555584,
+    "sector": "Healthcare",
+    "name": "The Cigna Group"
+  },
+  "CIBR": {
+    "name_en": "First Trust NASDAQ Cybersecurity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust NASDAQ Cybersecurity ETF"
+  },
+  "CINF": {
+    "name_en": "Cincinnati Financial Corporation",
+    "market_cap": 26194651136,
+    "sector": "Financial Services",
+    "name": "Cincinnati Financial Corporation"
+  },
+  "CLDX": {
+    "name_en": "Celldex Therapeutics, Inc.",
+    "market_cap": 2521165312,
+    "sector": "Healthcare",
+    "name": "Celldex Therapeutics, Inc."
+  },
+  "CLM": {
+    "name_en": "Cornerstone Strategic Investment Fund, Inc.",
+    "market_cap": 2231435520,
+    "sector": "Financial Services",
+    "name": "Cornerstone Strategic Investment Fund, Inc."
+  },
+  "CNOB": {
+    "name_en": "ConnectOne Bancorp, Inc.",
+    "market_cap": 1631358720,
+    "sector": "Financial Services",
+    "name": "ConnectOne Bancorp, Inc."
+  },
+  "COPX": {
+    "name_en": "Global X Copper Miners ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Copper Miners ETF"
+  },
+  "CPAY": {
+    "name_en": "Corpay, Inc.",
+    "market_cap": 23103477760,
+    "sector": "Technology",
+    "name": "Corpay, Inc."
+  },
+  "CPT": {
+    "name_en": "Camden Property Trust",
+    "market_cap": 11246782464,
+    "sector": "Real Estate",
+    "name": "Camden Property Trust"
+  },
+  "CRDU": {
+    "name_en": "Tradr 2X Long CRDO Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Tradr 2X Long CRDO Daily ETF"
+  },
+  "CRI": {
+    "name_en": "Carter's, Inc.",
+    "market_cap": 1540334848,
+    "sector": "Consumer Cyclical",
+    "name": "Carter's, Inc."
+  },
+  "CUZ": {
+    "name_en": "Cousins Properties Incorporated",
+    "market_cap": 4721379328,
+    "sector": "Real Estate",
+    "name": "Cousins Properties Incorporated"
+  },
+  "DAPP": {
+    "name_en": "VanEck Digital Transformation ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck Digital Transformation ETF"
+  },
+  "DHT": {
+    "name_en": "DHT Holdings, Inc.",
+    "market_cap": 2976049408,
+    "sector": "Energy",
+    "name": "DHT Holdings, Inc."
+  },
+  "EAGL": {
+    "name_en": "Eagle Capital Select Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Eagle Capital Select Equity ETF"
+  },
+  "ECO": {
+    "name_en": "Okeanis Eco Tankers Corp.",
+    "market_cap": 2076785152,
+    "sector": "Industrials",
+    "name": "Okeanis Eco Tankers Corp."
+  },
+  "ELVN": {
+    "name_en": "Enliven Therapeutics, Inc.",
+    "market_cap": 2579933440,
+    "sector": "Healthcare",
+    "name": "Enliven Therapeutics, Inc."
+  },
+  "ELVR": {
+    "name_en": "Elevra Lithium Limited",
+    "market_cap": 1854367232,
+    "sector": "Basic Materials",
+    "name": "Elevra Lithium Limited"
+  },
+  "ERAS": {
+    "name_en": "Erasca, Inc.",
+    "market_cap": 4487506944,
+    "sector": "Healthcare",
+    "name": "Erasca, Inc."
   }
 }
