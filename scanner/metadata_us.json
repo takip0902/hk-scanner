@@ -4090,5 +4090,131 @@
     "market_cap": 4487506944,
     "sector": "Healthcare",
     "name": "Erasca, Inc."
+  },
+  "BA": {
+    "name_en": "The Boeing Company",
+    "market_cap": 177864654848,
+    "sector": "Industrials",
+    "name": "The Boeing Company"
+  },
+  "BAC": {
+    "name_en": "Bank of America Corporation",
+    "market_cap": 401170268160,
+    "sector": "Financial Services",
+    "name": "Bank of America Corporation"
+  },
+  "BANC": {
+    "name_en": "Banc of California, Inc.",
+    "market_cap": 3057827840,
+    "sector": "Financial Services",
+    "name": "Banc of California, Inc."
+  },
+  "BAP": {
+    "name_en": "Credicorp Ltd.",
+    "market_cap": 30741733376,
+    "sector": "Financial Services",
+    "name": "Credicorp Ltd."
+  },
+  "BBAR": {
+    "name_en": "Banco BBVA Argentina S.A.",
+    "market_cap": 4297140224,
+    "sector": "Financial Services",
+    "name": "Banco BBVA Argentina S.A."
+  },
+  "BBVA": {
+    "name_en": "Banco Bilbao Vizcaya Argentaria, S.A.",
+    "market_cap": 135819059200,
+    "sector": "Financial Services",
+    "name": "Banco Bilbao Vizcaya Argentaria, S.A."
+  },
+  "BC": {
+    "name_en": "Brunswick Corporation",
+    "market_cap": 5245386752,
+    "sector": "Consumer Cyclical",
+    "name": "Brunswick Corporation"
+  },
+  "BCRX": {
+    "name_en": "BioCryst Pharmaceuticals, Inc.",
+    "market_cap": 2274755840,
+    "sector": "Healthcare",
+    "name": "BioCryst Pharmaceuticals, Inc."
+  },
+  "BCS": {
+    "name_en": "Barclays PLC",
+    "market_cap": 88912478208,
+    "sector": "Financial Services",
+    "name": "Barclays PLC"
+  },
+  "BHF": {
+    "name_en": "Brighthouse Financial, Inc.",
+    "market_cap": 3631722496,
+    "sector": "Financial Services",
+    "name": "Brighthouse Financial, Inc."
+  },
+  "BHYP": {
+    "name_en": "Bitwise Hyperliquid ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Bitwise Hyperliquid ETF"
+  },
+  "BINC": {
+    "name_en": "iShares Flexible Income Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Flexible Income Active ETF"
+  },
+  "BIRD": {
+    "name_en": "Allbirds, Inc.",
+    "market_cap": 48257160,
+    "sector": "Consumer Cyclical",
+    "name": "Allbirds, Inc."
+  },
+  "BJRI": {
+    "name_en": "BJ's Restaurants, Inc.",
+    "market_cap": 1101286912,
+    "sector": "Consumer Cyclical",
+    "name": "BJ's Restaurants, Inc."
+  },
+  "BKCH": {
+    "name_en": "Global X Blockchain ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Blockchain ETF"
+  },
+  "BLZE": {
+    "name_en": "Backblaze, Inc.",
+    "market_cap": 496321856,
+    "sector": "Technology",
+    "name": "Backblaze, Inc."
+  },
+  "BMA": {
+    "name_en": "Banco Macro S.A.",
+    "market_cap": 6299912704,
+    "sector": "Financial Services",
+    "name": "Banco Macro S.A."
+  },
+  "BZH": {
+    "name_en": "Beazer Homes USA, Inc.",
+    "market_cap": 734186560,
+    "sector": "Consumer Cyclical",
+    "name": "Beazer Homes USA, Inc."
+  },
+  "CMC": {
+    "name_en": "Commercial Metals Company",
+    "market_cap": 8119174144,
+    "sector": "Industrials",
+    "name": "Commercial Metals Company"
+  },
+  "EIG": {
+    "name_en": "Employers Holdings, Inc.",
+    "market_cap": 847018752,
+    "sector": "Financial Services",
+    "name": "Employers Holdings, Inc."
+  },
+  "EMLC": {
+    "name_en": "VanEck J.P. Morgan EM Local Currency Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck J.P. Morgan EM Local Currency Bond ETF"
   }
 }
