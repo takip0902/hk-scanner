@@ -4216,5 +4216,23 @@
     "market_cap": 0,
     "sector": "",
     "name": "VanEck J.P. Morgan EM Local Currency Bond ETF"
+  },
+  "FER": {
+    "name_en": "Ferrovial N.V.",
+    "market_cap": 49562644480,
+    "sector": "Industrials",
+    "name": "Ferrovial N.V."
+  },
+  "FFIN": {
+    "name_en": "First Financial Bankshares, Inc.",
+    "market_cap": 4696781824,
+    "sector": "Financial Services",
+    "name": "First Financial Bankshares, Inc."
+  },
+  "FIBK": {
+    "name_en": "First Interstate BancSystem, Inc.",
+    "market_cap": 3538915072,
+    "sector": "Financial Services",
+    "name": "First Interstate BancSystem, Inc."
   }
 }
