@@ -4234,5 +4234,101 @@
     "market_cap": 3538915072,
     "sector": "Financial Services",
     "name": "First Interstate BancSystem, Inc."
+  },
+  "ARKG": {
+    "name_en": "ARK Genomic Revolution ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ARK Genomic Revolution ETF"
+  },
+  "ASH": {
+    "name_en": "Ashland Inc.",
+    "market_cap": 3109905664,
+    "sector": "Basic Materials",
+    "name": "Ashland Inc."
+  },
+  "ASTI": {
+    "name_en": "Ascent Solar Technologies, Inc",
+    "market_cap": 0,
+    "sector": "Technology",
+    "name": "Ascent Solar Technologies, Inc"
+  },
+  "ASYS": {
+    "name_en": "Amtech Systems, Inc.",
+    "market_cap": 385349568,
+    "sector": "Technology",
+    "name": "Amtech Systems, Inc."
+  },
+  "ATLC": {
+    "name_en": "Atlanticus Holdings Corporation",
+    "market_cap": 1513613952,
+    "sector": "Financial Services",
+    "name": "Atlanticus Holdings Corporation"
+  },
+  "AUB": {
+    "name_en": "Atlantic Union Bankshares Corporation",
+    "market_cap": 5604409856,
+    "sector": "Financial Services",
+    "name": "Atlantic Union Bankshares Corporation"
+  },
+  "AVLN": {
+    "name_en": "Avalyn Pharma Inc.",
+    "market_cap": 1394275840,
+    "sector": "Healthcare",
+    "name": "Avalyn Pharma Inc."
+  },
+  "AVR": {
+    "name_en": "Anteris Technologies Global Corp.",
+    "market_cap": 952006720,
+    "sector": "Healthcare",
+    "name": "Anteris Technologies Global Corp."
+  },
+  "BALI": {
+    "name_en": "iShares U.S. Large Cap Premium Income Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Large Cap Premium Income Active ETF"
+  },
+  "BBT": {
+    "name_en": "Beacon Financial Corporation",
+    "market_cap": 2480956160,
+    "sector": "Financial Services",
+    "name": "Beacon Financial Corporation"
+  },
+  "CARE": {
+    "name_en": "Carter Bankshares, Inc.",
+    "market_cap": 687993408,
+    "sector": "Financial Services",
+    "name": "Carter Bankshares, Inc."
+  },
+  "CBRL": {
+    "name_en": "Cracker Barrel Old Country Store, Inc.",
+    "market_cap": 1058118144,
+    "sector": "Consumer Cyclical",
+    "name": "Cracker Barrel Old Country Store, Inc."
+  },
+  "CWBC": {
+    "name_en": "Community West Bancshares",
+    "market_cap": 683510656,
+    "sector": "Financial Services",
+    "name": "Community West Bancshares"
+  },
+  "EVMN": {
+    "name_en": "Evommune, Inc.",
+    "market_cap": 769352448,
+    "sector": "Healthcare",
+    "name": "Evommune, Inc."
+  },
+  "FDIS": {
+    "name_en": "Fidelity MSCI Consumer Discretionary Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity MSCI Consumer Discretionary Index ETF"
+  },
+  "FIZZ": {
+    "name_en": "National Beverage Corp.",
+    "market_cap": 3397909248,
+    "sector": "Consumer Defensive",
+    "name": "National Beverage Corp."
   }
 }
