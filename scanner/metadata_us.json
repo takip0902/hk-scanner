@@ -4330,5 +4330,77 @@
     "market_cap": 3397909248,
     "sector": "Consumer Defensive",
     "name": "National Beverage Corp."
+  },
+  "ARGX": {
+    "name_en": "argenx SE",
+    "market_cap": 56479825920,
+    "sector": "Healthcare",
+    "name": "argenx SE"
+  },
+  "BROS": {
+    "name_en": "Dutch Bros Inc.",
+    "market_cap": 11709028352,
+    "sector": "Consumer Cyclical",
+    "name": "Dutch Bros Inc."
+  },
+  "BUG": {
+    "name_en": "Global X Cybersecurity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Cybersecurity ETF"
+  },
+  "BWXT": {
+    "name_en": "BWX Technologies, Inc.",
+    "market_cap": 19239075840,
+    "sector": "Industrials",
+    "name": "BWX Technologies, Inc."
+  },
+  "CGON": {
+    "name_en": "CG Oncology, Inc.",
+    "market_cap": 5843414016,
+    "sector": "Healthcare",
+    "name": "CG Oncology, Inc."
+  },
+  "CGSM": {
+    "name_en": "Capital Group Short Duration Municipal Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Short Duration Municipal Income ETF"
+  },
+  "CNXN": {
+    "name_en": "PC Connection, Inc.",
+    "market_cap": 1747912832,
+    "sector": "Technology",
+    "name": "PC Connection, Inc."
+  },
+  "COLO": {
+    "name_en": "Global X MSCI Colombia ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X MSCI Colombia ETF"
+  },
+  "CPA": {
+    "name_en": "Copa Holdings, S.A.",
+    "market_cap": 6241909760,
+    "sector": "Industrials",
+    "name": "Copa Holdings, S.A."
+  },
+  "ETR": {
+    "name_en": "Entergy Corporation",
+    "market_cap": 51374903296,
+    "sector": "Utilities",
+    "name": "Entergy Corporation"
+  },
+  "EXI": {
+    "name_en": "iShares Global Industrials ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global Industrials ETF"
+  },
+  "FLNC": {
+    "name_en": "Fluence Energy, Inc.",
+    "market_cap": 4642786304,
+    "sector": "Utilities",
+    "name": "Fluence Energy, Inc."
   }
 }
