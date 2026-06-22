@@ -8724,7 +8724,7 @@
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
+    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
@@ -10500,7 +10500,7 @@
     "name": "赤峰黃金"
   },
   "9747.HK": {
-    "name_en": "CSOP Samsung Electronics Daily (2x) Leveraged Product",
+    "name_en": "CSOP Leveraged and Inverse Series - CSOP Samsung Electronics Daily (2x) Leveraged Product",
     "market_cap": 0,
     "sector": "",
     "name": "9747"
@@ -11136,7 +11136,7 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
@@ -11170,5 +11170,17 @@
     "market_cap": 200949184,
     "sector": "Technology",
     "name": "協同通信"
+  },
+  "3329.HK": {
+    "name_en": "BOCOM International Holdings Company Limited",
+    "market_cap": 1367196032,
+    "sector": "Financial Services",
+    "name": "交銀國際"
+  },
+  "6872.HK": {
+    "name_en": "TENNOR THERAP-B",
+    "market_cap": 14128811008,
+    "sector": "Healthcare",
+    "name": "6872"
   }
 }
