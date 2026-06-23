@@ -3798,10 +3798,10 @@
     "name": "Genworth Financial, Inc."
   },
   "GPIQ": {
-    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
+    "name_en": "Goldman Sachs Nasdaq-100 Premium Income ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Goldman Sachs Nasdaq-100 Premiu"
+    "name": "Goldman Sachs Nasdaq-100 Premium Income ETF"
   },
   "GPIX": {
     "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
@@ -4402,5 +4402,137 @@
     "market_cap": 4642786304,
     "sector": "Utilities",
     "name": "Fluence Energy, Inc."
+  },
+  "BMNZ": {
+    "name_en": "Defiance Daily Target 2X Short BMNR ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Defiance Daily Target 2X Short BMNR ETF"
+  },
+  "CBSH": {
+    "name_en": "Commerce Bancshares, Inc.",
+    "market_cap": 8157689344,
+    "sector": "Financial Services",
+    "name": "Commerce Bancshares, Inc."
+  },
+  "CGCV": {
+    "name_en": "Capital Group Conservative Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Conservative Equity ETF"
+  },
+  "CORT": {
+    "name_en": "Corcept Therapeutics Incorporated",
+    "market_cap": 8572024320,
+    "sector": "Healthcare",
+    "name": "Corcept Therapeutics Incorporated"
+  },
+  "CRNC": {
+    "name_en": "Cerence Inc.",
+    "market_cap": 455493088,
+    "sector": "Technology",
+    "name": "Cerence Inc."
+  },
+  "DX": {
+    "name_en": "Dynex Capital, Inc.",
+    "market_cap": 2779749888,
+    "sector": "Real Estate",
+    "name": "Dynex Capital, Inc."
+  },
+  "EG": {
+    "name_en": "Everest Group, Ltd.",
+    "market_cap": 13595218944,
+    "sector": "Financial Services",
+    "name": "Everest Group, Ltd."
+  },
+  "EMLP": {
+    "name_en": "First Trust North American Energy Infrastructure Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust North American Energy Infrastructure Fund"
+  },
+  "FLNG": {
+    "name_en": "FLEX LNG Ltd.",
+    "market_cap": 1670913408,
+    "sector": "Energy",
+    "name": "FLEX LNG Ltd."
+  },
+  "FORM": {
+    "name_en": "FormFactor, Inc.",
+    "market_cap": 11131160576,
+    "sector": "Technology",
+    "name": "FormFactor, Inc."
+  },
+  "FPX": {
+    "name_en": "First Trust US Equity Opportunities ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust US Equity Opportunities ETF"
+  },
+  "FSLR": {
+    "name_en": "First Solar, Inc.",
+    "market_cap": 26781675520,
+    "sector": "Technology",
+    "name": "First Solar, Inc."
+  },
+  "GENB": {
+    "name_en": "Generate Biomedicines, Inc.",
+    "market_cap": 1978009984,
+    "sector": "Healthcare",
+    "name": "Generate Biomedicines, Inc."
+  },
+  "GEV": {
+    "name_en": "GE Vernova Inc.",
+    "market_cap": 278119809024,
+    "sector": "Industrials",
+    "name": "GE Vernova Inc."
+  },
+  "GGAL": {
+    "name_en": "Grupo Financiero Galicia S.A.",
+    "market_cap": 8701433856,
+    "sector": "Financial Services",
+    "name": "Grupo Financiero Galicia S.A."
+  },
+  "GGOV": {
+    "name_en": "iShares Global Government Bond USD Hedged Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global Government Bond USD Hedged Active ETF"
+  },
+  "GKOS": {
+    "name_en": "Glaukos Corporation",
+    "market_cap": 7908520960,
+    "sector": "Healthcare",
+    "name": "Glaukos Corporation"
+  },
+  "GLUE": {
+    "name_en": "Monte Rosa Therapeutics, Inc.",
+    "market_cap": 1749568640,
+    "sector": "Healthcare",
+    "name": "Monte Rosa Therapeutics, Inc."
+  },
+  "GLW": {
+    "name_en": "Corning Incorporated",
+    "market_cap": 167023984640,
+    "sector": "Technology",
+    "name": "Corning Incorporated"
+  },
+  "GLWG": {
+    "name_en": "Leverage Shares 2X Long GLW Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Leverage Shares 2X Long GLW Daily ETF"
+  },
+  "GLXY": {
+    "name_en": "Galaxy Digital",
+    "market_cap": 12223368192,
+    "sector": "Financial Services",
+    "name": "Galaxy Digital"
+  },
+  "GNRC": {
+    "name_en": "Generac Holdings Inc.",
+    "market_cap": 16161808384,
+    "sector": "Industrials",
+    "name": "Generac Holdings Inc."
   }
 }
