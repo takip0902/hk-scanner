@@ -8430,7 +8430,7 @@
     "sector": ""
   },
   "3076.HK": {
-    "name_en": "Fubon ICE FactSet Taiwan Core Semiconductor Index ETF",
+    "name_en": "Fubon NYSE FactSet Taiwan Core Semiconductor Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3076"
@@ -11182,5 +11182,23 @@
     "market_cap": 14128811008,
     "sector": "Healthcare",
     "name": "6872"
+  },
+  "1831.HK": {
+    "name_en": "ShiFang Holding Limited",
+    "market_cap": 591497280,
+    "sector": "Communication Services",
+    "name": "十方控股"
+  },
+  "2603.HK": {
+    "name_en": "Xiamen Jihong Co., Ltd",
+    "market_cap": 7984105472,
+    "sector": "Consumer Cyclical",
+    "name": "吉宏股份"
+  },
+  "2723.HK": {
+    "name_en": "DEEPZERO",
+    "market_cap": 31012278272,
+    "sector": "Technology",
+    "name": "2723"
   }
 }
