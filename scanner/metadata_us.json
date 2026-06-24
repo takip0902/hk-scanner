@@ -4534,5 +4534,59 @@
     "market_cap": 16161808384,
     "sector": "Industrials",
     "name": "Generac Holdings Inc."
+  },
+  "CTVA": {
+    "name_en": "Corteva, Inc.",
+    "market_cap": 53565788160,
+    "sector": "Basic Materials",
+    "name": "Corteva, Inc."
+  },
+  "FPE": {
+    "name_en": "First Trust Preferred Securities and Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Preferred Securities and Income ETF"
+  },
+  "GRC": {
+    "name_en": "The Gorman-Rupp Company",
+    "market_cap": 2266791168,
+    "sector": "Industrials",
+    "name": "The Gorman-Rupp Company"
+  },
+  "GRPN": {
+    "name_en": "Groupon, Inc.",
+    "market_cap": 695866496,
+    "sector": "Communication Services",
+    "name": "Groupon, Inc."
+  },
+  "GRRR": {
+    "name_en": "Gorilla Technology Group Inc.",
+    "market_cap": 468823712,
+    "sector": "Technology",
+    "name": "Gorilla Technology Group Inc."
+  },
+  "GTLS": {
+    "name_en": "Chart Industries, Inc.",
+    "market_cap": 9990276096,
+    "sector": "Industrials",
+    "name": "Chart Industries, Inc."
+  },
+  "GTX": {
+    "name_en": "Garrett Motion Inc.",
+    "market_cap": 6237120512,
+    "sector": "Consumer Cyclical",
+    "name": "Garrett Motion Inc."
+  },
+  "GTY": {
+    "name_en": "Getty Realty Corp.",
+    "market_cap": 2047413632,
+    "sector": "Real Estate",
+    "name": "Getty Realty Corp."
+  },
+  "GVA": {
+    "name_en": "Granite Construction Incorporated",
+    "market_cap": 6644249088,
+    "sector": "Industrials",
+    "name": "Granite Construction Incorporated"
   }
 }
