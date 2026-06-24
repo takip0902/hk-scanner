@@ -8202,7 +8202,7 @@
     "sector": ""
   },
   "2823.HK": {
-    "name_en": "iShares FTSE China A50 ETF",
+    "name_en": "iShares Asia Trust - iShares FTSE A50 China Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2823"
@@ -8226,7 +8226,7 @@
     "sector": ""
   },
   "2834.HK": {
-    "name_en": "iShares NASDAQ 100 ETF",
+    "name_en": "iShares Asia Trust - iShares NASDAQ 100 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2834"
@@ -8328,7 +8328,7 @@
     "sector": ""
   },
   "3003.HK": {
-    "name_en": "CSOP MSCI China A 50 Connect ETF",
+    "name_en": "CSOP Asset Management Limited-CSOP MSCI China A 50 Connect ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3003"
@@ -8346,13 +8346,13 @@
     "sector": ""
   },
   "3010.HK": {
-    "name_en": "iShares Core MSCI Asia ex Japan ETF",
+    "name_en": "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3010"
   },
   "3011.HK": {
-    "name_en": "ICBC CICC USD Money Market ETF USD",
+    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3011"
@@ -8502,7 +8502,7 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera HKD Money Market ETF HKD Counter",
+    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
@@ -8568,7 +8568,7 @@
     "sector": ""
   },
   "3191.HK": {
-    "name_en": "Global X China Semiconductor ETF",
+    "name_en": "Global X ETF Series OFC - Global X China Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3191"
@@ -8694,7 +8694,7 @@
     "sector": ""
   },
   "3431.HK": {
-    "name_en": "CSOP FTSE HK-Korea Tech+ Index ETF",
+    "name_en": "Csop Etf Series - Csop Ftse Hk-korea Tech+ Index Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3431"
@@ -8718,7 +8718,7 @@
     "name": "3440"
   },
   "3448.HK": {
-    "name_en": "Global X China Core TECH ETF",
+    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3448"
@@ -10446,19 +10446,19 @@
     "name": "Champion Real Estate Investment Trust"
   },
   "2848.HK": {
-    "name_en": "Xtrackers MSCI Korea UCITS ETF 1C",
+    "name_en": "Xtrackers - MSCI Korea UCITS ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Core MSCI Taiwan ETF",
+    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
   },
   "3132.HK": {
-    "name_en": "SAMSUNG Bloomberg Global Semiconductor ETF",
+    "name_en": "Samsung Bloomberg Global Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3132"
@@ -10506,7 +10506,7 @@
     "name": "9747"
   },
   "3109.HK": {
-    "name_en": "CSOP ETF Series OFC - CSOP STAR 50 Index ETF",
+    "name_en": "Csop Asset Management Limited - CSOP STAR 50 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3109"
@@ -10584,13 +10584,13 @@
     "name": "2822"
   },
   "3119.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X Asia Semiconductor ETF",
+    "name_en": "Global X Asia Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3119"
   },
   "3195.HK": {
-    "name_en": "Hang Seng S&P 500 Index ETF",
+    "name_en": "Hang Seng S&P 500 Index Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3195"
@@ -10662,7 +10662,7 @@
     "name": "中通快遞－Ｗ"
   },
   "3188.HK": {
-    "name_en": "ChinaAMC CSI 300 Index ETF",
+    "name_en": "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3188"
@@ -10788,7 +10788,7 @@
     "name": "中國心連心化肥"
   },
   "3455.HK": {
-    "name_en": "Invesco QQQ Trust",
+    "name_en": "Invesco QQQ Trust, Series 1",
     "market_cap": 0,
     "sector": "",
     "name": "3455"
@@ -10872,7 +10872,7 @@
     "name": "永升服務"
   },
   "3147.HK": {
-    "name_en": "CSOP SZSE ChiNext ETF",
+    "name_en": "CSOP ETF Series - CSOP SZSE ChiNext ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3147"
@@ -10926,7 +10926,7 @@
     "name": "聯想控股"
   },
   "3433.HK": {
-    "name_en": "CSOP FTSE US Treasury 20+ Years Index ETF",
+    "name_en": "CSOP ETF Series II - CSOP FTSE US Treasury 20+ Years Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3433"
@@ -11028,7 +11028,7 @@
     "name": "埃斯頓"
   },
   "2846.HK": {
-    "name_en": "iShares Core CSI 300 ETF",
+    "name_en": "iShares Asia Trust - iShares Core CSI 300 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2846"
@@ -11088,7 +11088,7 @@
     "name": "潤歌互動"
   },
   "2827.HK": {
-    "name_en": "W.I.S.E. - CSI 300 China Tracker",
+    "name_en": "World Index Shares ETFs - CSI 300 China Tracker",
     "market_cap": 0,
     "sector": "",
     "name": "2827"
@@ -11142,7 +11142,7 @@
     "name": "3415"
   },
   "3486.HK": {
-    "name_en": "E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
+    "name_en": "E Fund ETFs Trust - E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3486"
