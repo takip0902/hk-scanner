@@ -4588,5 +4588,203 @@
     "market_cap": 6644249088,
     "sector": "Industrials",
     "name": "Granite Construction Incorporated"
+  },
+  "AGM": {
+    "name_en": "Federal Agricultural Mortgage Corporation",
+    "market_cap": 2096894336,
+    "sector": "Financial Services",
+    "name": "Federal Agricultural Mortgage Corporation"
+  },
+  "AGNC": {
+    "name_en": "AGNC Investment Corp.",
+    "market_cap": 12191007744,
+    "sector": "Real Estate",
+    "name": "AGNC Investment Corp."
+  },
+  "AIRJ": {
+    "name_en": "AirJoule Technologies Corporation",
+    "market_cap": 342092800,
+    "sector": "Industrials",
+    "name": "AirJoule Technologies Corporation"
+  },
+  "AKTS": {
+    "name_en": "Aktis Oncology, Inc.",
+    "market_cap": 1721892480,
+    "sector": "Healthcare",
+    "name": "Aktis Oncology, Inc."
+  },
+  "ALMR": {
+    "name_en": "Alamar Biosciences, Inc.",
+    "market_cap": 1862391552,
+    "sector": "Healthcare",
+    "name": "Alamar Biosciences, Inc."
+  },
+  "ALSN": {
+    "name_en": "Allison Transmission Holdings, Inc.",
+    "market_cap": 10327188480,
+    "sector": "Consumer Cyclical",
+    "name": "Allison Transmission Holdings, Inc."
+  },
+  "ALV": {
+    "name_en": "Autoliv, Inc.",
+    "market_cap": 9044239360,
+    "sector": "Consumer Cyclical",
+    "name": "Autoliv, Inc."
+  },
+  "AMA": {
+    "name_en": "Defiance Daily Target 2X Long AMAT ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Defiance Daily Target 2X Long AMAT ETF"
+  },
+  "AMG": {
+    "name_en": "Affiliated Managers Group, Inc.",
+    "market_cap": 8982220800,
+    "sector": "Financial Services",
+    "name": "Affiliated Managers Group, Inc."
+  },
+  "AMH": {
+    "name_en": "American Homes 4 Rent",
+    "market_cap": 13647302656,
+    "sector": "Real Estate",
+    "name": "American Homes 4 Rent"
+  },
+  "AMLX": {
+    "name_en": "Amylyx Pharmaceuticals, Inc.",
+    "market_cap": 1939089536,
+    "sector": "Healthcare",
+    "name": "Amylyx Pharmaceuticals, Inc."
+  },
+  "AMPG": {
+    "name_en": "AmpliTech Group, Inc.",
+    "market_cap": 176864832,
+    "sector": "Technology",
+    "name": "AmpliTech Group, Inc."
+  },
+  "AMRX": {
+    "name_en": "Amneal Pharmaceuticals, Inc.",
+    "market_cap": 5525474304,
+    "sector": "Healthcare",
+    "name": "Amneal Pharmaceuticals, Inc."
+  },
+  "APH": {
+    "name_en": "Amphenol Corporation",
+    "market_cap": 203173216256,
+    "sector": "Technology",
+    "name": "Amphenol Corporation"
+  },
+  "APPS": {
+    "name_en": "Digital Turbine, Inc.",
+    "market_cap": 1225925632,
+    "sector": "Technology",
+    "name": "Digital Turbine, Inc."
+  },
+  "ARR": {
+    "name_en": "ARMOUR Residential REIT, Inc.",
+    "market_cap": 2126150272,
+    "sector": "Real Estate",
+    "name": "ARMOUR Residential REIT, Inc."
+  },
+  "AVB": {
+    "name_en": "AvalonBay Communities, Inc.",
+    "market_cap": 26406647808,
+    "sector": "Real Estate",
+    "name": "AvalonBay Communities, Inc."
+  },
+  "AVTX": {
+    "name_en": "Avalo Therapeutics, Inc.",
+    "market_cap": 946180288,
+    "sector": "Healthcare",
+    "name": "Avalo Therapeutics, Inc."
+  },
+  "BBIN": {
+    "name_en": "JPMorgan BetaBuilders International Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan BetaBuilders International Equity ETF"
+  },
+  "BY": {
+    "name_en": "Byline Bancorp, Inc.",
+    "market_cap": 1670606720,
+    "sector": "Financial Services",
+    "name": "Byline Bancorp, Inc."
+  },
+  "CAPR": {
+    "name_en": "Capricor Therapeutics, Inc.",
+    "market_cap": 1760521472,
+    "sector": "Healthcare",
+    "name": "Capricor Therapeutics, Inc."
+  },
+  "CCXI": {
+    "name_en": "Churchill Capital Corp XI",
+    "market_cap": 692907968,
+    "sector": "Financial Services",
+    "name": "Churchill Capital Corp XI"
+  },
+  "CGMU": {
+    "name_en": "Capital Group Municipal Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Capital Group Municipal Income ETF"
+  },
+  "CHRW": {
+    "name_en": "C.H. Robinson Worldwide, Inc.",
+    "market_cap": 21257224192,
+    "sector": "Industrials",
+    "name": "C.H. Robinson Worldwide, Inc."
+  },
+  "CLH": {
+    "name_en": "Clean Harbors, Inc.",
+    "market_cap": 15821574144,
+    "sector": "Industrials",
+    "name": "Clean Harbors, Inc."
+  },
+  "CMF": {
+    "name_en": "iShares California Muni Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares California Muni Bond ETF"
+  },
+  "CR": {
+    "name_en": "Crane Company",
+    "market_cap": 12911357952,
+    "sector": "Industrials",
+    "name": "Crane Company"
+  },
+  "CTRN": {
+    "name_en": "Citi Trends, Inc.",
+    "market_cap": 468304064,
+    "sector": "Consumer Cyclical",
+    "name": "Citi Trends, Inc."
+  },
+  "DCOR": {
+    "name_en": "Dimensional US Core Equity 1 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional US Core Equity 1 ETF"
+  },
+  "DEI": {
+    "name_en": "Douglas Emmett, Inc.",
+    "market_cap": 2338567168,
+    "sector": "Real Estate",
+    "name": "Douglas Emmett, Inc."
+  },
+  "DIN": {
+    "name_en": "Dine Brands Global, Inc.",
+    "market_cap": 431422784,
+    "sector": "Consumer Cyclical",
+    "name": "Dine Brands Global, Inc."
+  },
+  "DNLI": {
+    "name_en": "Denali Therapeutics Inc.",
+    "market_cap": 3924891904,
+    "sector": "Healthcare",
+    "name": "Denali Therapeutics Inc."
+  },
+  "FDMT": {
+    "name_en": "4D Molecular Therapeutics, Inc.",
+    "market_cap": 602222464,
+    "sector": "Healthcare",
+    "name": "4D Molecular Therapeutics, Inc."
   }
 }
