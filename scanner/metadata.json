@@ -8509,9 +8509,9 @@
   },
   "3160.HK": {
     "name_en": "ChinaAMC MSCI Japan Hedged to USD",
-    "name": "ChinaAMC MSCI Japan Hedged to USD",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3160"
   },
   "3169.HK": {
     "name_en": "Harvest ETF Series - Harvest G2 Tech 50 ETF",
@@ -10500,7 +10500,7 @@
     "name": "赤峰黃金"
   },
   "9747.HK": {
-    "name_en": "CSOP Leveraged and Inverse Series - CSOP Samsung Electronics Daily (2x) Leveraged Product",
+    "name_en": "CSOP Samsung Electronics Daily (2x) Leveraged Product",
     "market_cap": 0,
     "sector": "",
     "name": "9747"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "CSOP FTSE East-West Equity Select ETF",
+    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11136,7 +11136,7 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
@@ -11200,5 +11200,11 @@
     "market_cap": 31012278272,
     "sector": "Technology",
     "name": "2723"
+  },
+  "9900.HK": {
+    "name_en": "Hong Kong Zcloud Technology Construction Limited",
+    "market_cap": 17201281024,
+    "sector": "Industrials",
+    "name": "智雲科技建設"
   }
 }
