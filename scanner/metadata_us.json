@@ -4786,5 +4786,167 @@
     "market_cap": 602222464,
     "sector": "Healthcare",
     "name": "4D Molecular Therapeutics, Inc."
+  },
+  "AXTA": {
+    "name_en": "Axalta Coating Systems Ltd.",
+    "market_cap": 7383652864,
+    "sector": "Basic Materials",
+    "name": "Axalta Coating Systems Ltd."
+  },
+  "AYA": {
+    "name_en": "Aya Gold & Silver Inc.",
+    "market_cap": 2839758336,
+    "sector": "Basic Materials",
+    "name": "Aya Gold & Silver Inc."
+  },
+  "BHRB": {
+    "name_en": "Burke & Herbert Financial Services Corp.",
+    "market_cap": 1437487104,
+    "sector": "Financial Services",
+    "name": "Burke & Herbert Financial Services Corp."
+  },
+  "BIRK": {
+    "name_en": "Birkenstock Holding plc",
+    "market_cap": 8169106432,
+    "sector": "Consumer Cyclical",
+    "name": "Birkenstock Holding plc"
+  },
+  "BXDC": {
+    "name_en": "Blackstone Digital Infrastructure Trust Inc.",
+    "market_cap": 2202134016,
+    "sector": "Real Estate",
+    "name": "Blackstone Digital Infrastructure Trust Inc."
+  },
+  "DFGP": {
+    "name_en": "Dimensional Global Core Plus Fixed Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Global Core Plus Fixed Income ETF"
+  },
+  "DSGN": {
+    "name_en": "Design Therapeutics, Inc.",
+    "market_cap": 833800640,
+    "sector": "Healthcare",
+    "name": "Design Therapeutics, Inc."
+  },
+  "FIVN": {
+    "name_en": "Five9, Inc.",
+    "market_cap": 1632344064,
+    "sector": "Technology",
+    "name": "Five9, Inc."
+  },
+  "FSS": {
+    "name_en": "Federal Signal Corporation",
+    "market_cap": 7647853056,
+    "sector": "Industrials",
+    "name": "Federal Signal Corporation"
+  },
+  "FXL": {
+    "name_en": "First Trust Technology AlphaDEX Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Technology AlphaDEX Fund"
+  },
+  "GATX": {
+    "name_en": "GATX Corporation",
+    "market_cap": 6470732800,
+    "sector": "Industrials",
+    "name": "GATX Corporation"
+  },
+  "GE": {
+    "name_en": "GE Aerospace",
+    "market_cap": 385542127616,
+    "sector": "Industrials",
+    "name": "GE Aerospace"
+  },
+  "GNTX": {
+    "name_en": "Gentex Corporation",
+    "market_cap": 5462214656,
+    "sector": "Consumer Cyclical",
+    "name": "Gentex Corporation"
+  },
+  "GRND": {
+    "name_en": "Grindr Inc.",
+    "market_cap": 2548590592,
+    "sector": "Technology",
+    "name": "Grindr Inc."
+  },
+  "GSIE": {
+    "name_en": "Goldman Sachs ActiveBeta International Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs ActiveBeta International Equity ETF"
+  },
+  "GWW": {
+    "name_en": "W.W. Grainger, Inc.",
+    "market_cap": 63908151296,
+    "sector": "Industrials",
+    "name": "W.W. Grainger, Inc."
+  },
+  "H": {
+    "name_en": "Hyatt Hotels Corporation",
+    "market_cap": 18613866496,
+    "sector": "Consumer Cyclical",
+    "name": "Hyatt Hotels Corporation"
+  },
+  "HACK": {
+    "name_en": "Amplify Cybersecurity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Amplify Cybersecurity ETF"
+  },
+  "HAE": {
+    "name_en": "Haemonetics Corporation",
+    "market_cap": 3512520192,
+    "sector": "Healthcare",
+    "name": "Haemonetics Corporation"
+  },
+  "HBNC": {
+    "name_en": "Horizon Bancorp, Inc.",
+    "market_cap": 1041480960,
+    "sector": "Financial Services",
+    "name": "Horizon Bancorp, Inc."
+  },
+  "HCSG": {
+    "name_en": "Healthcare Services Group, Inc.",
+    "market_cap": 1668765184,
+    "sector": "Healthcare",
+    "name": "Healthcare Services Group, Inc."
+  },
+  "HDV": {
+    "name_en": "iShares Core High Dividend ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core High Dividend ETF"
+  },
+  "HEFA": {
+    "name_en": "iShares Currency Hedged MSCI EAFE ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Currency Hedged MSCI EAFE ETF"
+  },
+  "HELE": {
+    "name_en": "Helen of Troy Limited",
+    "market_cap": 661028672,
+    "sector": "Consumer Defensive",
+    "name": "Helen of Troy Limited"
+  },
+  "HFXI": {
+    "name_en": "NYLI FTSE International Equity Currency Neutral ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "NYLI FTSE International Equity Currency Neutral ETF"
+  },
+  "HG": {
+    "name_en": "Hamilton Insurance Group, Ltd.",
+    "market_cap": 3330038784,
+    "sector": "Financial Services",
+    "name": "Hamilton Insurance Group, Ltd."
+  },
+  "HGV": {
+    "name_en": "Hilton Grand Vacations Inc.",
+    "market_cap": 4294010112,
+    "sector": "Consumer Cyclical",
+    "name": "Hilton Grand Vacations Inc."
   }
 }
