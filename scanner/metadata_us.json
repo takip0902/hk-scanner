@@ -4948,5 +4948,29 @@
     "market_cap": 4294010112,
     "sector": "Consumer Cyclical",
     "name": "Hilton Grand Vacations Inc."
+  },
+  "CMII": {
+    "name_en": "Columbus Circle Capital Corp II",
+    "market_cap": 317389792,
+    "sector": "Financial Services",
+    "name": "Columbus Circle Capital Corp II"
+  },
+  "DEA": {
+    "name_en": "Easterly Government Properties, Inc.",
+    "market_cap": 1211040512,
+    "sector": "Real Estate",
+    "name": "Easterly Government Properties, Inc."
+  },
+  "DJCO": {
+    "name_en": "Daily Journal Corporation",
+    "market_cap": 817209536,
+    "sector": "Technology",
+    "name": "Daily Journal Corporation"
+  },
+  "FJUN": {
+    "name_en": "FT Vest U.S. Equity Buffer ETF - June",
+    "market_cap": 0,
+    "sector": "",
+    "name": "FT Vest U.S. Equity Buffer ETF - June"
   }
 }
