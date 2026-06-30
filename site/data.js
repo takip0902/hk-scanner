@@ -1,6 +1,6 @@
 window.SCANNER_DATA = {
   "scan_date": "2026-06-30",
-  "scan_timestamp": "2026-06-30T20:03:45.213209+08:00",
+  "scan_timestamp": "2026-06-30T21:05:59.901300+08:00",
   "previous_date": "2026-06-29",
   "total_universe": 5999,
   "data_available": 2779,
@@ -29,7 +29,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 135.7,
       "sector": "Technology",
       "rs_rating": 99,
-      "streak": 54,
+      "streak": 55,
       "is_new": false
     },
     {
@@ -52,7 +52,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 57.47,
       "sector": "Industrials",
       "rs_rating": 99,
-      "streak": 54,
+      "streak": 55,
       "is_new": false
     },
     {
@@ -75,7 +75,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 13.85,
       "sector": "Industrials",
       "rs_rating": 99,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -98,7 +98,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 99,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -121,7 +121,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 227.28,
       "sector": "Technology",
       "rs_rating": 98,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -144,7 +144,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 70.57,
       "sector": "Technology",
       "rs_rating": 98,
-      "streak": 54,
+      "streak": 55,
       "is_new": false
     },
     {
@@ -167,7 +167,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 350.22,
       "sector": "Technology",
       "rs_rating": 98,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -190,7 +190,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 97,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -213,7 +213,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 155.55,
       "sector": "Technology",
       "rs_rating": 97,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -240,7 +240,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 343.54,
       "sector": "Technology",
       "rs_rating": 97,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -263,7 +263,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 14.3,
       "sector": "Financial Services",
       "rs_rating": 97,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -286,7 +286,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 18.21,
       "sector": "Real Estate",
       "rs_rating": 97,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -309,7 +309,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 9.13,
       "sector": "Industrials",
       "rs_rating": 96,
-      "streak": 23,
+      "streak": 24,
       "is_new": false
     },
     {
@@ -332,7 +332,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 21.93,
       "sector": "Industrials",
       "rs_rating": 96,
-      "streak": 51,
+      "streak": 52,
       "is_new": false
     },
     {
@@ -355,7 +355,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 96,
-      "streak": 53,
+      "streak": 54,
       "is_new": false
     },
     {
@@ -382,7 +382,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 134.28,
       "sector": "Technology",
       "rs_rating": 96,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -432,7 +432,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -455,7 +455,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -482,7 +482,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 92.61,
       "sector": "Technology",
       "rs_rating": 95,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -505,7 +505,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -528,7 +528,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 9.45,
       "sector": "Industrials",
       "rs_rating": 95,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -551,7 +551,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -578,7 +578,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 459.06,
       "sector": "Technology",
       "rs_rating": 95,
-      "streak": 16,
+      "streak": 17,
       "is_new": false
     },
     {
@@ -601,7 +601,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 54,
+      "streak": 55,
       "is_new": false
     },
     {
@@ -651,7 +651,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 22.06,
       "sector": "Basic Materials",
       "rs_rating": 94,
-      "streak": 36,
+      "streak": 37,
       "is_new": false
     },
     {
@@ -674,7 +674,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 62.37,
       "sector": "Technology",
       "rs_rating": 94,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -697,7 +697,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 94,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -747,7 +747,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 403.11,
       "sector": "Healthcare",
       "rs_rating": 93,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -770,7 +770,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 36.45,
       "sector": "Healthcare",
       "rs_rating": 93,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -793,7 +793,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 38.92,
       "sector": "Technology",
       "rs_rating": 93,
-      "streak": 36,
+      "streak": 37,
       "is_new": false
     },
     {
@@ -820,7 +820,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 138.16,
       "sector": "Technology",
       "rs_rating": 93,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -843,7 +843,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 587.76,
       "sector": "Technology",
       "rs_rating": 92,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -893,7 +893,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 91,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -916,7 +916,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 91,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -939,7 +939,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 225.42,
       "sector": "Industrials",
       "rs_rating": 91,
-      "streak": 54,
+      "streak": 55,
       "is_new": false
     },
     {
@@ -962,7 +962,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 21.2,
       "sector": "Healthcare",
       "rs_rating": 90,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -985,7 +985,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 89,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -1008,7 +1008,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 3011.85,
       "sector": "Industrials",
       "rs_rating": 89,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1031,7 +1031,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 120.71,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1108,7 +1108,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 2378.46,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 21,
+      "streak": 22,
       "is_new": false
     },
     {
@@ -1131,7 +1131,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 88,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1158,7 +1158,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 15.6,
       "sector": "Industrials",
       "rs_rating": 87,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -1208,7 +1208,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -1254,7 +1254,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1277,7 +1277,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 49,
+      "streak": 50,
       "is_new": false
     },
     {
@@ -1300,7 +1300,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1323,7 +1323,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 42,
+      "streak": 43,
       "is_new": false
     },
     {
@@ -1350,7 +1350,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 85,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -1373,7 +1373,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 439.79,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 23,
+      "streak": 24,
       "is_new": false
     },
     {
@@ -1396,7 +1396,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 517.69,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -1419,7 +1419,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 76.62,
       "sector": "Industrials",
       "rs_rating": 84,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -1442,7 +1442,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 84,
-      "streak": 27,
+      "streak": 28,
       "is_new": false
     },
     {
@@ -1465,7 +1465,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 84,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1488,7 +1488,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 103.59,
       "sector": "Financial Services",
       "rs_rating": 83,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1511,7 +1511,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 83,
-      "streak": 21,
+      "streak": 22,
       "is_new": false
     },
     {
@@ -1534,7 +1534,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 83,
-      "streak": 21,
+      "streak": 22,
       "is_new": false
     },
     {
@@ -1557,7 +1557,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 32.85,
       "sector": "Consumer Cyclical",
       "rs_rating": 82,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 17.2,
       "sector": "Industrials",
       "rs_rating": 81,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -1630,7 +1630,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 81,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1653,7 +1653,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 44.39,
       "sector": "Technology",
       "rs_rating": 81,
-      "streak": 27,
+      "streak": 28,
       "is_new": false
     },
     {
@@ -1699,7 +1699,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 79,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1776,7 +1776,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 73,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1799,7 +1799,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 71,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1822,7 +1822,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 70,
-      "streak": 52,
+      "streak": 53,
       "is_new": false
     },
     {
@@ -1849,7 +1849,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 31.01,
       "sector": "Technology",
       "rs_rating": 60,
-      "streak": 8,
+      "streak": 9,
       "is_new": false
     },
     {
@@ -1876,7 +1876,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 36.81,
       "sector": "Technology",
       "rs_rating": 36,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     }
   ],
