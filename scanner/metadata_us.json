@@ -4972,5 +4972,23 @@
     "market_cap": 0,
     "sector": "",
     "name": "FT Vest U.S. Equity Buffer ETF - June"
+  },
+  "DIVI": {
+    "name_en": "Franklin International Core Dividend Tilt Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin International Core Dividend Tilt Index ETF"
+  },
+  "EMR": {
+    "name_en": "Emerson Electric Co.",
+    "market_cap": 80178307072,
+    "sector": "Industrials",
+    "name": "Emerson Electric Co."
+  },
+  "FMTM": {
+    "name_en": "MarketDesk Focused U.S. Momentum ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "MarketDesk Focused U.S. Momentum ETF"
   }
 }
