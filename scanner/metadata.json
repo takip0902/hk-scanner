@@ -8190,7 +8190,7 @@
     "sector": ""
   },
   "2807.HK": {
-    "name_en": "Global X China Robotics and AI ETF",
+    "name_en": "Global X ETF Series OFC - Global X China Robotics and Artificial Intelligence ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2807"
@@ -10578,7 +10578,7 @@
     "name": "雲迹"
   },
   "2822.HK": {
-    "name_en": "CSOP FTSE China A50 ETF",
+    "name_en": "CSOP ETF Series - CSOP FTSE China A50 ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2822"
@@ -11206,5 +11206,23 @@
     "market_cap": 17201281024,
     "sector": "Industrials",
     "name": "智雲科技建設"
+  },
+  "1752.HK": {
+    "name_en": "Top Education Group Ltd",
+    "market_cap": 237365264,
+    "sector": "Consumer Defensive",
+    "name": "澳洲成峰高教"
+  },
+  "2576.HK": {
+    "name_en": "Zhejiang Taimei Medical Technology Co., Ltd.",
+    "market_cap": 3535378944,
+    "sector": "Healthcare",
+    "name": "太美醫療科技"
+  },
+  "3310.HK": {
+    "name_en": "VIEWTRIX TECH",
+    "market_cap": 17524166656,
+    "sector": "Technology",
+    "name": "3310"
   }
 }
