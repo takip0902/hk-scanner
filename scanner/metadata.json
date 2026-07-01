@@ -8502,13 +8502,13 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
+    "name_en": "Bosera HKD Money Market ETF HKD Counter",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
   },
   "3160.HK": {
-    "name_en": "ChinaAMC MSCI Japan Hedged to USD",
+    "name_en": "ChinaAMC MSCI Japan Hedged to USD ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3160"
@@ -8568,7 +8568,7 @@
     "sector": ""
   },
   "3191.HK": {
-    "name_en": "Global X ETF Series OFC - Global X China Semiconductor ETF",
+    "name_en": "Global X China Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3191"
@@ -8718,7 +8718,7 @@
     "name": "3440"
   },
   "3448.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X China Core Tech Etf",
+    "name_en": "Global X China Core TECH ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3448"
@@ -10590,7 +10590,7 @@
     "name": "3119"
   },
   "3195.HK": {
-    "name_en": "Hang Seng S&P 500 Index Etf",
+    "name_en": "Hang Seng S&P 500 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3195"
@@ -10662,7 +10662,7 @@
     "name": "中通快遞－Ｗ"
   },
   "3188.HK": {
-    "name_en": "ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF",
+    "name_en": "ChinaAMC CSI 300 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3188"
@@ -10926,7 +10926,7 @@
     "name": "聯想控股"
   },
   "3433.HK": {
-    "name_en": "CSOP ETF Series II - CSOP FTSE US Treasury 20+ Years Index ETF",
+    "name_en": "CSOP FTSE US Treasury 20+ Years Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3433"
@@ -11130,19 +11130,19 @@
     "name": "3153"
   },
   "3193.HK": {
-    "name_en": "CSOP ETF Series - CSOP Yinhua CSI 5G Communications Theme ETF",
+    "name_en": "CSOP Yinhua CSI 5G Communications Theme ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
   },
   "3486.HK": {
-    "name_en": "E Fund ETFs Trust - E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
+    "name_en": "E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3486"
