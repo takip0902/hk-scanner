@@ -3798,10 +3798,10 @@
     "name": "Genworth Financial, Inc."
   },
   "GPIQ": {
-    "name_en": "Goldman Sachs Nasdaq-100 Premium Income ETF",
+    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
     "market_cap": 0,
     "sector": "",
-    "name": "Goldman Sachs Nasdaq-100 Premium Income ETF"
+    "name": "Goldman Sachs Nasdaq-100 Premiu"
   },
   "GPIX": {
     "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
@@ -4990,5 +4990,113 @@
     "market_cap": 0,
     "sector": "",
     "name": "MarketDesk Focused U.S. Momentum ETF"
+  },
+  "APD": {
+    "name_en": "Air Products and Chemicals, Inc.",
+    "market_cap": 68229361664,
+    "sector": "Basic Materials",
+    "name": "Air Products and Chemicals, Inc."
+  },
+  "APEI": {
+    "name_en": "American Public Education, Inc.",
+    "market_cap": 1024667264,
+    "sector": "Consumer Defensive",
+    "name": "American Public Education, Inc."
+  },
+  "APOG": {
+    "name_en": "Apogee Enterprises, Inc.",
+    "market_cap": 936028032,
+    "sector": "Industrials",
+    "name": "Apogee Enterprises, Inc."
+  },
+  "ATAI": {
+    "name_en": "AtaiBeckley Inc.",
+    "market_cap": 1796653440,
+    "sector": "Healthcare",
+    "name": "AtaiBeckley Inc."
+  },
+  "AVSC": {
+    "name_en": "Avantis US Small Cap Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Avantis US Small Cap Equity ETF"
+  },
+  "BLFS": {
+    "name_en": "BioLife Solutions, Inc.",
+    "market_cap": 1391947776,
+    "sector": "Healthcare",
+    "name": "BioLife Solutions, Inc."
+  },
+  "CBOX": {
+    "name_en": "Calamos Tax-Aware Collateral ET",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Calamos Tax-Aware Collateral ET"
+  },
+  "CHE": {
+    "name_en": "Chemed Corporation",
+    "market_cap": 6383118336,
+    "sector": "Healthcare",
+    "name": "Chemed Corporation"
+  },
+  "CIB": {
+    "name_en": "Grupo Cibest S.A.",
+    "market_cap": 18549395456,
+    "sector": "Financial Services",
+    "name": "Grupo Cibest S.A."
+  },
+  "CIM": {
+    "name_en": "Chimera Investment Corporation",
+    "market_cap": 1113328512,
+    "sector": "Real Estate",
+    "name": "Chimera Investment Corporation"
+  },
+  "CLOI": {
+    "name_en": "VanEck CLO ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck CLO ETF"
+  },
+  "CQQQ": {
+    "name_en": "Invesco China Technology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco China Technology ETF"
+  },
+  "DFGX": {
+    "name_en": "Dimensional International Core Fixed Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional International Core Fixed Income ETF"
+  },
+  "DXCM": {
+    "name_en": "DexCom, Inc.",
+    "market_cap": 26571214848,
+    "sector": "Healthcare",
+    "name": "DexCom, Inc."
+  },
+  "FDN": {
+    "name_en": "First Trust Dow Jones Internet Index Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Dow Jones Internet Index Fund"
+  },
+  "FRHC": {
+    "name_en": "Freedom Holdings Corp.",
+    "market_cap": 9629677568,
+    "sector": "Financial Services",
+    "name": "Freedom Holdings Corp."
+  },
+  "GABC": {
+    "name_en": "German American Bancorp, Inc.",
+    "market_cap": 1805341056,
+    "sector": "Financial Services",
+    "name": "German American Bancorp, Inc."
+  },
+  "GRBK": {
+    "name_en": "Green Brick Partners, Inc.",
+    "market_cap": 3393750528,
+    "sector": "Consumer Cyclical",
+    "name": "Green Brick Partners, Inc."
   }
 }
