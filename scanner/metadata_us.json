@@ -5098,5 +5098,47 @@
     "market_cap": 3393750528,
     "sector": "Consumer Cyclical",
     "name": "Green Brick Partners, Inc."
+  },
+  "CWT": {
+    "name_en": "California Water Service Group",
+    "market_cap": 3006429440,
+    "sector": "Utilities",
+    "name": "California Water Service Group"
+  },
+  "FHLC": {
+    "name_en": "Fidelity MSCI Health Care Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity MSCI Health Care Index ETF"
+  },
+  "FTLS": {
+    "name_en": "First Trust Long/Short Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Long/Short Equity ETF"
+  },
+  "HBAN": {
+    "name_en": "Huntington Bancshares Incorporated",
+    "market_cap": 36204552192,
+    "sector": "Financial Services",
+    "name": "Huntington Bancshares Incorporated"
+  },
+  "HELO": {
+    "name_en": "Jpmorgan Hedged Equity Laddered Overlay ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Jpmorgan Hedged Equity Laddered Overlay ETF"
+  },
+  "HFWA": {
+    "name_en": "Heritage Financial Corporation",
+    "market_cap": 1224198912,
+    "sector": "Financial Services",
+    "name": "Heritage Financial Corporation"
+  },
+  "HIMU": {
+    "name_en": "iShares High Yield Muni Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares High Yield Muni Active ETF"
   }
 }
