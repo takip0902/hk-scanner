@@ -3798,10 +3798,10 @@
     "name": "Genworth Financial, Inc."
   },
   "GPIQ": {
-    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
+    "name_en": "Goldman Sachs Nasdaq-100 Premium Income ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Goldman Sachs Nasdaq-100 Premiu"
+    "name": "Goldman Sachs Nasdaq-100 Premium Income ETF"
   },
   "GPIX": {
     "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
@@ -5140,5 +5140,35 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares High Yield Muni Active ETF"
+  },
+  "BNDX": {
+    "name_en": "Vanguard Total International Bond Index Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Vanguard Total International Bond Index Fund"
+  },
+  "BV": {
+    "name_en": "BrightView Holdings, Inc.",
+    "market_cap": 1342080000,
+    "sector": "Industrials",
+    "name": "BrightView Holdings, Inc."
+  },
+  "DFAW": {
+    "name_en": "Dimensional World Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional World Equity ETF"
+  },
+  "HIW": {
+    "name_en": "Highwoods Properties, Inc.",
+    "market_cap": 3578411776,
+    "sector": "Real Estate",
+    "name": "Highwoods Properties, Inc."
+  },
+  "HLIO": {
+    "name_en": "Helios Technologies, Inc.",
+    "market_cap": 2722689536,
+    "sector": "Industrials",
+    "name": "Helios Technologies, Inc."
   }
 }
