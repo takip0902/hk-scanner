@@ -5170,5 +5170,89 @@
     "market_cap": 2722689536,
     "sector": "Industrials",
     "name": "Helios Technologies, Inc."
+  },
+  "AAL": {
+    "name_en": "American Airlines Group Inc.",
+    "market_cap": 11739586560,
+    "sector": "Industrials",
+    "name": "American Airlines Group Inc."
+  },
+  "AAT": {
+    "name_en": "American Assets Trust, Inc.",
+    "market_cap": 1951723392,
+    "sector": "Real Estate",
+    "name": "American Assets Trust, Inc."
+  },
+  "ACHC": {
+    "name_en": "Acadia Healthcare Company, Inc.",
+    "market_cap": 2859254784,
+    "sector": "Healthcare",
+    "name": "Acadia Healthcare Company, Inc."
+  },
+  "ACHV": {
+    "name_en": "Achieve Life Sciences, Inc.",
+    "market_cap": 662150912,
+    "sector": "Healthcare",
+    "name": "Achieve Life Sciences, Inc."
+  },
+  "ADPT": {
+    "name_en": "Adaptive Biotechnologies Corporation",
+    "market_cap": 3440954368,
+    "sector": "Healthcare",
+    "name": "Adaptive Biotechnologies Corporation"
+  },
+  "AFG": {
+    "name_en": "American Financial Group, Inc.",
+    "market_cap": 11800716288,
+    "sector": "Financial Services",
+    "name": "American Financial Group, Inc."
+  },
+  "AFRM": {
+    "name_en": "Affirm Holdings, Inc.",
+    "market_cap": 28727597056,
+    "sector": "Financial Services",
+    "name": "Affirm Holdings, Inc."
+  },
+  "AMBA": {
+    "name_en": "Ambarella, Inc.",
+    "market_cap": 3497610496,
+    "sector": "Technology",
+    "name": "Ambarella, Inc."
+  },
+  "ANDG": {
+    "name_en": "Andersen Group Inc.",
+    "market_cap": 4264334592,
+    "sector": "Consumer Cyclical",
+    "name": "Andersen Group Inc."
+  },
+  "ANRO": {
+    "name_en": "Alto Neuroscience, Inc.",
+    "market_cap": 920163072,
+    "sector": "Healthcare",
+    "name": "Alto Neuroscience, Inc."
+  },
+  "CLSE": {
+    "name_en": "Convergence Long/Short Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Convergence Long/Short Equity ETF"
+  },
+  "CRL": {
+    "name_en": "Charles River Laboratories International, Inc.",
+    "market_cap": 11147456512,
+    "sector": "Healthcare",
+    "name": "Charles River Laboratories International, Inc."
+  },
+  "EAT": {
+    "name_en": "Brinker International, Inc.",
+    "market_cap": 7560260096,
+    "sector": "Consumer Cyclical",
+    "name": "Brinker International, Inc."
+  },
+  "ETHD": {
+    "name_en": "Proshares UltraShort Ether ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Proshares UltraShort Ether ETF"
   }
 }
