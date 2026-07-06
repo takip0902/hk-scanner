@@ -11236,5 +11236,11 @@
     "market_cap": 16208062464,
     "sector": "Technology",
     "name": "FORTIOR"
+  },
+  "3186.HK": {
+    "name_en": "E Fund ETFs Trust - E Fund (HK) Solactive Biopharma Select Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3186"
   }
 }
