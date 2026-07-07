@@ -5254,5 +5254,71 @@
     "market_cap": 0,
     "sector": "",
     "name": "Proshares UltraShort Ether ETF"
+  },
+  "CQP": {
+    "name_en": "Cheniere Energy Partners, L.P.",
+    "market_cap": 30829406208,
+    "sector": "Energy",
+    "name": "Cheniere Energy Partners, L.P."
+  },
+  "FLUD": {
+    "name_en": "Franklin Ultra Short Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin Ultra Short Bond ETF"
+  },
+  "FSIG": {
+    "name_en": "First Trust Limited Duration Investment Grade Corporate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Limited Duration Investment Grade Corporate ETF"
+  },
+  "FTSL": {
+    "name_en": "First Trust Senior Loan Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Senior Loan Fund"
+  },
+  "GJUN": {
+    "name_en": "FT Vest U.S. Equity Moderate Buffer ETF - June",
+    "market_cap": 0,
+    "sector": "",
+    "name": "FT Vest U.S. Equity Moderate Buffer ETF - June"
+  },
+  "GOLF": {
+    "name_en": "Acushnet Holdings Corp.",
+    "market_cap": 6709123584,
+    "sector": "Consumer Cyclical",
+    "name": "Acushnet Holdings Corp."
+  },
+  "GSL": {
+    "name_en": "Global Ship Lease, Inc.",
+    "market_cap": 1403940352,
+    "sector": "Industrials",
+    "name": "Global Ship Lease, Inc."
+  },
+  "GSUS": {
+    "name_en": "Goldman Sachs MarketBeta US Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs MarketBeta US Equity ETF"
+  },
+  "HALO": {
+    "name_en": "Halozyme Therapeutics, Inc.",
+    "market_cap": 9675261952,
+    "sector": "Healthcare",
+    "name": "Halozyme Therapeutics, Inc."
+  },
+  "HEI": {
+    "name_en": "HEICO Corporation",
+    "market_cap": 50000814080,
+    "sector": "Industrials",
+    "name": "HEICO Corporation"
+  },
+  "HESM": {
+    "name_en": "Hess Midstream LP",
+    "market_cap": 8089728512,
+    "sector": "Energy",
+    "name": "Hess Midstream LP"
   }
 }
