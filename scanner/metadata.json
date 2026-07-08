@@ -8352,7 +8352,7 @@
     "name": "3010"
   },
   "3011.HK": {
-    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
+    "name_en": "ICBC CICC USD Money Market ETF USD",
     "market_cap": 0,
     "sector": "",
     "name": "3011"
@@ -8502,13 +8502,13 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
+    "name_en": "Bosera HKD Money Market ETF HKD Counter",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
   },
   "3160.HK": {
-    "name_en": "ChinaAMC MSCI Japan Hedged to USD",
+    "name_en": "ChinaAMC MSCI Japan Hedged to USD ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3160"
@@ -8568,7 +8568,7 @@
     "sector": ""
   },
   "3191.HK": {
-    "name_en": "Global X ETF Series OFC - Global X China Semiconductor ETF",
+    "name_en": "Global X China Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3191"
@@ -10452,7 +10452,7 @@
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
+    "name_en": "iShares Core MSCI Taiwan ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
@@ -10506,7 +10506,7 @@
     "name": "9747"
   },
   "3109.HK": {
-    "name_en": "Csop Asset Management Limited - CSOP STAR 50 Index ETF",
+    "name_en": "CSOP ETF Series OFC - CSOP STAR 50 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3109"
@@ -10584,13 +10584,13 @@
     "name": "2822"
   },
   "3119.HK": {
-    "name_en": "Global X Asia Semiconductor ETF",
+    "name_en": "Global X Exchange Traded Funds Series OFC - Global X Asia Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3119"
   },
   "3195.HK": {
-    "name_en": "Hang Seng S&P 500 Index Etf",
+    "name_en": "Hang Seng S&P 500 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3195"
@@ -10926,13 +10926,13 @@
     "name": "聯想控股"
   },
   "3433.HK": {
-    "name_en": "CSOP ETF Series II - CSOP FTSE US Treasury 20+ Years Index ETF",
+    "name_en": "CSOP FTSE US Treasury 20+ Years Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
+    "name_en": "CSOP FTSE East-West Equity Select ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11136,7 +11136,7 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
