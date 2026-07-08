@@ -5320,5 +5320,29 @@
     "market_cap": 8089728512,
     "sector": "Energy",
     "name": "Hess Midstream LP"
+  },
+  "FTI": {
+    "name_en": "TechnipFMC plc",
+    "market_cap": 28064624640,
+    "sector": "Energy",
+    "name": "TechnipFMC plc"
+  },
+  "GD": {
+    "name_en": "General Dynamics Corporation",
+    "market_cap": 101224718336,
+    "sector": "Industrials",
+    "name": "General Dynamics Corporation"
+  },
+  "GMRS": {
+    "name_en": "GMR Solutions Inc.",
+    "market_cap": 841502464,
+    "sector": "Healthcare",
+    "name": "GMR Solutions Inc."
+  },
+  "GPRE": {
+    "name_en": "Green Plains Inc.",
+    "market_cap": 1164601728,
+    "sector": "Basic Materials",
+    "name": "Green Plains Inc."
   }
 }
