@@ -1,6 +1,6 @@
 {
   "scan_date": "2026-07-09",
-  "scan_timestamp": "2026-07-09T20:25:32.540892+08:00",
+  "scan_timestamp": "2026-07-09T21:49:40.182534+08:00",
   "previous_date": "2026-07-08",
   "total_universe": 5999,
   "data_available": 2773,
@@ -29,7 +29,7 @@
       "market_cap_b": 135.7,
       "sector": "Technology",
       "rs_rating": 99,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -52,7 +52,7 @@
       "market_cap_b": 13.85,
       "sector": "Industrials",
       "rs_rating": 98,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -75,7 +75,7 @@
       "market_cap_b": 227.28,
       "sector": "Technology",
       "rs_rating": 98,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -98,7 +98,7 @@
       "market_cap_b": 9.45,
       "sector": "Industrials",
       "rs_rating": 97,
-      "streak": 58,
+      "streak": 59,
       "is_new": false
     },
     {
@@ -121,7 +121,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 97,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -144,7 +144,7 @@
       "market_cap_b": 155.55,
       "sector": "Technology",
       "rs_rating": 97,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -217,7 +217,7 @@
       "market_cap_b": 29.33,
       "sector": "Healthcare",
       "rs_rating": 96,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -240,7 +240,7 @@
       "market_cap_b": 21.93,
       "sector": "Industrials",
       "rs_rating": 96,
-      "streak": 63,
+      "streak": 64,
       "is_new": false
     },
     {
@@ -290,7 +290,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -313,7 +313,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -336,7 +336,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 65,
+      "streak": 66,
       "is_new": false
     },
     {
@@ -359,7 +359,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -386,7 +386,7 @@
       "market_cap_b": 31.01,
       "sector": "Technology",
       "rs_rating": 94,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -409,7 +409,7 @@
       "market_cap_b": 21.2,
       "sector": "Healthcare",
       "rs_rating": 94,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -436,7 +436,7 @@
       "market_cap_b": 15.59,
       "sector": "Basic Materials",
       "rs_rating": 94,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -482,7 +482,7 @@
       "market_cap_b": 36.45,
       "sector": "Healthcare",
       "rs_rating": 93,
-      "streak": 24,
+      "streak": 25,
       "is_new": false
     },
     {
@@ -505,7 +505,7 @@
       "market_cap_b": 38.92,
       "sector": "Technology",
       "rs_rating": 93,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -528,7 +528,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 93,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -551,7 +551,7 @@
       "market_cap_b": 403.11,
       "sector": "Healthcare",
       "rs_rating": 92,
-      "streak": 26,
+      "streak": 27,
       "is_new": false
     },
     {
@@ -574,7 +574,7 @@
       "market_cap_b": 9.13,
       "sector": "Industrials",
       "rs_rating": 91,
-      "streak": 35,
+      "streak": 36,
       "is_new": false
     },
     {
@@ -597,7 +597,7 @@
       "market_cap_b": 40.18,
       "sector": "Technology",
       "rs_rating": 91,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -647,7 +647,7 @@
       "market_cap_b": 120.71,
       "sector": "Financial Services",
       "rs_rating": 90,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -693,7 +693,7 @@
       "market_cap_b": 225.42,
       "sector": "Industrials",
       "rs_rating": 90,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -720,7 +720,7 @@
       "market_cap_b": 19.87,
       "sector": "Healthcare",
       "rs_rating": 90,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -743,7 +743,7 @@
       "market_cap_b": 17.2,
       "sector": "Industrials",
       "rs_rating": 89,
-      "streak": 18,
+      "streak": 19,
       "is_new": false
     },
     {
@@ -766,7 +766,7 @@
       "market_cap_b": 103.59,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -789,7 +789,7 @@
       "market_cap_b": 439.79,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 35,
+      "streak": 36,
       "is_new": false
     },
     {
@@ -812,7 +812,7 @@
       "market_cap_b": 2378.46,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 33,
+      "streak": 34,
       "is_new": false
     },
     {
@@ -835,7 +835,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 88,
-      "streak": 26,
+      "streak": 27,
       "is_new": false
     },
     {
@@ -881,7 +881,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 18,
+      "streak": 19,
       "is_new": false
     },
     {
@@ -904,7 +904,7 @@
       "market_cap_b": 27.94,
       "sector": "Financial Services",
       "rs_rating": 86,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -927,7 +927,7 @@
       "market_cap_b": 67.46,
       "sector": "Consumer Defensive",
       "rs_rating": 85,
-      "streak": 10,
+      "streak": 11,
       "is_new": false
     },
     {
@@ -950,7 +950,7 @@
       "market_cap_b": 9.73,
       "sector": "Basic Materials",
       "rs_rating": 85,
-      "streak": 10,
+      "streak": 11,
       "is_new": false
     },
     {
@@ -1042,7 +1042,7 @@
       "market_cap_b": 517.69,
       "sector": "Financial Services",
       "rs_rating": 83,
-      "streak": 58,
+      "streak": 59,
       "is_new": false
     },
     {
@@ -1065,7 +1065,7 @@
       "market_cap_b": 480.64,
       "sector": "Financial Services",
       "rs_rating": 83,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1088,7 +1088,7 @@
       "market_cap_b": 76.62,
       "sector": "Industrials",
       "rs_rating": 82,
-      "streak": 18,
+      "streak": 19,
       "is_new": false
     },
     {
@@ -1134,7 +1134,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 82,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1157,7 +1157,7 @@
       "market_cap_b": 190.24,
       "sector": "Utilities",
       "rs_rating": 80,
-      "streak": 8,
+      "streak": 9,
       "is_new": false
     },
     {
@@ -1180,7 +1180,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 80,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -1226,7 +1226,7 @@
       "market_cap_b": 648.91,
       "sector": "Consumer Cyclical",
       "rs_rating": 79,
-      "streak": 10,
+      "streak": 11,
       "is_new": false
     },
     {
@@ -1303,7 +1303,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 76,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -1380,7 +1380,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 71,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -1403,7 +1403,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 68,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {
@@ -1426,7 +1426,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 68,
-      "streak": 64,
+      "streak": 65,
       "is_new": false
     },
     {

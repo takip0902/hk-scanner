@@ -8352,7 +8352,7 @@
     "name": "3010"
   },
   "3011.HK": {
-    "name_en": "ICBC CICC USD Money Market ETF USD",
+    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3011"
@@ -10452,7 +10452,7 @@
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Core MSCI Taiwan ETF",
+    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
@@ -10506,7 +10506,7 @@
     "name": "9747"
   },
   "3109.HK": {
-    "name_en": "CSOP ETF Series OFC - CSOP STAR 50 Index ETF",
+    "name_en": "Csop Asset Management Limited - CSOP STAR 50 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3109"
@@ -11242,5 +11242,11 @@
     "market_cap": 0,
     "sector": "",
     "name": "3186"
+  },
+  "2839.HK": {
+    "name_en": "ChinaAMC MSCI China A 50 Connect ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "2839"
   }
 }
