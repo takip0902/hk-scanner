@@ -5344,5 +5344,131 @@
     "market_cap": 1164601728,
     "sector": "Basic Materials",
     "name": "Green Plains Inc."
+  },
+  "ACWV": {
+    "name_en": "iShares MSCI Global Min Vol Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Global Min Vol Factor ETF"
+  },
+  "AER": {
+    "name_en": "AerCap Holdings N.V.",
+    "market_cap": 23632265216,
+    "sector": "Industrials",
+    "name": "AerCap Holdings N.V."
+  },
+  "AES": {
+    "name_en": "The AES Corporation",
+    "market_cap": 10540470272,
+    "sector": "Utilities",
+    "name": "The AES Corporation"
+  },
+  "ALGT": {
+    "name_en": "Allegiant Travel Company",
+    "market_cap": 2983939840,
+    "sector": "Industrials",
+    "name": "Allegiant Travel Company"
+  },
+  "AMBP": {
+    "name_en": "Ardagh Metal Packaging S.A.",
+    "market_cap": 2767380224,
+    "sector": "Consumer Cyclical",
+    "name": "Ardagh Metal Packaging S.A."
+  },
+  "APUE": {
+    "name_en": "ActivePassive U.S. Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ActivePassive U.S. Equity ETF"
+  },
+  "AXS": {
+    "name_en": "AXIS Capital Holdings Limited",
+    "market_cap": 8335148544,
+    "sector": "Financial Services",
+    "name": "AXIS Capital Holdings Limited"
+  },
+  "BBY": {
+    "name_en": "Best Buy Co., Inc.",
+    "market_cap": 17451517952,
+    "sector": "Consumer Cyclical",
+    "name": "Best Buy Co., Inc."
+  },
+  "BCH": {
+    "name_en": "Banco de Chile",
+    "market_cap": 20607483904,
+    "sector": "Financial Services",
+    "name": "Banco de Chile"
+  },
+  "BHVN": {
+    "name_en": "Biohaven Ltd.",
+    "market_cap": 2341223424,
+    "sector": "Healthcare",
+    "name": "Biohaven Ltd."
+  },
+  "BIOA": {
+    "name_en": "BioAge Labs, Inc.",
+    "market_cap": 1081979648,
+    "sector": "Healthcare",
+    "name": "BioAge Labs, Inc."
+  },
+  "BITI": {
+    "name_en": "ProShares Short Bitcoin ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ProShares Short Bitcoin ETF"
+  },
+  "BLLN": {
+    "name_en": "BillionToOne, Inc.",
+    "market_cap": 5830847488,
+    "sector": "Healthcare",
+    "name": "BillionToOne, Inc."
+  },
+  "CL": {
+    "name_en": "Colgate-Palmolive Company",
+    "market_cap": 73809461248,
+    "sector": "Consumer Defensive",
+    "name": "Colgate-Palmolive Company"
+  },
+  "COAG": {
+    "name_en": "Hemab Therapeutics Holdings, Inc.",
+    "market_cap": 1776206592,
+    "sector": "Healthcare",
+    "name": "Hemab Therapeutics Holdings, Inc."
+  },
+  "CVLT": {
+    "name_en": "Commvault Systems, Inc.",
+    "market_cap": 6236864000,
+    "sector": "Technology",
+    "name": "Commvault Systems, Inc."
+  },
+  "DFEV": {
+    "name_en": "Dimensional Emerging Markets Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dimensional Emerging Markets Value ETF"
+  },
+  "DRI": {
+    "name_en": "Darden Restaurants, Inc.",
+    "market_cap": 23393773568,
+    "sector": "Consumer Cyclical",
+    "name": "Darden Restaurants, Inc."
+  },
+  "ESPR": {
+    "name_en": "Esperion Therapeutics, Inc.",
+    "market_cap": 819464832,
+    "sector": "Healthcare",
+    "name": "Esperion Therapeutics, Inc."
+  },
+  "EVH": {
+    "name_en": "Evolent Health, Inc.",
+    "market_cap": 661388672,
+    "sector": "Healthcare",
+    "name": "Evolent Health, Inc."
+  },
+  "FCOM": {
+    "name_en": "Fidelity MSCI Communication Services Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity MSCI Communication Services Index ETF"
   }
 }
