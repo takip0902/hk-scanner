@@ -1,9 +1,9 @@
 {
   "scan_date": "2026-07-10",
-  "scan_timestamp": "2026-07-10T20:17:57.429153+08:00",
+  "scan_timestamp": "2026-07-10T21:09:01.821452+08:00",
   "previous_date": "2026-07-09",
   "total_universe": 5999,
-  "data_available": 2773,
+  "data_available": 2767,
   "total_qualified": 59,
   "new_count": 7,
   "removed_count": 9,
@@ -29,7 +29,7 @@
       "market_cap_b": 135.7,
       "sector": "Technology",
       "rs_rating": 99,
-      "streak": 68,
+      "streak": 69,
       "is_new": false
     },
     {
@@ -52,7 +52,7 @@
       "market_cap_b": 13.85,
       "sector": "Industrials",
       "rs_rating": 98,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -75,7 +75,7 @@
       "market_cap_b": 155.55,
       "sector": "Technology",
       "rs_rating": 97,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -98,7 +98,7 @@
       "market_cap_b": 227.28,
       "sector": "Technology",
       "rs_rating": 97,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -121,7 +121,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 96,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -144,7 +144,7 @@
       "market_cap_b": 21.93,
       "sector": "Industrials",
       "rs_rating": 96,
-      "streak": 65,
+      "streak": 66,
       "is_new": false
     },
     {
@@ -167,7 +167,7 @@
       "market_cap_b": 9.45,
       "sector": "Industrials",
       "rs_rating": 96,
-      "streak": 60,
+      "streak": 61,
       "is_new": false
     },
     {
@@ -190,7 +190,7 @@
       "market_cap_b": 70.57,
       "sector": "Technology",
       "rs_rating": 96,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -217,7 +217,7 @@
       "market_cap_b": 29.33,
       "sector": "Healthcare",
       "rs_rating": 95,
-      "streak": 8,
+      "streak": 9,
       "is_new": false
     },
     {
@@ -240,7 +240,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 67,
+      "streak": 68,
       "is_new": false
     },
     {
@@ -263,7 +263,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 95,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -290,7 +290,7 @@
       "market_cap_b": 31.01,
       "sector": "Technology",
       "rs_rating": 94,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -313,7 +313,7 @@
       "market_cap_b": 21.2,
       "sector": "Healthcare",
       "rs_rating": 94,
-      "streak": 16,
+      "streak": 17,
       "is_new": false
     },
     {
@@ -336,7 +336,7 @@
       "market_cap_b": 36.45,
       "sector": "Healthcare",
       "rs_rating": 94,
-      "streak": 26,
+      "streak": 27,
       "is_new": false
     },
     {
@@ -359,7 +359,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 94,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -382,7 +382,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 94,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -409,7 +409,7 @@
       "market_cap_b": 15.59,
       "sector": "Basic Materials",
       "rs_rating": 94,
-      "streak": 8,
+      "streak": 9,
       "is_new": false
     },
     {
@@ -432,7 +432,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 94,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -455,7 +455,7 @@
       "market_cap_b": 403.11,
       "sector": "Healthcare",
       "rs_rating": 93,
-      "streak": 28,
+      "streak": 29,
       "is_new": false
     },
     {
@@ -478,7 +478,7 @@
       "market_cap_b": 38.92,
       "sector": "Technology",
       "rs_rating": 93,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -501,7 +501,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 93,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -524,7 +524,7 @@
       "market_cap_b": 9.13,
       "sector": "Industrials",
       "rs_rating": 92,
-      "streak": 37,
+      "streak": 38,
       "is_new": false
     },
     {
@@ -551,7 +551,7 @@
       "market_cap_b": 19.87,
       "sector": "Healthcare",
       "rs_rating": 91,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -574,7 +574,7 @@
       "market_cap_b": 225.42,
       "sector": "Industrials",
       "rs_rating": 90,
-      "streak": 68,
+      "streak": 69,
       "is_new": false
     },
     {
@@ -620,7 +620,34 @@
       "market_cap_b": 40.18,
       "sector": "Technology",
       "rs_rating": 90,
-      "streak": 8,
+      "streak": 9,
+      "is_new": false
+    },
+    {
+      "ticker": "2715.HK",
+      "code": "2715",
+      "category": "new",
+      "close": 21.44,
+      "above_ma50_pct": 4.05,
+      "pct_5d": -15.92,
+      "pct_20d": 21.47,
+      "pct_from_52w_high": -15.92,
+      "pct_from_52w_low": 90.58,
+      "avg_turnover_m": 730.95,
+      "last_date": "2026-07-10",
+      "ma10": 20.605,
+      "ma20": 19.63,
+      "ipo_high": 15.36,
+      "days_listed": 83,
+      "ma50": 20.605,
+      "ma100": 19.63,
+      "ma200": 19.63,
+      "name": "埃斯頓",
+      "market_cap": 15997709312,
+      "market_cap_b": 16.0,
+      "sector": "Technology",
+      "rs_rating": 89,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -666,7 +693,7 @@
       "market_cap_b": 17.2,
       "sector": "Industrials",
       "rs_rating": 88,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -689,7 +716,7 @@
       "market_cap_b": 120.71,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 16,
+      "streak": 17,
       "is_new": false
     },
     {
@@ -712,34 +739,7 @@
       "market_cap_b": 2378.46,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 35,
-      "is_new": false
-    },
-    {
-      "ticker": "2715.HK",
-      "code": "2715",
-      "category": "new",
-      "close": 21.44,
-      "above_ma50_pct": 4.05,
-      "pct_5d": -15.92,
-      "pct_20d": 21.47,
-      "pct_from_52w_high": -15.92,
-      "pct_from_52w_low": 90.58,
-      "avg_turnover_m": 730.95,
-      "last_date": "2026-07-10",
-      "ma10": 20.605,
-      "ma20": 19.63,
-      "ipo_high": 15.36,
-      "days_listed": 83,
-      "ma50": 20.605,
-      "ma100": 19.63,
-      "ma200": 19.63,
-      "name": "埃斯頓",
-      "market_cap": 15997709312,
-      "market_cap_b": 16.0,
-      "sector": "Technology",
-      "rs_rating": 88,
-      "streak": 2,
+      "streak": 36,
       "is_new": false
     },
     {
@@ -762,7 +762,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 88,
-      "streak": 28,
+      "streak": 29,
       "is_new": false
     },
     {
@@ -785,7 +785,7 @@
       "market_cap_b": 439.79,
       "sector": "Financial Services",
       "rs_rating": 87,
-      "streak": 37,
+      "streak": 38,
       "is_new": false
     },
     {
@@ -808,7 +808,7 @@
       "market_cap_b": 587.76,
       "sector": "Technology",
       "rs_rating": 87,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -831,7 +831,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 86,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -854,7 +854,7 @@
       "market_cap_b": 103.59,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 16,
+      "streak": 17,
       "is_new": false
     },
     {
@@ -877,7 +877,7 @@
       "market_cap_b": 517.69,
       "sector": "Financial Services",
       "rs_rating": 84,
-      "streak": 60,
+      "streak": 61,
       "is_new": false
     },
     {
@@ -900,7 +900,7 @@
       "market_cap_b": 67.46,
       "sector": "Consumer Defensive",
       "rs_rating": 84,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -923,7 +923,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 84,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -946,7 +946,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 84,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -969,7 +969,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 84,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -996,7 +996,7 @@
       "market_cap_b": 36.81,
       "sector": "Technology",
       "rs_rating": 83,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1019,7 +1019,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 83,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -1042,7 +1042,7 @@
       "market_cap_b": 480.64,
       "sector": "Financial Services",
       "rs_rating": 83,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -1065,30 +1065,7 @@
       "market_cap_b": 76.62,
       "sector": "Industrials",
       "rs_rating": 82,
-      "streak": 20,
-      "is_new": false
-    },
-    {
-      "ticker": "0002.HK",
-      "code": "0002",
-      "category": "standard",
-      "close": 76.6,
-      "above_ma50_pct": 2.76,
-      "pct_5d": 2.61,
-      "pct_20d": 4.86,
-      "pct_from_52w_high": 0.0,
-      "pct_from_52w_low": 23.52,
-      "avg_turnover_m": 249.63,
-      "last_date": "2026-07-10",
-      "ma50": 74.541,
-      "ma100": 73.993,
-      "ma200": 70.24,
-      "name": "中電控股",
-      "market_cap": 190241751040,
-      "market_cap_b": 190.24,
-      "sector": "Utilities",
-      "rs_rating": 81,
-      "streak": 10,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -1110,9 +1087,32 @@
       "market_cap": 1646505361408,
       "market_cap_b": 1646.51,
       "sector": "Financial Services",
-      "rs_rating": 81,
+      "rs_rating": 82,
       "streak": 1,
       "is_new": true
+    },
+    {
+      "ticker": "0002.HK",
+      "code": "0002",
+      "category": "standard",
+      "close": 76.6,
+      "above_ma50_pct": 2.76,
+      "pct_5d": 2.61,
+      "pct_20d": 4.86,
+      "pct_from_52w_high": 0.0,
+      "pct_from_52w_low": 23.52,
+      "avg_turnover_m": 249.63,
+      "last_date": "2026-07-10",
+      "ma50": 74.541,
+      "ma100": 73.993,
+      "ma200": 70.24,
+      "name": "中電控股",
+      "market_cap": 190241751040,
+      "market_cap_b": 190.24,
+      "sector": "Utilities",
+      "rs_rating": 81,
+      "streak": 11,
+      "is_new": false
     },
     {
       "ticker": "0300.HK",
@@ -1134,7 +1134,7 @@
       "market_cap_b": 648.91,
       "sector": "Consumer Cyclical",
       "rs_rating": 80,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -1157,7 +1157,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 80,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -1207,7 +1207,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 77,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1234,7 +1234,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 77,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -1284,7 +1284,7 @@
       "market_cap_b": 9.63,
       "sector": "Technology",
       "rs_rating": 72,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1310,7 +1310,7 @@
       "market_cap": 0,
       "market_cap_b": 0,
       "sector": "",
-      "rs_rating": 71,
+      "rs_rating": 72,
       "streak": 1,
       "is_new": true
     },
@@ -1334,7 +1334,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 71,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -1357,7 +1357,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 69,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
@@ -1380,7 +1380,7 @@
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 69,
-      "streak": 66,
+      "streak": 67,
       "is_new": false
     },
     {
