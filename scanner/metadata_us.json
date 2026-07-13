@@ -5470,5 +5470,155 @@
     "market_cap": 0,
     "sector": "",
     "name": "Fidelity MSCI Communication Services Index ETF"
+  },
+  "ACIW": {
+    "name_en": "ACI Worldwide, Inc.",
+    "market_cap": 5736762368,
+    "sector": "Technology",
+    "name": "ACI Worldwide, Inc."
+  },
+  "ACRS": {
+    "name_en": "Aclaris Therapeutics, Inc.",
+    "market_cap": 768150272,
+    "sector": "Healthcare",
+    "name": "Aclaris Therapeutics, Inc."
+  },
+  "ARKK": {
+    "name_en": "ARK Innovation ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ARK Innovation ETF"
+  },
+  "BAX": {
+    "name_en": "Baxter International Inc.",
+    "market_cap": 11656705024,
+    "sector": "Healthcare",
+    "name": "Baxter International Inc."
+  },
+  "CTBI": {
+    "name_en": "Community Trust Bancorp, Inc.",
+    "market_cap": 1312147072,
+    "sector": "Financial Services",
+    "name": "Community Trust Bancorp, Inc."
+  },
+  "DBX": {
+    "name_en": "Dropbox, Inc.",
+    "market_cap": 6901033472,
+    "sector": "Technology",
+    "name": "Dropbox, Inc."
+  },
+  "DORM": {
+    "name_en": "Dorman Products, Inc.",
+    "market_cap": 4151018240,
+    "sector": "Consumer Cyclical",
+    "name": "Dorman Products, Inc."
+  },
+  "ES": {
+    "name_en": "Eversource Energy",
+    "market_cap": 28153352192,
+    "sector": "Utilities",
+    "name": "Eversource Energy"
+  },
+  "FAST": {
+    "name_en": "Fastenal Company",
+    "market_cap": 54015049728,
+    "sector": "Industrials",
+    "name": "Fastenal Company"
+  },
+  "GEN": {
+    "name_en": "Gen Digital Inc.",
+    "market_cap": 15759669248,
+    "sector": "Technology",
+    "name": "Gen Digital Inc."
+  },
+  "HLX": {
+    "name_en": "Helix Energy Solutions Group, Inc.",
+    "market_cap": 1403080960,
+    "sector": "Energy",
+    "name": "Helix Energy Solutions Group, Inc."
+  },
+  "HMN": {
+    "name_en": "Horace Mann Educators Corporation",
+    "market_cap": 2121626752,
+    "sector": "Financial Services",
+    "name": "Horace Mann Educators Corporation"
+  },
+  "HNGE": {
+    "name_en": "Hinge Health, Inc.",
+    "market_cap": 6964211712,
+    "sector": "Healthcare",
+    "name": "Hinge Health, Inc."
+  },
+  "HOG": {
+    "name_en": "Harley-Davidson, Inc.",
+    "market_cap": 2672762112,
+    "sector": "Consumer Cyclical",
+    "name": "Harley-Davidson, Inc."
+  },
+  "HOPE": {
+    "name_en": "Hope Bancorp, Inc.",
+    "market_cap": 1718154496,
+    "sector": "Financial Services",
+    "name": "Hope Bancorp, Inc."
+  },
+  "HPE": {
+    "name_en": "Hewlett Packard Enterprise Company",
+    "market_cap": 62555377664,
+    "sector": "Technology",
+    "name": "Hewlett Packard Enterprise Company"
+  },
+  "HPP": {
+    "name_en": "Hudson Pacific Properties, Inc.",
+    "market_cap": 835869568,
+    "sector": "Real Estate",
+    "name": "Hudson Pacific Properties, Inc."
+  },
+  "HPQ": {
+    "name_en": "HP Inc.",
+    "market_cap": 22652727296,
+    "sector": "Technology",
+    "name": "HP Inc."
+  },
+  "HR": {
+    "name_en": "Healthcare Realty Trust Incorporated",
+    "market_cap": 7299148800,
+    "sector": "Real Estate",
+    "name": "Healthcare Realty Trust Incorporated"
+  },
+  "HRI": {
+    "name_en": "Herc Holdings Inc.",
+    "market_cap": 4932487680,
+    "sector": "Industrials",
+    "name": "Herc Holdings Inc."
+  },
+  "HRL": {
+    "name_en": "Hormel Foods Corporation",
+    "market_cap": 13459951616,
+    "sector": "Consumer Defensive",
+    "name": "Hormel Foods Corporation"
+  },
+  "HRMY": {
+    "name_en": "Harmony Biosciences Holdings, Inc.",
+    "market_cap": 2057505792,
+    "sector": "Healthcare",
+    "name": "Harmony Biosciences Holdings, Inc."
+  },
+  "HSBC": {
+    "name_en": "HSBC Holdings plc",
+    "market_cap": 336413556736,
+    "sector": "Financial Services",
+    "name": "HSBC Holdings plc"
+  },
+  "HSIC": {
+    "name_en": "Henry Schein, Inc.",
+    "market_cap": 9772918784,
+    "sector": "Healthcare",
+    "name": "Henry Schein, Inc."
+  },
+  "HST": {
+    "name_en": "Host Hotels & Resorts, Inc.",
+    "market_cap": 16005187584,
+    "sector": "Real Estate",
+    "name": "Host Hotels & Resorts, Inc."
   }
 }
