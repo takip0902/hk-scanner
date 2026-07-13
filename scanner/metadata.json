@@ -8515,9 +8515,9 @@
   },
   "3169.HK": {
     "name_en": "Harvest ETF Series - Harvest G2 Tech 50 ETF",
-    "name": "Harvest ETF Series - Harvest G2 Tech 50 ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3169"
   },
   "3171.HK": {
     "name_en": "Samsung Asset Management (Hong Kong) Limited - Samsung Blockchain Technologies ETF",
@@ -11248,5 +11248,11 @@
     "market_cap": 0,
     "sector": "",
     "name": "2839"
+  },
+  "3774.HK": {
+    "name_en": "Fameglow Holdings Limited",
+    "market_cap": 13340207104,
+    "sector": "Consumer Cyclical",
+    "name": "3774"
   }
 }
