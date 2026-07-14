@@ -5620,5 +5620,11 @@
     "market_cap": 16005187584,
     "sector": "Real Estate",
     "name": "Host Hotels & Resorts, Inc."
+  },
+  "EE": {
+    "name_en": "Excelerate Energy, Inc.",
+    "market_cap": 4409767424,
+    "sector": "Energy",
+    "name": "Excelerate Energy, Inc."
   }
 }
