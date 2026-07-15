@@ -5626,5 +5626,107 @@
     "market_cap": 4409767424,
     "sector": "Energy",
     "name": "Excelerate Energy, Inc."
+  },
+  "AGIO": {
+    "name_en": "Agios Pharmaceuticals, Inc.",
+    "market_cap": 2371132928,
+    "sector": "Healthcare",
+    "name": "Agios Pharmaceuticals, Inc."
+  },
+  "AMC": {
+    "name_en": "AMC Entertainment Holdings, Inc.",
+    "market_cap": 1847691520,
+    "sector": "Communication Services",
+    "name": "AMC Entertainment Holdings, Inc."
+  },
+  "AX": {
+    "name_en": "Axos Financial, Inc.",
+    "market_cap": 5583796224,
+    "sector": "Financial Services",
+    "name": "Axos Financial, Inc."
+  },
+  "BANF": {
+    "name_en": "BancFirst Corporation",
+    "market_cap": 3940690944,
+    "sector": "Financial Services",
+    "name": "BancFirst Corporation"
+  },
+  "BRC": {
+    "name_en": "Brady Corporation",
+    "market_cap": 4326367744,
+    "sector": "Industrials",
+    "name": "Brady Corporation"
+  },
+  "BSAC": {
+    "name_en": "Banco Santander-Chile",
+    "market_cap": 15886009344,
+    "sector": "Financial Services",
+    "name": "Banco Santander-Chile"
+  },
+  "BTCZ": {
+    "name_en": "T-Rex 2X Inverse Bitcoin Daily Target ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "T-Rex 2X Inverse Bitcoin Daily Target ETF"
+  },
+  "BXP": {
+    "name_en": "BXP, Inc.",
+    "market_cap": 12292790272,
+    "sector": "Real Estate",
+    "name": "BXP, Inc."
+  },
+  "COMP": {
+    "name_en": "Compass, Inc.",
+    "market_cap": 9451485184,
+    "sector": "Real Estate",
+    "name": "Compass, Inc."
+  },
+  "EGBN": {
+    "name_en": "Eagle Bancorp, Inc.",
+    "market_cap": 829480768,
+    "sector": "Financial Services",
+    "name": "Eagle Bancorp, Inc."
+  },
+  "ELVA": {
+    "name_en": "Electrovaya Inc.",
+    "market_cap": 582208000,
+    "sector": "Industrials",
+    "name": "Electrovaya Inc."
+  },
+  "EVER": {
+    "name_en": "EverQuote, Inc.",
+    "market_cap": 897066432,
+    "sector": "Communication Services",
+    "name": "EverQuote, Inc."
+  },
+  "EWD": {
+    "name_en": "iShares MSCI Sweden ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Sweden ETF"
+  },
+  "FNDE": {
+    "name_en": "Schwab Fundamental Emerging Markets Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Schwab Fundamental Emerging Markets Equity ETF"
+  },
+  "FTGC": {
+    "name_en": "First Trust Global Tactical Commodity Strategy Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Global Tactical Commodity Strategy Fund"
+  },
+  "FVD": {
+    "name_en": "First Trust Value Line Dividend Index Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Value Line Dividend Index Fund"
+  },
+  "GEF": {
+    "name_en": "Greif, Inc.",
+    "market_cap": 4162350848,
+    "sector": "Consumer Cyclical",
+    "name": "Greif, Inc."
   }
 }
