@@ -5872,5 +5872,113 @@
     "market_cap": 0,
     "sector": "",
     "name": "State Street SPDR Nuveen ICE High Yield Municipal Bond ETF"
+  },
+  "IBDT": {
+    "name_en": "iShares iBonds Dec 2028 Term Corporate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2028 Term Corporate ETF"
+  },
+  "IBDU": {
+    "name_en": "iShares iBonds Dec 2029 Term Corporate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2029 Term Corporate ETF"
+  },
+  "IBDV": {
+    "name_en": "iShares iBonds Dec 2030 Term Corporate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2030 Term Corporate ETF"
+  },
+  "IBKR": {
+    "name_en": "Interactive Brokers Group, Inc.",
+    "market_cap": 153558990848,
+    "sector": "Financial Services",
+    "name": "Interactive Brokers Group, Inc."
+  },
+  "IBOC": {
+    "name_en": "International Bancshares Corporation",
+    "market_cap": 4758730752,
+    "sector": "Financial Services",
+    "name": "International Bancshares Corporation"
+  },
+  "IBTG": {
+    "name_en": "iShares iBonds Dec 2026 Term Treasury ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2026 Term Treasury ETF"
+  },
+  "IBTH": {
+    "name_en": "iShares iBonds Dec 2027 Term Treasury ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2027 Term Treasury ETF"
+  },
+  "ICHR": {
+    "name_en": "Ichor Holdings, Ltd.",
+    "market_cap": 2889432576,
+    "sector": "Technology",
+    "name": "Ichor Holdings, Ltd."
+  },
+  "ICSH": {
+    "name_en": "iShares Ultra Short Duration Bond Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Ultra Short Duration Bond Active ETF"
+  },
+  "ICUI": {
+    "name_en": "ICU Medical, Inc.",
+    "market_cap": 3936739328,
+    "sector": "Healthcare",
+    "name": "ICU Medical, Inc."
+  },
+  "IDA": {
+    "name_en": "IDACORP, Inc.",
+    "market_cap": 8240866816,
+    "sector": "Utilities",
+    "name": "IDACORP, Inc."
+  },
+  "IDEV": {
+    "name_en": "iShares Core MSCI International Developed Markets ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core MSCI International Developed Markets ETF"
+  },
+  "IDT": {
+    "name_en": "IDT Corporation",
+    "market_cap": 1570698624,
+    "sector": "Communication Services",
+    "name": "IDT Corporation"
+  },
+  "IDV": {
+    "name_en": "iShares International Select Dividend ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares International Select Dividend ETF"
+  },
+  "IEFA": {
+    "name_en": "iShares Core MSCI EAFE ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core MSCI EAFE ETF"
+  },
+  "IEUR": {
+    "name_en": "iShares Core MSCI Europe ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core MSCI Europe ETF"
+  },
+  "IEX": {
+    "name_en": "IDEX Corporation",
+    "market_cap": 16648946688,
+    "sector": "Industrials",
+    "name": "IDEX Corporation"
+  },
+  "IFF": {
+    "name_en": "International Flavors & Fragrances Inc.",
+    "market_cap": 19964731392,
+    "sector": "Basic Materials",
+    "name": "International Flavors & Fragrances Inc."
   }
 }
