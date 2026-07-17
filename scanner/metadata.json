@@ -8352,7 +8352,7 @@
     "name": "3010"
   },
   "3011.HK": {
-    "name_en": "ICBC CICC USD Money Market ETF USD",
+    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3011"
@@ -8502,7 +8502,7 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera HKD Money Market ETF HKD Counter",
+    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
@@ -8730,7 +8730,7 @@
     "name": "3451"
   },
   "3454.HK": {
-    "name_en": "CSOP MAG Seven ETF",
+    "name_en": "CSOP ETF Series - CSOP MAG Seven ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3454"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "CSOP FTSE East-West Equity Select ETF",
+    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11278,5 +11278,17 @@
     "market_cap": 0,
     "sector": "",
     "name": "3453"
+  },
+  "1854.HK": {
+    "name_en": "China Wantian Holdings Limited",
+    "market_cap": 2424779520,
+    "sector": "Consumer Defensive",
+    "name": "中國萬天控股"
+  },
+  "2416.HK": {
+    "name_en": "Edianyun Limited",
+    "market_cap": 1619686528,
+    "sector": "Technology",
+    "name": "易點雲"
   }
 }
