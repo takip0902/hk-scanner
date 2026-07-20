@@ -5980,5 +5980,329 @@
     "market_cap": 19964731392,
     "sector": "Basic Materials",
     "name": "International Flavors & Fragrances Inc."
+  },
+  "FTCS": {
+    "name_en": "First Trust Capital Strength ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Capital Strength ETF"
+  },
+  "FWONK": {
+    "name_en": "Formula One Group",
+    "market_cap": 24860086272,
+    "sector": "Communication Services",
+    "name": "Formula One Group"
+  },
+  "GLL": {
+    "name_en": "ProShares UltraShort Gold",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ProShares UltraShort Gold"
+  },
+  "GSBC": {
+    "name_en": "Great Southern Bancorp, Inc.",
+    "market_cap": 850510464,
+    "sector": "Financial Services",
+    "name": "Great Southern Bancorp, Inc."
+  },
+  "GSG": {
+    "name_en": "iShares S&P GSCI Commodity-Indexed Trust",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares S&P GSCI Commodity-Indexed Trust"
+  },
+  "HEI-A": {
+    "name_en": "HEICO Corporation",
+    "market_cap": 34680102912,
+    "sector": "Industrials",
+    "name": "HEICO Corporation"
+  },
+  "HQY": {
+    "name_en": "HealthEquity, Inc.",
+    "market_cap": 8266581504,
+    "sector": "Healthcare",
+    "name": "HealthEquity, Inc."
+  },
+  "HYS": {
+    "name_en": "PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund"
+  },
+  "IAI": {
+    "name_en": "iShares U.S. Broker-Dealers & Securities Exchanges ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Broker-Dealers & Securities Exchanges ETF"
+  },
+  "IAK": {
+    "name_en": "iShares U.S. Insurance ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Insurance ETF"
+  },
+  "IALT": {
+    "name_en": "iShares Systematic Alternatives Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Systematic Alternatives Active ETF"
+  },
+  "IART": {
+    "name_en": "Integra LifeSciences Holdings Corporation",
+    "market_cap": 1469583488,
+    "sector": "Healthcare",
+    "name": "Integra LifeSciences Holdings Corporation"
+  },
+  "IAT": {
+    "name_en": "iShares U.S. Regional Banks ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Regional Banks ETF"
+  },
+  "IBB": {
+    "name_en": "iShares Biotechnology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Biotechnology ETF"
+  },
+  "IBDR": {
+    "name_en": "iShares iBonds Dec 2026 Term Corporate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2026 Term Corporate ETF"
+  },
+  "IBDS": {
+    "name_en": "iShares iBonds Dec 2027 Term Corporate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2027 Term Corporate ETF"
+  },
+  "IFS": {
+    "name_en": "Intercorp Financial Services Inc.",
+    "market_cap": 6614375424,
+    "sector": "Financial Services",
+    "name": "Intercorp Financial Services Inc."
+  },
+  "IGSB": {
+    "name_en": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF"
+  },
+  "IHAK": {
+    "name_en": "iShares Cybersecurity and Tech ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Cybersecurity and Tech ETF"
+  },
+  "IHE": {
+    "name_en": "iShares U.S. Pharmaceuticals ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Pharmaceuticals ETF"
+  },
+  "IHF": {
+    "name_en": "iShares U.S. Healthcare Providers ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Healthcare Providers ETF"
+  },
+  "IIPR": {
+    "name_en": "Innovative Industrial Properties, Inc.",
+    "market_cap": 1865851520,
+    "sector": "Real Estate",
+    "name": "Innovative Industrial Properties, Inc."
+  },
+  "IJH": {
+    "name_en": "iShares Core S&P Mid-Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core S&P Mid-Cap ETF"
+  },
+  "IJJ": {
+    "name_en": "iShares S&P Mid-Cap 400 Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares S&P Mid-Cap 400 Value ETF"
+  },
+  "IJR": {
+    "name_en": "iShares Core S&P Small-Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core S&P Small-Cap ETF"
+  },
+  "IJS": {
+    "name_en": "iShares S&P Small-Cap 600 Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares S&P Small-Cap 600 Value ETF"
+  },
+  "IJT": {
+    "name_en": "iShares S&P Small-Cap 600 Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares S&P Small-Cap 600 Growth ETF"
+  },
+  "ILMN": {
+    "name_en": "Illumina, Inc.",
+    "market_cap": 27942082560,
+    "sector": "Healthcare",
+    "name": "Illumina, Inc."
+  },
+  "IMKTA": {
+    "name_en": "Ingles Markets, Incorporated",
+    "market_cap": 1718421248,
+    "sector": "Consumer Defensive",
+    "name": "Ingles Markets, Incorporated"
+  },
+  "IMVT": {
+    "name_en": "Immunovant, Inc.",
+    "market_cap": 8195931136,
+    "sector": "Healthcare",
+    "name": "Immunovant, Inc."
+  },
+  "INCY": {
+    "name_en": "Incyte Corporation",
+    "market_cap": 23104806912,
+    "sector": "Healthcare",
+    "name": "Incyte Corporation"
+  },
+  "INDB": {
+    "name_en": "Independent Bank Corp.",
+    "market_cap": 4038535424,
+    "sector": "Financial Services",
+    "name": "Independent Bank Corp."
+  },
+  "INDV": {
+    "name_en": "Indivior Pharmaceuticals, Inc.",
+    "market_cap": 4624163328,
+    "sector": "Healthcare",
+    "name": "Indivior Pharmaceuticals, Inc."
+  },
+  "ING": {
+    "name_en": "ING Groep N.V.",
+    "market_cap": 92048343040,
+    "sector": "Financial Services",
+    "name": "ING Groep N.V."
+  },
+  "INGM": {
+    "name_en": "Ingram Micro Holding Corporation",
+    "market_cap": 6567671296,
+    "sector": "Technology",
+    "name": "Ingram Micro Holding Corporation"
+  },
+  "INN": {
+    "name_en": "Summit Hotel Properties, Inc.",
+    "market_cap": 734715264,
+    "sector": "Real Estate",
+    "name": "Summit Hotel Properties, Inc."
+  },
+  "INSW": {
+    "name_en": "International Seaways, Inc.",
+    "market_cap": 4376215040,
+    "sector": "Energy",
+    "name": "International Seaways, Inc."
+  },
+  "INVH": {
+    "name_en": "Invitation Homes Inc.",
+    "market_cap": 17868783616,
+    "sector": "Real Estate",
+    "name": "Invitation Homes Inc."
+  },
+  "IOSP": {
+    "name_en": "Innospec Inc.",
+    "market_cap": 2067776384,
+    "sector": "Basic Materials",
+    "name": "Innospec Inc."
+  },
+  "IOVA": {
+    "name_en": "Iovance Biotherapeutics, Inc.",
+    "market_cap": 2241442048,
+    "sector": "Healthcare",
+    "name": "Iovance Biotherapeutics, Inc."
+  },
+  "IPAR": {
+    "name_en": "Interparfums, Inc.",
+    "market_cap": 3984007168,
+    "sector": "Consumer Defensive",
+    "name": "Interparfums, Inc."
+  },
+  "IQLT": {
+    "name_en": "iShares MSCI Intl Quality Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Intl Quality Factor ETF"
+  },
+  "IQMM": {
+    "name_en": "Proshares Genius Money Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Proshares Genius Money Market ETF"
+  },
+  "IRT": {
+    "name_en": "Independence Realty Trust, Inc.",
+    "market_cap": 3987329280,
+    "sector": "Real Estate",
+    "name": "Independence Realty Trust, Inc."
+  },
+  "ISTB": {
+    "name_en": "iShares Core 1-5 Year USD Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core 1-5 Year USD Bond ETF"
+  },
+  "ITGR": {
+    "name_en": "Integer Holdings Corporation",
+    "market_cap": 3262720512,
+    "sector": "Healthcare",
+    "name": "Integer Holdings Corporation"
+  },
+  "ITIC": {
+    "name_en": "Investors Title Company",
+    "market_cap": 542100288,
+    "sector": "Financial Services",
+    "name": "Investors Title Company"
+  },
+  "IUSV": {
+    "name_en": "iShares Core S&P U.S. Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core S&P U.S. Value ETF"
+  },
+  "IVE": {
+    "name_en": "iShares S&P 500 Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares S&P 500 Value ETF"
+  },
+  "IVOO": {
+    "name_en": "Vanguard S&P Mid-Cap 400 Index Fund ETF Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Vanguard S&P Mid-Cap 400 Index Fund ETF Shares"
+  },
+  "IVR": {
+    "name_en": "Invesco Mortgage Capital Inc.",
+    "market_cap": 808960000,
+    "sector": "Real Estate",
+    "name": "Invesco Mortgage Capital Inc."
+  },
+  "IVT": {
+    "name_en": "InvenTrust Properties Corp.",
+    "market_cap": 2849335040,
+    "sector": "Real Estate",
+    "name": "InvenTrust Properties Corp."
+  },
+  "IVZ": {
+    "name_en": "Invesco Ltd.",
+    "market_cap": 13148178432,
+    "sector": "Financial Services",
+    "name": "Invesco Ltd."
+  },
+  "IWD": {
+    "name_en": "iShares Russell 1000 Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell 1000 Value ETF"
   }
 }
