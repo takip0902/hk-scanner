@@ -8328,7 +8328,7 @@
     "sector": ""
   },
   "3003.HK": {
-    "name_en": "CSOP MSCI China A 50 Connect ETF",
+    "name_en": "CSOP Asset Management Limited-CSOP MSCI China A 50 Connect ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3003"
@@ -8568,7 +8568,7 @@
     "sector": ""
   },
   "3191.HK": {
-    "name_en": "Global X China Semiconductor ETF",
+    "name_en": "Global X ETF Series OFC - Global X China Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3191"
@@ -10506,7 +10506,7 @@
     "name": "9747"
   },
   "3109.HK": {
-    "name_en": "CSOP ETF Series OFC - CSOP STAR 50 Index ETF",
+    "name_en": "Csop Asset Management Limited - CSOP STAR 50 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3109"
@@ -11290,5 +11290,17 @@
     "market_cap": 1619686528,
     "sector": "Technology",
     "name": "易點雲"
+  },
+  "2510.HK": {
+    "name_en": "T.S. Lines Limited",
+    "market_cap": 14136113152,
+    "sector": "Industrials",
+    "name": "德翔海運"
+  },
+  "3317.HK": {
+    "name_en": "Shenzhen Xunce Tech Co Ltd",
+    "market_cap": 41577152512,
+    "sector": "Technology",
+    "name": "迅策"
   }
 }
