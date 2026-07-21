@@ -6304,5 +6304,89 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares Russell 1000 Value ETF"
+  },
+  "ABVX": {
+    "name_en": "ABIVAX Société Anonyme",
+    "market_cap": 11687373824,
+    "sector": "Healthcare",
+    "name": "ABIVAX Société Anonyme"
+  },
+  "AMP": {
+    "name_en": "Ameriprise Financial, Inc.",
+    "market_cap": 47498924032,
+    "sector": "Financial Services",
+    "name": "Ameriprise Financial, Inc."
+  },
+  "ARKW": {
+    "name_en": "ARK Next Generation Internet ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ARK Next Generation Internet ETF"
+  },
+  "BBIO": {
+    "name_en": "BridgeBio Pharma, Inc.",
+    "market_cap": 16148759552,
+    "sector": "Healthcare",
+    "name": "BridgeBio Pharma, Inc."
+  },
+  "CERY": {
+    "name_en": "State Street SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF"
+  },
+  "CLOZ": {
+    "name_en": "Eldridge BBB-B CLO ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Eldridge BBB-B CLO ETF"
+  },
+  "CRAK": {
+    "name_en": "VanEck Oil Refiners ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck Oil Refiners ETF"
+  },
+  "CRBG": {
+    "name_en": "Corebridge Financial, Inc.",
+    "market_cap": 14208345088,
+    "sector": "Financial Services",
+    "name": "Corebridge Financial, Inc."
+  },
+  "CTAP": {
+    "name_en": "Simplify US Equity PLUS Managed Futures Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Simplify US Equity PLUS Managed Futures Strategy ETF"
+  },
+  "DMXF": {
+    "name_en": "iShares ESG Advanced MSCI EAFE Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares ESG Advanced MSCI EAFE Index ETF"
+  },
+  "EQH": {
+    "name_en": "Equitable Holdings, Inc.",
+    "market_cap": 13224822784,
+    "sector": "Financial Services",
+    "name": "Equitable Holdings, Inc."
+  },
+  "ESNT": {
+    "name_en": "Essent Group Ltd.",
+    "market_cap": 6034169856,
+    "sector": "Financial Services",
+    "name": "Essent Group Ltd."
+  },
+  "EWJV": {
+    "name_en": "iShares MSCI Japan Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Japan Value ETF"
+  },
+  "GM": {
+    "name_en": "General Motors Company",
+    "market_cap": 71700414464,
+    "sector": "Consumer Cyclical",
+    "name": "General Motors Company"
   }
 }
