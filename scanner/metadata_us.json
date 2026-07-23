@@ -6388,5 +6388,269 @@
     "market_cap": 71700414464,
     "sector": "Consumer Cyclical",
     "name": "General Motors Company"
+  },
+  "ELAN": {
+    "name_en": "Elanco Animal Health Incorporated",
+    "market_cap": 12376360960,
+    "sector": "Healthcare",
+    "name": "Elanco Animal Health Incorporated"
+  },
+  "EUSA": {
+    "name_en": "iShares MSCI USA Equal Weighted ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI USA Equal Weighted ETF"
+  },
+  "FAS": {
+    "name_en": "Direxion Daily Financial Bull 3X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Financial Bull 3X Shares"
+  },
+  "FMS": {
+    "name_en": "Fresenius Medical Care AG",
+    "market_cap": 13127440384,
+    "sector": "Healthcare",
+    "name": "Fresenius Medical Care AG"
+  },
+  "FSBC": {
+    "name_en": "Five Star Bancorp",
+    "market_cap": 1012160768,
+    "sector": "Financial Services",
+    "name": "Five Star Bancorp"
+  },
+  "HRB": {
+    "name_en": "H&R Block, Inc.",
+    "market_cap": 5064070656,
+    "sector": "Consumer Cyclical",
+    "name": "H&R Block, Inc."
+  },
+  "HUT": {
+    "name_en": "Hut 8 Corp.",
+    "market_cap": 13248949248,
+    "sector": "Financial Services",
+    "name": "Hut 8 Corp."
+  },
+  "IBTI": {
+    "name_en": "iShares iBonds Dec 2028 Term Treasury ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares iBonds Dec 2028 Term Treasury ETF"
+  },
+  "IDYA": {
+    "name_en": "IDEAYA Biosciences, Inc.",
+    "market_cap": 3488035840,
+    "sector": "Healthcare",
+    "name": "IDEAYA Biosciences, Inc."
+  },
+  "IFRA": {
+    "name_en": "iShares U.S. Infrastructure ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Infrastructure ETF"
+  },
+  "IMAX": {
+    "name_en": "IMAX Corporation",
+    "market_cap": 2418498560,
+    "sector": "Communication Services",
+    "name": "IMAX Corporation"
+  },
+  "INTF": {
+    "name_en": "iShares International Equity Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares International Equity Factor ETF"
+  },
+  "IRDM": {
+    "name_en": "Iridium Communications Inc.",
+    "market_cap": 5047952384,
+    "sector": "Communication Services",
+    "name": "Iridium Communications Inc."
+  },
+  "ITA": {
+    "name_en": "iShares U.S. Aerospace & Defense ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Aerospace & Defense ETF"
+  },
+  "IVLU": {
+    "name_en": "iShares Edge MSCI Intl Value Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Edge MSCI Intl Value Factor ETF"
+  },
+  "IWM": {
+    "name_en": "iShares Russell 2000 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell 2000 ETF"
+  },
+  "IWMI": {
+    "name_en": "NEOS Russell 2000 High Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "NEOS Russell 2000 High Income ETF"
+  },
+  "IWN": {
+    "name_en": "iShares Russell 2000 Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell 2000 Value ETF"
+  },
+  "IWR": {
+    "name_en": "iShares Russell Mid-Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell Mid-Cap ETF"
+  },
+  "IWS": {
+    "name_en": "iShares Russell Mid-Cap Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell Mid-Cap Value ETF"
+  },
+  "IWX": {
+    "name_en": "iShares Russell Top 200 Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell Top 200 Value ETF"
+  },
+  "IXJ": {
+    "name_en": "iShares Global Healthcare ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global Healthcare ETF"
+  },
+  "IYF": {
+    "name_en": "iShares U.S. Financials ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Financials ETF"
+  },
+  "IYG": {
+    "name_en": "iShares U.S. Financial Services ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Financial Services ETF"
+  },
+  "IYH": {
+    "name_en": "iShares U.S. Healthcare ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Healthcare ETF"
+  },
+  "IYJ": {
+    "name_en": "iShares U.S. Industrials ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Industrials ETF"
+  },
+  "IYK": {
+    "name_en": "iShares US Consumer Staples ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares US Consumer Staples ETF"
+  },
+  "IYR": {
+    "name_en": "iShares U.S. Real Estate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Real Estate ETF"
+  },
+  "IYT": {
+    "name_en": "iShares Transportation Average ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Transportation Average ETF"
+  },
+  "JAAA": {
+    "name_en": "Janus Henderson AAA CLO ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Janus Henderson AAA CLO ETF"
+  },
+  "JAN": {
+    "name_en": "Janus Living, Inc.",
+    "market_cap": 6494023680,
+    "sector": "Real Estate",
+    "name": "Janus Living, Inc."
+  },
+  "JAVA": {
+    "name_en": "JPMorgan Active Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan Active Value ETF"
+  },
+  "JAZZ": {
+    "name_en": "Jazz Pharmaceuticals plc",
+    "market_cap": 16010328064,
+    "sector": "Healthcare",
+    "name": "Jazz Pharmaceuticals plc"
+  },
+  "JBBB": {
+    "name_en": "Janus Henderson B-BBB CLO ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Janus Henderson B-BBB CLO ETF"
+  },
+  "JBHT": {
+    "name_en": "J.B. Hunt Transport Services, Inc.",
+    "market_cap": 27171842048,
+    "sector": "Industrials",
+    "name": "J.B. Hunt Transport Services, Inc."
+  },
+  "JBSS": {
+    "name_en": "John B. Sanfilippo & Son, Inc.",
+    "market_cap": 939374272,
+    "sector": "Consumer Defensive",
+    "name": "John B. Sanfilippo & Son, Inc."
+  },
+  "JCI": {
+    "name_en": "Johnson Controls International plc",
+    "market_cap": 87423459328,
+    "sector": "Industrials",
+    "name": "Johnson Controls International plc"
+  },
+  "JD": {
+    "name_en": "JD.com, Inc.",
+    "market_cap": 40636542976,
+    "sector": "Consumer Cyclical",
+    "name": "JD.com, Inc."
+  },
+  "JEF": {
+    "name_en": "Jefferies Financial Group Inc.",
+    "market_cap": 11304527872,
+    "sector": "Financial Services",
+    "name": "Jefferies Financial Group Inc."
+  },
+  "JHMM": {
+    "name_en": "John Hancock Multifactor Mid Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "John Hancock Multifactor Mid Cap ETF"
+  },
+  "JHX": {
+    "name_en": "James Hardie Industries plc",
+    "market_cap": 15007509504,
+    "sector": "Basic Materials",
+    "name": "James Hardie Industries plc"
+  },
+  "JIRE": {
+    "name_en": "JPMorgan International Research Enhanced Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan International Research Enhanced Equity ETF"
+  },
+  "JIVE": {
+    "name_en": "Jpmorgan International Value ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Jpmorgan International Value ETF"
+  },
+  "JMST": {
+    "name_en": "JPMorgan Ultra-Short Municipal Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan Ultra-Short Municipal Income ETF"
   }
 }
