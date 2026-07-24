@@ -6652,5 +6652,173 @@
     "market_cap": 0,
     "sector": "",
     "name": "JPMorgan Ultra-Short Municipal Income ETF"
+  },
+  "ABBV": {
+    "name_en": "AbbVie Inc.",
+    "market_cap": 458235346944,
+    "sector": "Healthcare",
+    "name": "AbbVie Inc."
+  },
+  "ABEO": {
+    "name_en": "Abeona Therapeutics Inc.",
+    "market_cap": 344820640,
+    "sector": "Healthcare",
+    "name": "Abeona Therapeutics Inc."
+  },
+  "ABM": {
+    "name_en": "ABM Industries Incorporated",
+    "market_cap": 2795481856,
+    "sector": "Industrials",
+    "name": "ABM Industries Incorporated"
+  },
+  "ACGL": {
+    "name_en": "Arch Capital Group Ltd.",
+    "market_cap": 36112908288,
+    "sector": "Financial Services",
+    "name": "Arch Capital Group Ltd."
+  },
+  "ALHC": {
+    "name_en": "Alignment Healthcare, Inc.",
+    "market_cap": 4016838144,
+    "sector": "Healthcare",
+    "name": "Alignment Healthcare, Inc."
+  },
+  "ALK": {
+    "name_en": "Alaska Air Group, Inc.",
+    "market_cap": 5146584576,
+    "sector": "Industrials",
+    "name": "Alaska Air Group, Inc."
+  },
+  "AMGN": {
+    "name_en": "Amgen Inc.",
+    "market_cap": 202951901184,
+    "sector": "Healthcare",
+    "name": "Amgen Inc."
+  },
+  "AMTB": {
+    "name_en": "Amerant Bancorp Inc.",
+    "market_cap": 1116708480,
+    "sector": "Financial Services",
+    "name": "Amerant Bancorp Inc."
+  },
+  "APXT": {
+    "name_en": "Apex Treasury Corporation",
+    "market_cap": 465533440,
+    "sector": "Financial Services",
+    "name": "Apex Treasury Corporation"
+  },
+  "ARX": {
+    "name_en": "Accelerant Holdings",
+    "market_cap": 3105005056,
+    "sector": "Financial Services",
+    "name": "Accelerant Holdings"
+  },
+  "AVAH": {
+    "name_en": "Aveanna Healthcare Holdings Inc.",
+    "market_cap": 2057786624,
+    "sector": "Healthcare",
+    "name": "Aveanna Healthcare Holdings Inc."
+  },
+  "BKD": {
+    "name_en": "Brookdale Senior Living Inc.",
+    "market_cap": 3618103552,
+    "sector": "Healthcare",
+    "name": "Brookdale Senior Living Inc."
+  },
+  "BMRN": {
+    "name_en": "BioMarin Pharmaceutical Inc.",
+    "market_cap": 11467566080,
+    "sector": "Healthcare",
+    "name": "BioMarin Pharmaceutical Inc."
+  },
+  "CCK": {
+    "name_en": "Crown Holdings, Inc.",
+    "market_cap": 12821379072,
+    "sector": "Consumer Cyclical",
+    "name": "Crown Holdings, Inc."
+  },
+  "CHD": {
+    "name_en": "Church & Dwight Co., Inc.",
+    "market_cap": 23135172608,
+    "sector": "Consumer Defensive",
+    "name": "Church & Dwight Co., Inc."
+  },
+  "CNA": {
+    "name_en": "CNA Financial Corporation",
+    "market_cap": 14516716544,
+    "sector": "Financial Services",
+    "name": "CNA Financial Corporation"
+  },
+  "CVCO": {
+    "name_en": "Cavco Industries, Inc.",
+    "market_cap": 4391520256,
+    "sector": "Consumer Cyclical",
+    "name": "Cavco Industries, Inc."
+  },
+  "DFEN": {
+    "name_en": "Direxion Daily Aerospace & Defense Bull 3X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Aerospace & Defense Bull 3X Shares"
+  },
+  "DLTR": {
+    "name_en": "Dollar Tree, Inc.",
+    "market_cap": 23147429888,
+    "sector": "Consumer Defensive",
+    "name": "Dollar Tree, Inc."
+  },
+  "DMRA": {
+    "name_en": "Damora Therapeutics, Inc.",
+    "market_cap": 1773963008,
+    "sector": "Healthcare",
+    "name": "Damora Therapeutics, Inc."
+  },
+  "FTXH": {
+    "name_en": "First Trust Nasdaq Pharmaceuticals ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Nasdaq Pharmaceuticals ETF"
+  },
+  "FTXR": {
+    "name_en": "First Trust Nasdaq Transportation ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Nasdaq Transportation ETF"
+  },
+  "HZO": {
+    "name_en": "MarineMax, Inc.",
+    "market_cap": 800282880,
+    "sector": "Consumer Cyclical",
+    "name": "MarineMax, Inc."
+  },
+  "ICLR": {
+    "name_en": "ICON Public Limited Company",
+    "market_cap": 12787616768,
+    "sector": "Healthcare",
+    "name": "ICON Public Limited Company"
+  },
+  "IDMO": {
+    "name_en": "Invesco S&P International Developed Momentum ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco S&P International Developed Momentum ETF"
+  },
+  "IGF": {
+    "name_en": "iShares Global Infrastructure ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global Infrastructure ETF"
+  },
+  "INCM": {
+    "name_en": "Franklin Income Focus ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin Income Focus ETF"
+  },
+  "IRM": {
+    "name_en": "Iron Mountain Incorporated",
+    "market_cap": 38175391744,
+    "sector": "Real Estate",
+    "name": "Iron Mountain Incorporated"
   }
 }
