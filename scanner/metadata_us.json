@@ -6820,5 +6820,65 @@
     "market_cap": 38175391744,
     "sector": "Real Estate",
     "name": "Iron Mountain Incorporated"
+  },
+  "IRWD": {
+    "name_en": "Ironwood Pharmaceuticals, Inc.",
+    "market_cap": 643638464,
+    "sector": "Healthcare",
+    "name": "Ironwood Pharmaceuticals, Inc."
+  },
+  "JBLU": {
+    "name_en": "JetBlue Airways Corporation",
+    "market_cap": 2020062464,
+    "sector": "Industrials",
+    "name": "JetBlue Airways Corporation"
+  },
+  "JEPI": {
+    "name_en": "JPMorgan Equity Premium Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan Equity Premium Income ETF"
+  },
+  "JETS": {
+    "name_en": "U.S. Global Jets ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "U.S. Global Jets ETF"
+  },
+  "JNJ": {
+    "name_en": "Johnson & Johnson",
+    "market_cap": 640912523264,
+    "sector": "Healthcare",
+    "name": "Johnson & Johnson"
+  },
+  "JOYY": {
+    "name_en": "JOYY Inc.",
+    "market_cap": 3768557312,
+    "sector": "Communication Services",
+    "name": "JOYY Inc."
+  },
+  "JPIE": {
+    "name_en": "JPMorgan Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan Income ETF"
+  },
+  "JPLD": {
+    "name_en": "J P Morgan Exchange-Traded Fund Trust - Limited Duration Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "J P Morgan Exchange-Traded Fund Trust - Limited Duration Bond ETF"
+  },
+  "JPM": {
+    "name_en": "JPMorgan Chase & Co.",
+    "market_cap": 946850889728,
+    "sector": "Financial Services",
+    "name": "JPMorgan Chase & Co."
+  },
+  "JPST": {
+    "name_en": "JPMorgan Ultra-Short Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan Ultra-Short Income ETF"
   }
 }
