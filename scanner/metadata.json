@@ -11308,5 +11308,23 @@
     "market_cap": 33081536512,
     "sector": "Real Estate",
     "name": "建發國際集團"
+  },
+  "1718.HK": {
+    "name_en": "Wan Kei Group Holdings Limited",
+    "market_cap": 249378400,
+    "sector": "Industrials",
+    "name": "宏基集團控股"
+  },
+  "2697.HK": {
+    "name_en": "TH MEDICAL-B",
+    "market_cap": 0,
+    "sector": "Healthcare",
+    "name": "2697"
+  },
+  "6915.HK": {
+    "name_en": "JIANGXI BIO",
+    "market_cap": 5177655296,
+    "sector": "Healthcare",
+    "name": "6915"
   }
 }
