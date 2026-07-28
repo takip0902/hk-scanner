@@ -6880,5 +6880,95 @@
     "market_cap": 0,
     "sector": "",
     "name": "JPMorgan Ultra-Short Income ETF"
+  },
+  "AGEN": {
+    "name_en": "Agenus Inc.",
+    "market_cap": 274840032,
+    "sector": "Healthcare",
+    "name": "Agenus Inc."
+  },
+  "AON": {
+    "name_en": "Aon plc",
+    "market_cap": 81428348928,
+    "sector": "Financial Services",
+    "name": "Aon plc"
+  },
+  "AVNT": {
+    "name_en": "Avient Corporation",
+    "market_cap": 3406115584,
+    "sector": "Basic Materials",
+    "name": "Avient Corporation"
+  },
+  "CARY": {
+    "name_en": "Angel Oak Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Angel Oak Income ETF"
+  },
+  "CCS": {
+    "name_en": "Century Communities, Inc.",
+    "market_cap": 2049812992,
+    "sector": "Real Estate",
+    "name": "Century Communities, Inc."
+  },
+  "DHI": {
+    "name_en": "D.R. Horton, Inc.",
+    "market_cap": 42279645184,
+    "sector": "Consumer Cyclical",
+    "name": "D.R. Horton, Inc."
+  },
+  "ENR": {
+    "name_en": "Energizer Holdings, Inc.",
+    "market_cap": 1496145792,
+    "sector": "Industrials",
+    "name": "Energizer Holdings, Inc."
+  },
+  "EXP": {
+    "name_en": "Eagle Materials Inc.",
+    "market_cap": 6860341248,
+    "sector": "Basic Materials",
+    "name": "Eagle Materials Inc."
+  },
+  "FBRX": {
+    "name_en": "Forte Biosciences, Inc.",
+    "market_cap": 1569701248,
+    "sector": "Healthcare",
+    "name": "Forte Biosciences, Inc."
+  },
+  "FFSM": {
+    "name_en": "Fidelity Covington Trust - Fidelity Fundamental Small-Mid Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Covington Trust - Fidelity Fundamental Small-Mid Cap ETF"
+  },
+  "HASI": {
+    "name_en": "HA Sustainable Infrastructure Capital, Inc.",
+    "market_cap": 4953569280,
+    "sector": "Financial Services",
+    "name": "HA Sustainable Infrastructure Capital, Inc."
+  },
+  "IAGG": {
+    "name_en": "iShares Core International Aggregate Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core International Aggregate Bond ETF"
+  },
+  "IHG": {
+    "name_en": "InterContinental Hotels Group PLC",
+    "market_cap": 23933892608,
+    "sector": "Consumer Cyclical",
+    "name": "InterContinental Hotels Group PLC"
+  },
+  "IOT": {
+    "name_en": "Samsara Inc.",
+    "market_cap": 21851627520,
+    "sector": "Technology",
+    "name": "Samsara Inc."
+  },
+  "IRMD": {
+    "name_en": "IRADIMED CORPORATION",
+    "market_cap": 1212215296,
+    "sector": "Healthcare",
+    "name": "IRADIMED CORPORATION"
   }
 }
