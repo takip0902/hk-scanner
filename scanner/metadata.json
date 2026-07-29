@@ -11326,5 +11326,17 @@
     "market_cap": 5177655296,
     "sector": "Healthcare",
     "name": "6915"
+  },
+  "3456.HK": {
+    "name_en": "E Fund (Hk) Hkex Tech 100 Index Etf",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3456"
+  },
+  "9978.HK": {
+    "name_en": "Fineland Living Services Group Limited",
+    "market_cap": 364000000,
+    "sector": "Real Estate",
+    "name": "方圓生活服務"
   }
 }
