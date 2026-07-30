@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
+    "name_en": "CSOP FTSE East-West Equity Select ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11338,5 +11338,11 @@
     "market_cap": 364000000,
     "sector": "Real Estate",
     "name": "方圓生活服務"
+  },
+  "6228.HK": {
+    "name_en": "MERDEKAGOLD-DRS",
+    "market_cap": 0,
+    "sector": "Basic Materials",
+    "name": "6228"
   }
 }
