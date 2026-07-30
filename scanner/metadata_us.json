@@ -6970,5 +6970,161 @@
     "market_cap": 1212215296,
     "sector": "Healthcare",
     "name": "IRADIMED CORPORATION"
+  },
+  "A": {
+    "name_en": "Agilent Technologies, Inc.",
+    "market_cap": 39176134656,
+    "sector": "Healthcare",
+    "name": "Agilent Technologies, Inc."
+  },
+  "ACVA": {
+    "name_en": "ACV Auctions Inc.",
+    "market_cap": 1401916672,
+    "sector": "Consumer Cyclical",
+    "name": "ACV Auctions Inc."
+  },
+  "ADC": {
+    "name_en": "Agree Realty Corporation",
+    "market_cap": 9444523008,
+    "sector": "Real Estate",
+    "name": "Agree Realty Corporation"
+  },
+  "ADP": {
+    "name_en": "Automatic Data Processing, Inc.",
+    "market_cap": 105477881856,
+    "sector": "Technology",
+    "name": "Automatic Data Processing, Inc."
+  },
+  "AGYS": {
+    "name_en": "Agilysys, Inc.",
+    "market_cap": 3036353024,
+    "sector": "Technology",
+    "name": "Agilysys, Inc."
+  },
+  "ALMS": {
+    "name_en": "Alumis Inc.",
+    "market_cap": 3690893056,
+    "sector": "Healthcare",
+    "name": "Alumis Inc."
+  },
+  "AMCR": {
+    "name_en": "Amcor plc",
+    "market_cap": 20874909696,
+    "sector": "Consumer Cyclical",
+    "name": "Amcor plc"
+  },
+  "BH": {
+    "name_en": "Biglari Holdings Inc.",
+    "market_cap": 1252531712,
+    "sector": "Consumer Cyclical",
+    "name": "Biglari Holdings Inc."
+  },
+  "BH-A": {
+    "name_en": "Biglari Holdings Inc.",
+    "market_cap": 1248042880,
+    "sector": "Consumer Cyclical",
+    "name": "Biglari Holdings Inc."
+  },
+  "BIO": {
+    "name_en": "Bio-Rad Laboratories, Inc.",
+    "market_cap": 8743548928,
+    "sector": "Healthcare",
+    "name": "Bio-Rad Laboratories, Inc."
+  },
+  "BOX": {
+    "name_en": "Box, Inc.",
+    "market_cap": 4306979840,
+    "sector": "Technology",
+    "name": "Box, Inc."
+  },
+  "BRK-A": {
+    "name_en": "Berkshire Hathaway Inc.",
+    "market_cap": 1099981389824,
+    "sector": "Financial Services",
+    "name": "Berkshire Hathaway Inc."
+  },
+  "BRK-B": {
+    "name_en": "Berkshire Hathaway Inc.",
+    "market_cap": 1099305189376,
+    "sector": "Financial Services",
+    "name": "Berkshire Hathaway Inc."
+  },
+  "BWIN": {
+    "name_en": "The Baldwin Insurance Group, Inc.",
+    "market_cap": 2602006784,
+    "sector": "Financial Services",
+    "name": "The Baldwin Insurance Group, Inc."
+  },
+  "COGT": {
+    "name_en": "Cogent Biosciences, Inc.",
+    "market_cap": 7067100672,
+    "sector": "Healthcare",
+    "name": "Cogent Biosciences, Inc."
+  },
+  "CRTO": {
+    "name_en": "Criteo S.A.",
+    "market_cap": 1102364928,
+    "sector": "Communication Services",
+    "name": "Criteo S.A."
+  },
+  "CSL": {
+    "name_en": "Carlisle Companies Incorporated",
+    "market_cap": 14967222272,
+    "sector": "Industrials",
+    "name": "Carlisle Companies Incorporated"
+  },
+  "CWI": {
+    "name_en": "State Street SPDR MSCI ACWI ex-US ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR MSCI ACWI ex-US ETF"
+  },
+  "DB": {
+    "name_en": "Deutsche Bank Aktiengesellschaft",
+    "market_cap": 69579366400,
+    "sector": "Financial Services",
+    "name": "Deutsche Bank Aktiengesellschaft"
+  },
+  "DFNS": {
+    "name_en": "T3 Defense Inc.",
+    "market_cap": 85871872,
+    "sector": "Industrials",
+    "name": "T3 Defense Inc."
+  },
+  "DIVB": {
+    "name_en": "iShares Core Dividend ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core Dividend ETF"
+  },
+  "DSGR": {
+    "name_en": "Distribution Solutions Group, Inc.",
+    "market_cap": 1598587520,
+    "sector": "Industrials",
+    "name": "Distribution Solutions Group, Inc."
+  },
+  "DV": {
+    "name_en": "DoubleVerify Holdings, Inc.",
+    "market_cap": 1694244736,
+    "sector": "Communication Services",
+    "name": "DoubleVerify Holdings, Inc."
+  },
+  "ELS": {
+    "name_en": "Equity LifeStyle Properties, Inc.",
+    "market_cap": 13131153408,
+    "sector": "Real Estate",
+    "name": "Equity LifeStyle Properties, Inc."
+  },
+  "EXPE": {
+    "name_en": "Expedia Group, Inc.",
+    "market_cap": 35158065152,
+    "sector": "Consumer Cyclical",
+    "name": "Expedia Group, Inc."
+  },
+  "FBK": {
+    "name_en": "FB Financial Corporation",
+    "market_cap": 3003602944,
+    "sector": "Financial Services",
+    "name": "FB Financial Corporation"
   }
 }
