@@ -6096,16 +6096,16 @@
     "name": "iShares Cybersecurity and Tech ETF"
   },
   "IHE": {
-    "name_en": "iShares U.S. Pharmaceuticals ETF",
+    "name_en": "iShares U.S. Pharmaceutical ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares U.S. Pharmaceuticals ETF"
+    "name": "iShares U.S. Pharmaceutical ETF"
   },
   "IHF": {
-    "name_en": "iShares U.S. Healthcare Providers ETF",
+    "name_en": "iShares U.S. Health Care Provid",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares U.S. Healthcare Providers ETF"
+    "name": "iShares U.S. Health Care Provid"
   },
   "IIPR": {
     "name_en": "Innovative Industrial Properties, Inc.",
@@ -6120,10 +6120,10 @@
     "name": "iShares Core S&P Mid-Cap ETF"
   },
   "IJJ": {
-    "name_en": "iShares S&P Mid-Cap 400 Value ETF",
+    "name_en": "iShares S&P Mid-Cap 400 Value E",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares S&P Mid-Cap 400 Value ETF"
+    "name": "iShares S&P Mid-Cap 400 Value E"
   },
   "IJR": {
     "name_en": "iShares Core S&P Small-Cap ETF",
@@ -6138,10 +6138,10 @@
     "name": "iShares S&P Small-Cap 600 Value ETF"
   },
   "IJT": {
-    "name_en": "iShares S&P Small-Cap 600 Growth ETF",
+    "name_en": "iShares S&P SmallCap 600 Growth",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares S&P Small-Cap 600 Growth ETF"
+    "name": "iShares S&P SmallCap 600 Growth"
   },
   "ILMN": {
     "name_en": "Illumina, Inc.",
@@ -7126,5 +7126,29 @@
     "market_cap": 3003602944,
     "sector": "Financial Services",
     "name": "FB Financial Corporation"
+  },
+  "IESC": {
+    "name_en": "IES Holdings, Inc.",
+    "market_cap": 14834130944,
+    "sector": "Industrials",
+    "name": "IES Holdings, Inc."
+  },
+  "IOO": {
+    "name_en": "iShares Global 100 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global 100 ETF"
+  },
+  "ITOT": {
+    "name_en": "iShares Core S&P Total U.S. Stock Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core S&P Total U.S. Stock Market ETF"
+  },
+  "ITW": {
+    "name_en": "Illinois Tool Works Inc.",
+    "market_cap": 82555518976,
+    "sector": "Industrials",
+    "name": "Illinois Tool Works Inc."
   }
 }
