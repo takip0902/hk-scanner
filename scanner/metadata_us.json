@@ -7150,5 +7150,101 @@
     "market_cap": 82555518976,
     "sector": "Industrials",
     "name": "Illinois Tool Works Inc."
+  },
+  "CDW": {
+    "name_en": "CDW Corporation",
+    "market_cap": 18869184512,
+    "sector": "Technology",
+    "name": "CDW Corporation"
+  },
+  "CNH": {
+    "name_en": "CNH Industrial N.V.",
+    "market_cap": 13391466496,
+    "sector": "Industrials",
+    "name": "CNH Industrial N.V."
+  },
+  "CSW": {
+    "name_en": "CSW Industrials, Inc.",
+    "market_cap": 5602352640,
+    "sector": "Industrials",
+    "name": "CSW Industrials, Inc."
+  },
+  "DLO": {
+    "name_en": "DLocal Limited",
+    "market_cap": 4505260544,
+    "sector": "Technology",
+    "name": "DLocal Limited"
+  },
+  "ENTX": {
+    "name_en": "Entera Bio Ltd.",
+    "market_cap": 145899088,
+    "sector": "Healthcare",
+    "name": "Entera Bio Ltd."
+  },
+  "FDS": {
+    "name_en": "FactSet Research Systems Inc.",
+    "market_cap": 9591315456,
+    "sector": "Financial Services",
+    "name": "FactSet Research Systems Inc."
+  },
+  "FRGN": {
+    "name_en": "Horizon International Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Horizon International Equity ETF"
+  },
+  "FYC": {
+    "name_en": "First Trust Small Cap Growth AlphaDEX Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Small Cap Growth AlphaDEX Fund"
+  },
+  "GGLL": {
+    "name_en": "Direxion Daily GOOGL Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily GOOGL Bull 2X Shares"
+  },
+  "GOOG": {
+    "name_en": "Alphabet Inc.",
+    "market_cap": 4555284152320,
+    "sector": "Communication Services",
+    "name": "Alphabet Inc."
+  },
+  "GOOGL": {
+    "name_en": "Alphabet Inc.",
+    "market_cap": 4568003379200,
+    "sector": "Communication Services",
+    "name": "Alphabet Inc."
+  },
+  "GRMN": {
+    "name_en": "Garmin Ltd.",
+    "market_cap": 58774859776,
+    "sector": "Technology",
+    "name": "Garmin Ltd."
+  },
+  "GXPC": {
+    "name_en": "Global X Purecap MSCI Communication Services ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Purecap MSCI Communication Services ETF"
+  },
+  "HCI": {
+    "name_en": "HCI Group, Inc.",
+    "market_cap": 2288474880,
+    "sector": "Financial Services",
+    "name": "HCI Group, Inc."
+  },
+  "HIFS": {
+    "name_en": "Hingham Institution for Savings",
+    "market_cap": 646584704,
+    "sector": "Financial Services",
+    "name": "Hingham Institution for Savings"
+  },
+  "HON": {
+    "name_en": "Honeywell International Inc.",
+    "market_cap": 78211284992,
+    "sector": "Industrials",
+    "name": "Honeywell International Inc."
   }
 }
