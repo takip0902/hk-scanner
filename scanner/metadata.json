@@ -8724,7 +8724,7 @@
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
@@ -11344,5 +11344,11 @@
     "market_cap": 0,
     "sector": "Basic Materials",
     "name": "6228"
+  },
+  "6658.HK": {
+    "name_en": "LIULIUMEI",
+    "market_cap": 12507338752,
+    "sector": "Consumer Defensive",
+    "name": "6658"
   }
 }
