@@ -11350,5 +11350,17 @@
     "market_cap": 12507338752,
     "sector": "Consumer Defensive",
     "name": "6658"
+  },
+  "2729.HK": {
+    "name_en": "Zhejiang Galaxis Tech Grp Co",
+    "market_cap": 15104295936,
+    "sector": "Technology",
+    "name": "凱樂士科技"
+  },
+  "9971.HK": {
+    "name_en": "BASiC Semiconductor Co., Ltd.",
+    "market_cap": 15777422336,
+    "sector": "Technology",
+    "name": "9971"
   }
 }
