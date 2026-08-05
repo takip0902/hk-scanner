@@ -3798,10 +3798,10 @@
     "name": "Genworth Financial, Inc."
   },
   "GPIQ": {
-    "name_en": "Goldman Sachs Nasdaq-100 Premium Income ETF",
+    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
     "market_cap": 0,
     "sector": "",
-    "name": "Goldman Sachs Nasdaq-100 Premium Income ETF"
+    "name": "Goldman Sachs Nasdaq-100 Premiu"
   },
   "GPIX": {
     "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
@@ -7288,5 +7288,35 @@
     "market_cap": 6975685632,
     "sector": "Consumer Cyclical",
     "name": "Global-E Online Ltd."
+  },
+  "ECL": {
+    "name_en": "Ecolab Inc.",
+    "market_cap": 80341966848,
+    "sector": "Basic Materials",
+    "name": "Ecolab Inc."
+  },
+  "EEFT": {
+    "name_en": "Euronet Worldwide, Inc.",
+    "market_cap": 2827837184,
+    "sector": "Technology",
+    "name": "Euronet Worldwide, Inc."
+  },
+  "FTK": {
+    "name_en": "Flotek Industries, Inc.",
+    "market_cap": 0,
+    "sector": "Energy",
+    "name": "Flotek Industries, Inc."
+  },
+  "GPN": {
+    "name_en": "Global Payments Inc.",
+    "market_cap": 0,
+    "sector": "Industrials",
+    "name": "Global Payments Inc."
+  },
+  "GRID": {
+    "name_en": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund"
   }
 }
