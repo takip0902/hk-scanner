@@ -8226,7 +8226,7 @@
     "sector": ""
   },
   "2834.HK": {
-    "name_en": "iShares Asia Trust - iShares NASDAQ 100 Index ETF",
+    "name_en": "iShares NASDAQ 100 ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2834"
@@ -8328,7 +8328,7 @@
     "sector": ""
   },
   "3003.HK": {
-    "name_en": "CSOP Asset Management Limited-CSOP MSCI China A 50 Connect ETF",
+    "name_en": "CSOP MSCI China A 50 Connect ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3003"
@@ -8352,7 +8352,7 @@
     "name": "3010"
   },
   "3011.HK": {
-    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
+    "name_en": "ICBC CICC USD Money Market ETF USD",
     "market_cap": 0,
     "sector": "",
     "name": "3011"
@@ -8502,13 +8502,13 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
+    "name_en": "Bosera HKD Money Market ETF HKD Counter",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
   },
   "3160.HK": {
-    "name_en": "ChinaAMC MSCI Japan Hedged to USD",
+    "name_en": "ChinaAMC MSCI Japan Hedged to USD ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3160"
@@ -8724,7 +8724,7 @@
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
+    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
@@ -10590,7 +10590,7 @@
     "name": "3119"
   },
   "3195.HK": {
-    "name_en": "Hang Seng S&P 500 Index Etf",
+    "name_en": "Hang Seng S&P 500 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3195"
@@ -10788,7 +10788,7 @@
     "name": "中國心連心化肥"
   },
   "3455.HK": {
-    "name_en": "Invesco QQQ Trust, Series 1",
+    "name_en": "Invesco QQQ Trust",
     "market_cap": 0,
     "sector": "",
     "name": "3455"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
+    "name_en": "CSOP FTSE East-West Equity Select ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11094,7 +11094,7 @@
     "name": "2827"
   },
   "3421.HK": {
-    "name_en": "Value Partners Hkd Money Market Etf",
+    "name_en": "Value Partners Fund Series OFC - Value Partners HKD Money Market ETF HKD Counter Acc",
     "market_cap": 0,
     "sector": "",
     "name": "3421"
@@ -11136,7 +11136,7 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
@@ -11404,5 +11404,17 @@
     "market_cap": 220652634112,
     "sector": "Technology",
     "name": "6951"
+  },
+  "2314.HK": {
+    "name_en": "Lee & Man Paper Manufacturing Limited",
+    "market_cap": 18597349376,
+    "sector": "Basic Materials",
+    "name": "理文造紙"
+  },
+  "6745.HK": {
+    "name_en": "BEFAR GROUP",
+    "market_cap": 8383188992,
+    "sector": "Basic Materials",
+    "name": "6745"
   }
 }
