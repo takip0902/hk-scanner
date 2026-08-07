@@ -3072,10 +3072,10 @@
     "name": "First Trust Morningstar Dividend Leaders Index Fund"
   },
   "FDT": {
-    "name_en": "First Trust Developed Markets Ex-US AlphaDEX Fund",
+    "name_en": "First Trust Developed Markets E",
     "market_cap": 0,
     "sector": "",
-    "name": "First Trust Developed Markets Ex-US AlphaDEX Fund"
+    "name": "First Trust Developed Markets E"
   },
   "FDVV": {
     "name_en": "Fidelity High Dividend ETF",
@@ -7318,5 +7318,71 @@
     "market_cap": 0,
     "sector": "",
     "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund"
+  },
+  "BOW": {
+    "name_en": "Bowhead Specialty Holdings Inc.",
+    "market_cap": 1101943552,
+    "sector": "Financial Services",
+    "name": "Bowhead Specialty Holdings Inc."
+  },
+  "BVS": {
+    "name_en": "Bioventus Inc.",
+    "market_cap": 1187797760,
+    "sector": "Healthcare",
+    "name": "Bioventus Inc."
+  },
+  "CCL": {
+    "name_en": "Carnival Corporation Ltd.",
+    "market_cap": 39706128384,
+    "sector": "Consumer Cyclical",
+    "name": "Carnival Corporation Ltd."
+  },
+  "CLF": {
+    "name_en": "Cleveland-Cliffs Inc.",
+    "market_cap": 6994821120,
+    "sector": "Basic Materials",
+    "name": "Cleveland-Cliffs Inc."
+  },
+  "CLRO": {
+    "name_en": "ClearOne, Inc.",
+    "market_cap": 27208940,
+    "sector": "Technology",
+    "name": "ClearOne, Inc."
+  },
+  "CPHI": {
+    "name_en": "China Pharma Holdings, Inc.",
+    "market_cap": 45789860,
+    "sector": "Healthcare",
+    "name": "China Pharma Holdings, Inc."
+  },
+  "CTAS": {
+    "name_en": "Cintas Corporation",
+    "market_cap": 81254432768,
+    "sector": "Industrials",
+    "name": "Cintas Corporation"
+  },
+  "EHC": {
+    "name_en": "Encompass Health Corporation",
+    "market_cap": 12422701056,
+    "sector": "Healthcare",
+    "name": "Encompass Health Corporation"
+  },
+  "ERO": {
+    "name_en": "Ero Copper Corp.",
+    "market_cap": 3578623488,
+    "sector": "Basic Materials",
+    "name": "Ero Copper Corp."
+  },
+  "FOXF": {
+    "name_en": "Fox Factory Holding Corp.",
+    "market_cap": 886110464,
+    "sector": "Consumer Cyclical",
+    "name": "Fox Factory Holding Corp."
+  },
+  "FSUN": {
+    "name_en": "FirstSun Capital Bancorp",
+    "market_cap": 1959329536,
+    "sector": "Financial Services",
+    "name": "FirstSun Capital Bancorp"
   }
 }
