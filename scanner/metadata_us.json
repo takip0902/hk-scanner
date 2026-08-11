@@ -186,10 +186,10 @@
     "name": "Biogen Inc."
   },
   "BIL": {
-    "name_en": "State Street SPDR Bloomberg 1-3",
+    "name_en": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "State Street SPDR Bloomberg 1-3"
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
   },
   "BILS": {
     "name_en": "State Street SPDR Bloomberg 3-12 Month T-Bill ETF",
@@ -2226,10 +2226,10 @@
     "name": "GraniteShares 2x Long DELL Daily ETF"
   },
   "DLN": {
-    "name_en": "WisdomTree U.S. LargeCap Divide",
+    "name_en": "WisdomTree U.S. LargeCap Dividend Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "WisdomTree U.S. LargeCap Divide"
+    "name": "WisdomTree U.S. LargeCap Dividend Fund"
   },
   "DLR": {
     "name_en": "Digital Realty Trust, Inc.",
@@ -2370,10 +2370,10 @@
     "name": "Invesco DB Commodity Index Tracking Fund"
   },
   "DIA": {
-    "name_en": "State Street SPDR Dow Jones Ind",
+    "name_en": "State Street SPDR Dow Jones Industrial Average ETF Trust",
     "market_cap": 0,
     "sector": "",
-    "name": "State Street SPDR Dow Jones Ind"
+    "name": "State Street SPDR Dow Jones Industrial Average ETF Trust"
   },
   "DIHP": {
     "name_en": "Dimensional International High Profitability ETF",
@@ -2712,10 +2712,10 @@
     "name": "Entravision Communications Corporation"
   },
   "EWA": {
-    "name_en": "iShares MSCI Australia Index Fu",
+    "name_en": "iShares MSCI Australia ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Australia Index Fu"
+    "name": "iShares MSCI Australia ETF"
   },
   "EWBC": {
     "name_en": "East West Bancorp, Inc.",
@@ -2724,10 +2724,10 @@
     "name": "East West Bancorp, Inc."
   },
   "EWC": {
-    "name_en": "iShares MSCI Canada Index Fund",
+    "name_en": "iShares MSCI Canada ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Canada Index Fund"
+    "name": "iShares MSCI Canada ETF"
   },
   "EWI": {
     "name_en": "iShares MSCI Italy ETF",
@@ -2736,10 +2736,10 @@
     "name": "iShares MSCI Italy ETF"
   },
   "EWJ": {
-    "name_en": "iShares MSCI Japan Index Fund",
+    "name_en": "iShares MSCI Japan ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Japan Index Fund"
+    "name": "iShares MSCI Japan ETF"
   },
   "EWN": {
     "name_en": "iShares MSCI Netherlands ETF",
@@ -2772,10 +2772,10 @@
     "name": "Edgewise Therapeutics, Inc."
   },
   "EWU": {
-    "name_en": "iShares MSCI",
+    "name_en": "iShares MSCI United Kingdom ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI"
+    "name": "iShares MSCI United Kingdom ETF"
   },
   "EWW": {
     "name_en": "iShares MSCI Mexico ETF",
@@ -3900,10 +3900,10 @@
     "name": "iShares MSCI Switzerland ETF"
   },
   "EWQ": {
-    "name_en": "iShares MSCI France Index Fund",
+    "name_en": "iShares MSCI France ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI France Index Fund"
+    "name": "iShares MSCI France ETF"
   },
   "BKU": {
     "name_en": "BankUnited, Inc.",
@@ -5718,10 +5718,10 @@
     "name": "First Trust Global Tactical Commodity Strategy Fund"
   },
   "FVD": {
-    "name_en": "First Trust VL Dividend",
+    "name_en": "First Trust Value Line Dividend Index Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "First Trust VL Dividend"
+    "name": "First Trust Value Line Dividend Index Fund"
   },
   "GEF": {
     "name_en": "Greif, Inc.",
@@ -7194,10 +7194,10 @@
     "name": "Horizon International Equity ETF"
   },
   "FYC": {
-    "name_en": "First Trust Small Cap Growth Al",
+    "name_en": "First Trust Small Cap Growth AlphaDEX Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "First Trust Small Cap Growth Al"
+    "name": "First Trust Small Cap Growth AlphaDEX Fund"
   },
   "GGLL": {
     "name_en": "Direxion Daily GOOGL Bull 2X Shares",
@@ -7303,7 +7303,7 @@
   },
   "FTK": {
     "name_en": "Flotek Industries, Inc.",
-    "market_cap": 0,
+    "market_cap": 1406077056,
     "sector": "Energy",
     "name": "Flotek Industries, Inc."
   },
@@ -7384,5 +7384,89 @@
     "market_cap": 1959329536,
     "sector": "Financial Services",
     "name": "FirstSun Capital Bancorp"
+  },
+  "ARCC": {
+    "name_en": "Ares Capital Corporation",
+    "market_cap": 14338915328,
+    "sector": "Financial Services",
+    "name": "Ares Capital Corporation"
+  },
+  "ASPN": {
+    "name_en": "Aspen Aerogels, Inc.",
+    "market_cap": 509551136,
+    "sector": "Basic Materials",
+    "name": "Aspen Aerogels, Inc."
+  },
+  "ATR": {
+    "name_en": "AptarGroup, Inc.",
+    "market_cap": 8567557120,
+    "sector": "Healthcare",
+    "name": "AptarGroup, Inc."
+  },
+  "AVPT": {
+    "name_en": "AvePoint, Inc.",
+    "market_cap": 2777853952,
+    "sector": "Technology",
+    "name": "AvePoint, Inc."
+  },
+  "AWK": {
+    "name_en": "American Water Works Company, Inc.",
+    "market_cap": 27039066112,
+    "sector": "Utilities",
+    "name": "American Water Works Company, Inc."
+  },
+  "AXON": {
+    "name_en": "Axon Enterprise, Inc.",
+    "market_cap": 51692179456,
+    "sector": "Industrials",
+    "name": "Axon Enterprise, Inc."
+  },
+  "BALL": {
+    "name_en": "Ball Corporation",
+    "market_cap": 16746905600,
+    "sector": "Consumer Cyclical",
+    "name": "Ball Corporation"
+  },
+  "BDX": {
+    "name_en": "Becton, Dickinson and Company",
+    "market_cap": 49413693440,
+    "sector": "Healthcare",
+    "name": "Becton, Dickinson and Company"
+  },
+  "CBZ": {
+    "name_en": "CBIZ, Inc.",
+    "market_cap": 2963382272,
+    "sector": "Industrials",
+    "name": "CBIZ, Inc."
+  },
+  "CLOU": {
+    "name_en": "Global X Cloud Computing ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Global X Cloud Computing ETF"
+  },
+  "EFAV": {
+    "name_en": "iShares MSCI EAFE Min Vol Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI EAFE Min Vol Factor ETF"
+  },
+  "FBIN": {
+    "name_en": "Fortune Brands Innovations, Inc.",
+    "market_cap": 5968573952,
+    "sector": "Industrials",
+    "name": "Fortune Brands Innovations, Inc."
+  },
+  "GHRS": {
+    "name_en": "GH Research PLC",
+    "market_cap": 1995147392,
+    "sector": "Healthcare",
+    "name": "GH Research PLC"
+  },
+  "GO": {
+    "name_en": "Grocery Outlet Holding Corp.",
+    "market_cap": 972409856,
+    "sector": "Consumer Defensive",
+    "name": "Grocery Outlet Holding Corp."
   }
 }
