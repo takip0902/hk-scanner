@@ -8346,7 +8346,7 @@
     "sector": ""
   },
   "3010.HK": {
-    "name_en": "iShares Asia Trust - iShares Core MSCI AC Asia ex Japan Index ETF",
+    "name_en": "iShares Core MSCI Asia ex Japan ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3010"
@@ -10788,7 +10788,7 @@
     "name": "中國心連心化肥"
   },
   "3455.HK": {
-    "name_en": "Invesco QQQ Trust, Series 1",
+    "name_en": "Invesco QQQ Trust",
     "market_cap": 0,
     "sector": "",
     "name": "3455"
@@ -11446,5 +11446,29 @@
     "market_cap": 900000000,
     "sector": "Industrials",
     "name": "GC CONSTRUCTION"
+  },
+  "0100.HK": {
+    "name_en": "MiniMax Group Inc",
+    "market_cap": 131591856128,
+    "sector": "Technology",
+    "name": "MINIMAX-W"
+  },
+  "1913.HK": {
+    "name_en": "Prada S.p.A.",
+    "market_cap": 107982372864,
+    "sector": "Consumer Cyclical",
+    "name": "普拉達"
+  },
+  "2450.HK": {
+    "name_en": "Huaibei GreenGold Industry Investment Co., Ltd.",
+    "market_cap": 2228160000,
+    "sector": "Basic Materials",
+    "name": "淮北綠金股份"
+  },
+  "3378.HK": {
+    "name_en": "Hanx Biopharmaceuticals (Wuhan) Co., Ltd.",
+    "market_cap": 4362336256,
+    "sector": "Healthcare",
+    "name": "翰思艾泰－Ｂ"
   }
 }
