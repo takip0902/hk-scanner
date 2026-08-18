@@ -2166,10 +2166,10 @@
     "name": "iShares Core Dividend Growth ETF"
   },
   "DGRW": {
-    "name_en": "WisdomTree U.S. Dividend Growth Fund",
+    "name_en": "WisdomTree U.S. Quality Dividend Growth Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "WisdomTree U.S. Dividend Growth Fund"
+    "name": "WisdomTree U.S. Quality Dividend Growth Fund"
   },
   "DGX": {
     "name_en": "Quest Diagnostics Incorporated",
@@ -2226,10 +2226,10 @@
     "name": "GraniteShares 2x Long DELL Daily ETF"
   },
   "DLN": {
-    "name_en": "WisdomTree U.S. LargeCap Dividend Fund",
+    "name_en": "WisdomTree U.S. LargeCap Divide",
     "market_cap": 0,
     "sector": "",
-    "name": "WisdomTree U.S. LargeCap Dividend Fund"
+    "name": "WisdomTree U.S. LargeCap Divide"
   },
   "DLR": {
     "name_en": "Digital Realty Trust, Inc.",
@@ -2736,10 +2736,10 @@
     "name": "iShares MSCI Italy ETF"
   },
   "EWJ": {
-    "name_en": "iShares MSCI Japan ETF",
+    "name_en": "iShares MSCI Japan Index Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Japan ETF"
+    "name": "iShares MSCI Japan Index Fund"
   },
   "EWN": {
     "name_en": "iShares MSCI Netherlands ETF",
@@ -2772,10 +2772,10 @@
     "name": "Edgewise Therapeutics, Inc."
   },
   "EWU": {
-    "name_en": "iShares MSCI United Kingdom ETF",
+    "name_en": "iShares MSCI",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI United Kingdom ETF"
+    "name": "iShares MSCI"
   },
   "EWW": {
     "name_en": "iShares MSCI Mexico ETF",
@@ -5718,10 +5718,10 @@
     "name": "First Trust Global Tactical Commodity Strategy Fund"
   },
   "FVD": {
-    "name_en": "First Trust VL Dividend",
+    "name_en": "First Trust Value Line Dividend Index Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "First Trust VL Dividend"
+    "name": "First Trust Value Line Dividend Index Fund"
   },
   "GEF": {
     "name_en": "Greif, Inc.",
@@ -5850,10 +5850,10 @@
     "name": "VanEck High Yield Muni ETF"
   },
   "HYG": {
-    "name_en": "iShares iBoxx $ High Yield Corporate Bond ETF",
+    "name_en": "iShares iBoxx $ High Yield Corp",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
+    "name": "iShares iBoxx $ High Yield Corp"
   },
   "HYLB": {
     "name_en": "Xtrackers USD High Yield Corporate Bond ETF",
@@ -7618,5 +7618,83 @@
     "market_cap": 1872642176,
     "sector": "Technology",
     "name": "EVERTEC, Inc."
+  },
+  "BYND": {
+    "name_en": "Beyond Meat, Inc.",
+    "market_cap": 219051104,
+    "sector": "Consumer Defensive",
+    "name": "Beyond Meat, Inc."
+  },
+  "ESTC": {
+    "name_en": "Elastic N.V.",
+    "market_cap": 8836928512,
+    "sector": "Technology",
+    "name": "Elastic N.V."
+  },
+  "EVSD": {
+    "name_en": "Eaton Vance Short Duration Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Eaton Vance Short Duration Income ETF"
+  },
+  "GPC": {
+    "name_en": "Genuine Parts Company",
+    "market_cap": 18182324224,
+    "sector": "Consumer Cyclical",
+    "name": "Genuine Parts Company"
+  },
+  "GTLB": {
+    "name_en": "GitLab Inc.",
+    "market_cap": 7009350144,
+    "sector": "Technology",
+    "name": "GitLab Inc."
+  },
+  "HELP": {
+    "name_en": "Cybin D/B/A Helus Pharma",
+    "market_cap": 723354240,
+    "sector": "Healthcare",
+    "name": "Cybin D/B/A Helus Pharma"
+  },
+  "HIG": {
+    "name_en": "The Hartford Insurance Group, Inc.",
+    "market_cap": 38093221888,
+    "sector": "Financial Services",
+    "name": "The Hartford Insurance Group, Inc."
+  },
+  "HMC": {
+    "name_en": "Honda Motor Co., Ltd.",
+    "market_cap": 41460629504,
+    "sector": "Consumer Cyclical",
+    "name": "Honda Motor Co., Ltd."
+  },
+  "HNI": {
+    "name_en": "HNI Corporation",
+    "market_cap": 3430079232,
+    "sector": "Consumer Cyclical",
+    "name": "HNI Corporation"
+  },
+  "HNST": {
+    "name_en": "The Honest Company, Inc.",
+    "market_cap": 509600800,
+    "sector": "Consumer Defensive",
+    "name": "The Honest Company, Inc."
+  },
+  "HRTG": {
+    "name_en": "Heritage Insurance Holdings, Inc.",
+    "market_cap": 1001685056,
+    "sector": "Financial Services",
+    "name": "Heritage Insurance Holdings, Inc."
+  },
+  "HTFL": {
+    "name_en": "Heartflow, Inc.",
+    "market_cap": 3932912384,
+    "sector": "Healthcare",
+    "name": "Heartflow, Inc."
+  },
+  "HTGC": {
+    "name_en": "Hercules Capital, Inc.",
+    "market_cap": 3116280576,
+    "sector": "Financial Services",
+    "name": "Hercules Capital, Inc."
   }
 }
