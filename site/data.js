@@ -1,9 +1,9 @@
 window.SCANNER_DATA = {
   "scan_date": "2026-08-20",
-  "scan_timestamp": "2026-08-20T18:02:01.032520+08:00",
+  "scan_timestamp": "2026-08-20T19:19:55.098560+08:00",
   "previous_date": "2026-08-19",
   "total_universe": 5999,
-  "data_available": 2784,
+  "data_available": 2794,
   "total_qualified": 81,
   "new_count": 6,
   "removed_count": 2,
@@ -29,7 +29,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 13.85,
       "sector": "Industrials",
       "rs_rating": 99,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -52,7 +52,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 33.23,
       "sector": "Healthcare",
       "rs_rating": 98,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -75,7 +75,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 155.55,
       "sector": "Technology",
       "rs_rating": 98,
-      "streak": 28,
+      "streak": 29,
       "is_new": false
     },
     {
@@ -102,7 +102,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 9.63,
       "sector": "Technology",
       "rs_rating": 98,
-      "streak": 34,
+      "streak": 35,
       "is_new": false
     },
     {
@@ -125,7 +125,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 19.36,
       "sector": "Industrials",
       "rs_rating": 97,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -148,7 +148,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 9.45,
       "sector": "Industrials",
       "rs_rating": 97,
-      "streak": 117,
+      "streak": 118,
       "is_new": false
     },
     {
@@ -171,7 +171,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 35.53,
       "sector": "Healthcare",
       "rs_rating": 96,
-      "streak": 8,
+      "streak": 9,
       "is_new": false
     },
     {
@@ -184,7 +184,7 @@ window.SCANNER_DATA = {
       "pct_20d": 30.73,
       "pct_from_52w_high": 0.0,
       "pct_from_52w_low": 115.53,
-      "avg_turnover_m": 1397.74,
+      "avg_turnover_m": 1398.35,
       "last_date": "2026-08-20",
       "ma50": 159.983,
       "ma100": 143.155,
@@ -194,7 +194,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 403.11,
       "sector": "Healthcare",
       "rs_rating": 96,
-      "streak": 85,
+      "streak": 86,
       "is_new": false
     },
     {
@@ -207,7 +207,7 @@ window.SCANNER_DATA = {
       "pct_20d": 26.1,
       "pct_from_52w_high": -14.68,
       "pct_from_52w_low": 119.23,
-      "avg_turnover_m": 193.46,
+      "avg_turnover_m": 193.49,
       "last_date": "2026-08-20",
       "ma50": 14.849,
       "ma100": 12.8,
@@ -217,7 +217,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 38.92,
       "sector": "Technology",
       "rs_rating": 96,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -230,7 +230,7 @@ window.SCANNER_DATA = {
       "pct_20d": 7.2,
       "pct_from_52w_high": -7.9,
       "pct_from_52w_low": 458.33,
-      "avg_turnover_m": 84.92,
+      "avg_turnover_m": 84.93,
       "last_date": "2026-08-20",
       "ma50": 2.366,
       "ma100": 2.192,
@@ -240,7 +240,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 14.3,
       "sector": "Financial Services",
       "rs_rating": 96,
-      "streak": 40,
+      "streak": 41,
       "is_new": false
     },
     {
@@ -263,7 +263,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 92.18,
       "sector": "Industrials",
       "rs_rating": 95,
-      "streak": 53,
+      "streak": 54,
       "is_new": false
     },
     {
@@ -290,7 +290,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 16.03,
       "sector": "Technology",
       "rs_rating": 94,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -303,7 +303,7 @@ window.SCANNER_DATA = {
       "pct_20d": 9.75,
       "pct_from_52w_high": -3.14,
       "pct_from_52w_low": 85.44,
-      "avg_turnover_m": 147.29,
+      "avg_turnover_m": 147.3,
       "last_date": "2026-08-20",
       "ma50": 113.127,
       "ma100": 103.889,
@@ -313,7 +313,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 36.45,
       "sector": "Healthcare",
       "rs_rating": 94,
-      "streak": 83,
+      "streak": 84,
       "is_new": false
     },
     {
@@ -363,7 +363,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 9.13,
       "sector": "Industrials",
       "rs_rating": 94,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -376,7 +376,7 @@ window.SCANNER_DATA = {
       "pct_20d": 29.13,
       "pct_from_52w_high": -23.62,
       "pct_from_52w_low": 66.4,
-      "avg_turnover_m": 203.17,
+      "avg_turnover_m": 203.33,
       "last_date": "2026-08-20",
       "ma50": 15.665,
       "ma100": 15.588,
@@ -409,7 +409,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 14.14,
       "sector": "Industrials",
       "rs_rating": 93,
-      "streak": 44,
+      "streak": 45,
       "is_new": false
     },
     {
@@ -432,7 +432,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 135.0,
       "sector": "Healthcare",
       "rs_rating": 92,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -459,7 +459,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 15.78,
       "sector": "Technology",
       "rs_rating": 92,
-      "streak": 24,
+      "streak": 25,
       "is_new": false
     },
     {
@@ -482,7 +482,30 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 92,
-      "streak": 16,
+      "streak": 17,
+      "is_new": false
+    },
+    {
+      "ticker": "1997.HK",
+      "code": "1997",
+      "category": "standard",
+      "close": 32.84,
+      "above_ma50_pct": 29.08,
+      "pct_5d": 1.67,
+      "pct_20d": 28.68,
+      "pct_from_52w_high": -0.24,
+      "pct_from_52w_low": 56.91,
+      "avg_turnover_m": 205.95,
+      "last_date": "2026-08-20",
+      "ma50": 25.441,
+      "ma100": 24.745,
+      "ma200": 24.715,
+      "name": "九龍倉置業",
+      "market_cap": 77727424512,
+      "market_cap_b": 77.73,
+      "sector": "Real Estate",
+      "rs_rating": 91,
+      "streak": 11,
       "is_new": false
     },
     {
@@ -505,7 +528,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 16.99,
       "sector": "Industrials",
       "rs_rating": 91,
-      "streak": 44,
+      "streak": 45,
       "is_new": false
     },
     {
@@ -528,7 +551,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 92.91,
       "sector": "Industrials",
       "rs_rating": 91,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -555,30 +578,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "Basic Materials",
       "rs_rating": 91,
-      "streak": 30,
-      "is_new": false
-    },
-    {
-      "ticker": "1997.HK",
-      "code": "1997",
-      "category": "standard",
-      "close": 32.84,
-      "above_ma50_pct": 29.08,
-      "pct_5d": 1.67,
-      "pct_20d": 28.68,
-      "pct_from_52w_high": -0.24,
-      "pct_from_52w_low": 56.91,
-      "avg_turnover_m": 205.95,
-      "last_date": "2026-08-20",
-      "ma50": 25.441,
-      "ma100": 24.745,
-      "ma200": 24.715,
-      "name": "九龍倉置業",
-      "market_cap": 77727424512,
-      "market_cap_b": 77.73,
-      "sector": "Real Estate",
-      "rs_rating": 90,
-      "streak": 10,
+      "streak": 31,
       "is_new": false
     },
     {
@@ -601,7 +601,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 34.01,
       "sector": "Industrials",
       "rs_rating": 90,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
@@ -624,7 +624,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 330.68,
       "sector": "Industrials",
       "rs_rating": 90,
-      "streak": 57,
+      "streak": 58,
       "is_new": false
     },
     {
@@ -647,7 +647,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 70.84,
       "sector": "Financial Services",
       "rs_rating": 90,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -670,7 +670,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 13.39,
       "sector": "Technology",
       "rs_rating": 89,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -693,7 +693,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 225.12,
       "sector": "Industrials",
       "rs_rating": 89,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -716,7 +716,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 14.53,
       "sector": "Healthcare",
       "rs_rating": 89,
-      "streak": 16,
+      "streak": 17,
       "is_new": false
     },
     {
@@ -743,7 +743,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 18.14,
       "sector": "Technology",
       "rs_rating": 89,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -766,7 +766,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 21.2,
       "sector": "Healthcare",
       "rs_rating": 89,
-      "streak": 73,
+      "streak": 74,
       "is_new": false
     },
     {
@@ -789,7 +789,30 @@ window.SCANNER_DATA = {
       "market_cap_b": 37.04,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 24,
+      "streak": 25,
+      "is_new": false
+    },
+    {
+      "ticker": "6990.HK",
+      "code": "6990",
+      "category": "standard",
+      "close": 533.0,
+      "above_ma50_pct": 10.51,
+      "pct_5d": 1.43,
+      "pct_20d": 2.21,
+      "pct_from_52w_high": -7.71,
+      "pct_from_52w_low": 53.16,
+      "avg_turnover_m": 342.97,
+      "last_date": "2026-08-20",
+      "ma50": 482.318,
+      "ma100": 470.171,
+      "ma200": 447.155,
+      "name": "科倫博泰生物",
+      "market_cap": 110576787456,
+      "market_cap_b": 110.58,
+      "sector": "Healthcare",
+      "rs_rating": 88,
+      "streak": 49,
       "is_new": false
     },
     {
@@ -812,7 +835,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 13.72,
       "sector": "Financial Services",
       "rs_rating": 88,
-      "streak": 55,
+      "streak": 56,
       "is_new": false
     },
     {
@@ -835,7 +858,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 15.36,
       "sector": "Healthcare",
       "rs_rating": 87,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -858,7 +881,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 156.12,
       "sector": "Healthcare",
       "rs_rating": 87,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -881,30 +904,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 18.58,
       "sector": "Financial Services",
       "rs_rating": 87,
-      "streak": 42,
-      "is_new": false
-    },
-    {
-      "ticker": "6990.HK",
-      "code": "6990",
-      "category": "standard",
-      "close": 533.0,
-      "above_ma50_pct": 10.51,
-      "pct_5d": 1.43,
-      "pct_20d": 2.21,
-      "pct_from_52w_high": -7.71,
-      "pct_from_52w_low": 53.16,
-      "avg_turnover_m": 342.97,
-      "last_date": "2026-08-20",
-      "ma50": 482.318,
-      "ma100": 470.171,
-      "ma200": 447.155,
-      "name": "科倫博泰生物",
-      "market_cap": 110576787456,
-      "market_cap_b": 110.58,
-      "sector": "Healthcare",
-      "rs_rating": 87,
-      "streak": 48,
+      "streak": 43,
       "is_new": false
     },
     {
@@ -927,7 +927,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 225.42,
       "sector": "Industrials",
       "rs_rating": 87,
-      "streak": 125,
+      "streak": 126,
       "is_new": false
     },
     {
@@ -950,7 +950,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 40.18,
       "sector": "Technology",
       "rs_rating": 87,
-      "streak": 48,
+      "streak": 49,
       "is_new": false
     },
     {
@@ -963,7 +963,7 @@ window.SCANNER_DATA = {
       "pct_20d": 2.34,
       "pct_from_52w_high": -4.62,
       "pct_from_52w_low": 46.13,
-      "avg_turnover_m": 166.5,
+      "avg_turnover_m": 166.53,
       "last_date": "2026-08-20",
       "ma50": 13.528,
       "ma100": 12.834,
@@ -973,7 +973,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 76.62,
       "sector": "Industrials",
       "rs_rating": 86,
-      "streak": 77,
+      "streak": 78,
       "is_new": false
     },
     {
@@ -996,7 +996,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 51.77,
       "sector": "Industrials",
       "rs_rating": 85,
-      "streak": 32,
+      "streak": 33,
       "is_new": false
     },
     {
@@ -1019,7 +1019,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 2291.62,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -1042,7 +1042,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 85,
-      "streak": 61,
+      "streak": 62,
       "is_new": false
     },
     {
@@ -1055,7 +1055,7 @@ window.SCANNER_DATA = {
       "pct_20d": 4.25,
       "pct_from_52w_high": -2.16,
       "pct_from_52w_low": 40.75,
-      "avg_turnover_m": 1237.43,
+      "avg_turnover_m": 1237.49,
       "last_date": "2026-08-20",
       "ma50": 7.017,
       "ma100": 6.921,
@@ -1065,7 +1065,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 2466.33,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 49,
+      "streak": 50,
       "is_new": false
     },
     {
@@ -1088,7 +1088,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 480.64,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 61,
+      "streak": 62,
       "is_new": false
     },
     {
@@ -1111,7 +1111,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 1646.51,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 49,
+      "streak": 50,
       "is_new": false
     },
     {
@@ -1134,7 +1134,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 439.79,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 94,
+      "streak": 95,
       "is_new": false
     },
     {
@@ -1157,7 +1157,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 2378.46,
       "sector": "Financial Services",
       "rs_rating": 85,
-      "streak": 92,
+      "streak": 93,
       "is_new": false
     },
     {
@@ -1197,7 +1197,7 @@ window.SCANNER_DATA = {
       "pct_20d": 1.04,
       "pct_from_52w_high": -2.11,
       "pct_from_52w_low": 30.35,
-      "avg_turnover_m": 420.46,
+      "avg_turnover_m": 420.49,
       "last_date": "2026-08-20",
       "ma50": 91.141,
       "ma100": 87.134,
@@ -1207,7 +1207,30 @@ window.SCANNER_DATA = {
       "market_cap_b": 648.91,
       "sector": "Consumer Cyclical",
       "rs_rating": 84,
-      "streak": 69,
+      "streak": 70,
+      "is_new": false
+    },
+    {
+      "ticker": "6993.HK",
+      "code": "6993",
+      "category": "standard",
+      "close": 3.245,
+      "above_ma50_pct": 4.17,
+      "pct_5d": 0.78,
+      "pct_20d": 1.41,
+      "pct_from_52w_high": -9.52,
+      "pct_from_52w_low": 34.0,
+      "avg_turnover_m": 3.01,
+      "last_date": "2026-08-20",
+      "ma50": 3.115,
+      "ma100": 3.037,
+      "ma200": 2.879,
+      "name": "藍月亮集團",
+      "market_cap": 18290515968,
+      "market_cap_b": 18.29,
+      "sector": "Consumer Defensive",
+      "rs_rating": 84,
+      "streak": 50,
       "is_new": false
     },
     {
@@ -1230,7 +1253,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 262.13,
       "sector": "Real Estate",
       "rs_rating": 83,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
     },
     {
@@ -1253,30 +1276,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 27.94,
       "sector": "Financial Services",
       "rs_rating": 83,
-      "streak": 55,
-      "is_new": false
-    },
-    {
-      "ticker": "6993.HK",
-      "code": "6993",
-      "category": "standard",
-      "close": 3.245,
-      "above_ma50_pct": 4.17,
-      "pct_5d": 0.78,
-      "pct_20d": 1.41,
-      "pct_from_52w_high": -9.52,
-      "pct_from_52w_low": 34.0,
-      "avg_turnover_m": 3.01,
-      "last_date": "2026-08-20",
-      "ma50": 3.115,
-      "ma100": 3.037,
-      "ma200": 2.879,
-      "name": "藍月亮集團",
-      "market_cap": 18290515968,
-      "market_cap_b": 18.29,
-      "sector": "Consumer Defensive",
-      "rs_rating": 83,
-      "streak": 49,
+      "streak": 56,
       "is_new": false
     },
     {
@@ -1299,7 +1299,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 83,
-      "streak": 10,
+      "streak": 11,
       "is_new": false
     },
     {
@@ -1322,7 +1322,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 83,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -1345,7 +1345,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 83,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -1372,7 +1372,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 27.65,
       "sector": "Technology",
       "rs_rating": 82,
-      "streak": 14,
+      "streak": 15,
       "is_new": false
     },
     {
@@ -1395,7 +1395,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 517.69,
       "sector": "Financial Services",
       "rs_rating": 82,
-      "streak": 117,
+      "streak": 118,
       "is_new": false
     },
     {
@@ -1418,7 +1418,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 82,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
     },
     {
@@ -1441,7 +1441,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 638.87,
       "sector": "Financial Services",
       "rs_rating": 81,
-      "streak": 46,
+      "streak": 47,
       "is_new": false
     },
     {
@@ -1464,7 +1464,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 67.46,
       "sector": "Consumer Defensive",
       "rs_rating": 81,
-      "streak": 69,
+      "streak": 70,
       "is_new": false
     },
     {
@@ -1487,7 +1487,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 18.6,
       "sector": "Basic Materials",
       "rs_rating": 80,
-      "streak": 20,
+      "streak": 21,
       "is_new": false
     },
     {
@@ -1510,7 +1510,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 80,
-      "streak": 26,
+      "streak": 27,
       "is_new": false
     },
     {
@@ -1533,7 +1533,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 80,
-      "streak": 28,
+      "streak": 29,
       "is_new": false
     },
     {
@@ -1556,7 +1556,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 9.37,
       "sector": "Consumer Defensive",
       "rs_rating": 79,
-      "streak": 2,
+      "streak": 3,
       "is_new": false
     },
     {
@@ -1569,7 +1569,7 @@ window.SCANNER_DATA = {
       "pct_20d": -0.04,
       "pct_from_52w_high": -5.45,
       "pct_from_52w_low": 18.81,
-      "avg_turnover_m": 142.81,
+      "avg_turnover_m": 142.82,
       "last_date": "2026-08-20",
       "ma50": 12.06,
       "ma100": 11.875,
@@ -1579,7 +1579,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 92.79,
       "sector": "Communication Services",
       "rs_rating": 79,
-      "streak": 55,
+      "streak": 56,
       "is_new": false
     },
     {
@@ -1602,7 +1602,30 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 78,
-      "streak": 28,
+      "streak": 29,
+      "is_new": false
+    },
+    {
+      "ticker": "0002.HK",
+      "code": "0002",
+      "category": "standard",
+      "close": 78.85,
+      "above_ma50_pct": 3.62,
+      "pct_5d": 0.25,
+      "pct_20d": 1.87,
+      "pct_from_52w_high": -0.13,
+      "pct_from_52w_low": 27.15,
+      "avg_turnover_m": 259.48,
+      "last_date": "2026-08-20",
+      "ma50": 76.099,
+      "ma100": 75.274,
+      "ma200": 72.338,
+      "name": "中電控股",
+      "market_cap": 190241751040,
+      "market_cap_b": 190.24,
+      "sector": "Utilities",
+      "rs_rating": 77,
+      "streak": 68,
       "is_new": false
     },
     {
@@ -1625,30 +1648,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 106.66,
       "sector": "Real Estate",
       "rs_rating": 77,
-      "streak": 53,
-      "is_new": false
-    },
-    {
-      "ticker": "0002.HK",
-      "code": "0002",
-      "category": "standard",
-      "close": 78.85,
-      "above_ma50_pct": 3.62,
-      "pct_5d": 0.25,
-      "pct_20d": 1.87,
-      "pct_from_52w_high": -0.13,
-      "pct_from_52w_low": 27.15,
-      "avg_turnover_m": 259.48,
-      "last_date": "2026-08-20",
-      "ma50": 76.099,
-      "ma100": 75.274,
-      "ma200": 72.338,
-      "name": "中電控股",
-      "market_cap": 190241751040,
-      "market_cap_b": 190.24,
-      "sector": "Utilities",
-      "rs_rating": 76,
-      "streak": 67,
+      "streak": 54,
       "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@ window.SCANNER_DATA = {
       "pct_20d": 2.13,
       "pct_from_52w_high": -14.47,
       "pct_from_52w_low": 23.86,
-      "avg_turnover_m": 88.57,
+      "avg_turnover_m": 88.68,
       "last_date": "2026-08-20",
       "ma50": 40.654,
       "ma100": 38.459,
@@ -1671,7 +1671,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 107.98,
       "sector": "Consumer Cyclical",
       "rs_rating": 76,
-      "streak": 10,
+      "streak": 11,
       "is_new": false
     },
     {
@@ -1694,8 +1694,35 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 76,
-      "streak": 22,
+      "streak": 23,
       "is_new": false
+    },
+    {
+      "ticker": "3456.HK",
+      "code": "3456",
+      "category": "new",
+      "close": 8.43,
+      "above_ma50_pct": 0.18,
+      "pct_5d": 0.72,
+      "pct_20d": 4.07,
+      "pct_from_52w_high": -2.03,
+      "pct_from_52w_low": 12.18,
+      "avg_turnover_m": 2.25,
+      "last_date": "2026-08-20",
+      "ma10": 8.414,
+      "ma20": 8.323,
+      "ipo_high": 7.8,
+      "days_listed": 39,
+      "ma50": 8.414,
+      "ma100": 8.323,
+      "ma200": 8.323,
+      "name": "3456",
+      "market_cap": 0,
+      "market_cap_b": 0,
+      "sector": "",
+      "rs_rating": 74,
+      "streak": 1,
+      "is_new": true
     },
     {
       "ticker": "1776.HK",
@@ -1717,7 +1744,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 136.23,
       "sector": "Financial Services",
       "rs_rating": 72,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -1740,35 +1767,8 @@ window.SCANNER_DATA = {
       "market_cap_b": 17.2,
       "sector": "Industrials",
       "rs_rating": 71,
-      "streak": 12,
+      "streak": 13,
       "is_new": false
-    },
-    {
-      "ticker": "3456.HK",
-      "code": "3456",
-      "category": "new",
-      "close": 8.43,
-      "above_ma50_pct": 0.18,
-      "pct_5d": 0.72,
-      "pct_20d": 4.07,
-      "pct_from_52w_high": -2.03,
-      "pct_from_52w_low": 5.57,
-      "avg_turnover_m": 2.25,
-      "last_date": "2026-08-20",
-      "ma10": 8.414,
-      "ma20": 8.323,
-      "ipo_high": 8.315,
-      "days_listed": 22,
-      "ma50": 8.414,
-      "ma100": 8.323,
-      "ma200": 8.323,
-      "name": "3456",
-      "market_cap": 0,
-      "market_cap_b": 0,
-      "sector": "",
-      "rs_rating": 70,
-      "streak": 1,
-      "is_new": true
     },
     {
       "ticker": "3421.HK",
@@ -1790,7 +1790,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 69,
-      "streak": 6,
+      "streak": 7,
       "is_new": false
     },
     {
@@ -1813,7 +1813,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 69,
-      "streak": 123,
+      "streak": 124,
       "is_new": false
     },
     {
@@ -1836,7 +1836,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 0,
       "sector": "",
       "rs_rating": 69,
-      "streak": 123,
+      "streak": 124,
       "is_new": false
     },
     {
@@ -1882,7 +1882,7 @@ window.SCANNER_DATA = {
       "market_cap_b": 51.01,
       "sector": "Consumer Cyclical",
       "rs_rating": 61,
-      "streak": 4,
+      "streak": 5,
       "is_new": false
     },
     {
