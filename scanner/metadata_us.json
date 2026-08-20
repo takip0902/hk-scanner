@@ -2370,10 +2370,10 @@
     "name": "Invesco DB Commodity Index Tracking Fund"
   },
   "DIA": {
-    "name_en": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+    "name_en": "State Street SPDR Dow Jones Ind",
     "market_cap": 0,
     "sector": "",
-    "name": "State Street SPDR Dow Jones Industrial Average ETF Trust"
+    "name": "State Street SPDR Dow Jones Ind"
   },
   "DIHP": {
     "name_en": "Dimensional International High Profitability ETF",
@@ -2478,10 +2478,10 @@
     "name": "Direxion Daily MSCI Emerging Markets Bull 3X Shares"
   },
   "EEM": {
-    "name_en": "iShares MSCI Emerging Markets ETF",
+    "name_en": "iShares MSCI Emerging Index Fun",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Emerging Markets ETF"
+    "name": "iShares MSCI Emerging Index Fun"
   },
   "EEMA": {
     "name_en": "iShares MSCI Emerging Markets Asia ETF",
@@ -2712,10 +2712,10 @@
     "name": "Entravision Communications Corporation"
   },
   "EWA": {
-    "name_en": "iShares MSCI Australia ETF",
+    "name_en": "iShares MSCI Australia Index Fu",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Australia ETF"
+    "name": "iShares MSCI Australia Index Fu"
   },
   "EWBC": {
     "name_en": "East West Bancorp, Inc.",
@@ -2724,10 +2724,10 @@
     "name": "East West Bancorp, Inc."
   },
   "EWC": {
-    "name_en": "iShares MSCI Canada ETF",
+    "name_en": "iShares MSCI Canada Index Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Canada ETF"
+    "name": "iShares MSCI Canada Index Fund"
   },
   "EWI": {
     "name_en": "iShares MSCI Italy ETF",
@@ -3846,10 +3846,10 @@
     "name": "Goldman Sachs Ultra Short Bond ETF"
   },
   "GSY": {
-    "name_en": "Invesco Ultra Short Duration ETF",
+    "name_en": "Invesco Ultra Short Duration ET",
     "market_cap": 0,
     "sector": "",
-    "name": "Invesco Ultra Short Duration ETF"
+    "name": "Invesco Ultra Short Duration ET"
   },
   "GTES": {
     "name_en": "Gates Industrial Corporation plc",
@@ -3900,10 +3900,10 @@
     "name": "iShares MSCI Switzerland ETF"
   },
   "EWQ": {
-    "name_en": "iShares MSCI France ETF",
+    "name_en": "iShares MSCI France Index Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI France ETF"
+    "name": "iShares MSCI France Index Fund"
   },
   "BKU": {
     "name_en": "BankUnited, Inc.",
@@ -5718,10 +5718,10 @@
     "name": "First Trust Global Tactical Commodity Strategy Fund"
   },
   "FVD": {
-    "name_en": "First Trust Value Line Dividend Index Fund",
+    "name_en": "First Trust VL Dividend",
     "market_cap": 0,
     "sector": "",
-    "name": "First Trust Value Line Dividend Index Fund"
+    "name": "First Trust VL Dividend"
   },
   "GEF": {
     "name_en": "Greif, Inc.",
@@ -7696,5 +7696,23 @@
     "market_cap": 3116280576,
     "sector": "Financial Services",
     "name": "Hercules Capital, Inc."
+  },
+  "ETHB": {
+    "name_en": "iShares Staked Ethereum Trust ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Staked Ethereum Trust ETF"
+  },
+  "FET": {
+    "name_en": "Forum Energy Technologies, Inc.",
+    "market_cap": 883958784,
+    "sector": "Energy",
+    "name": "Forum Energy Technologies, Inc."
+  },
+  "GSEW": {
+    "name_en": "Goldman Sachs Equal Weight U.S. Large Cap Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Goldman Sachs Equal Weight U.S. Large Cap Equity ETF"
   }
 }
