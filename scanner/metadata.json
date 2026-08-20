@@ -11488,5 +11488,17 @@
     "market_cap": 0,
     "sector": "",
     "name": "2815"
+  },
+  "2556.HK": {
+    "name_en": "Marketingforce Management Ltd",
+    "market_cap": 13386840064,
+    "sector": "Technology",
+    "name": "邁富時"
+  },
+  "2588.HK": {
+    "name_en": "BOC Aviation Limited",
+    "market_cap": 54098100224,
+    "sector": "Industrials",
+    "name": "中銀航空租賃"
   }
 }
