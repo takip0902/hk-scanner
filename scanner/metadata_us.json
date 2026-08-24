@@ -2226,10 +2226,10 @@
     "name": "GraniteShares 2x Long DELL Daily ETF"
   },
   "DLN": {
-    "name_en": "WisdomTree U.S. LargeCap Divide",
+    "name_en": "WisdomTree U.S. LargeCap Dividend Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "WisdomTree U.S. LargeCap Divide"
+    "name": "WisdomTree U.S. LargeCap Dividend Fund"
   },
   "DLR": {
     "name_en": "Digital Realty Trust, Inc.",
@@ -2370,10 +2370,10 @@
     "name": "Invesco DB Commodity Index Tracking Fund"
   },
   "DIA": {
-    "name_en": "State Street SPDR Dow Jones Ind",
+    "name_en": "State Street SPDR Dow Jones Industrial Average ETF Trust",
     "market_cap": 0,
     "sector": "",
-    "name": "State Street SPDR Dow Jones Ind"
+    "name": "State Street SPDR Dow Jones Industrial Average ETF Trust"
   },
   "DIHP": {
     "name_en": "Dimensional International High Profitability ETF",
@@ -2478,10 +2478,10 @@
     "name": "Direxion Daily MSCI Emerging Markets Bull 3X Shares"
   },
   "EEM": {
-    "name_en": "iShares MSCI Emerging Index Fun",
+    "name_en": "iShares MSCI Emerging Markets ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Emerging Index Fun"
+    "name": "iShares MSCI Emerging Markets ETF"
   },
   "EEMA": {
     "name_en": "iShares MSCI Emerging Markets Asia ETF",
@@ -2712,10 +2712,10 @@
     "name": "Entravision Communications Corporation"
   },
   "EWA": {
-    "name_en": "iShares MSCI Australia Index Fu",
+    "name_en": "iShares MSCI Australia ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Australia Index Fu"
+    "name": "iShares MSCI Australia ETF"
   },
   "EWBC": {
     "name_en": "East West Bancorp, Inc.",
@@ -2724,10 +2724,10 @@
     "name": "East West Bancorp, Inc."
   },
   "EWC": {
-    "name_en": "iShares MSCI Canada Index Fund",
+    "name_en": "iShares MSCI Canada ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Canada Index Fund"
+    "name": "iShares MSCI Canada ETF"
   },
   "EWI": {
     "name_en": "iShares MSCI Italy ETF",
@@ -2736,10 +2736,10 @@
     "name": "iShares MSCI Italy ETF"
   },
   "EWJ": {
-    "name_en": "iShares MSCI Japan Index Fund",
+    "name_en": "iShares MSCI Japan ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI Japan Index Fund"
+    "name": "iShares MSCI Japan ETF"
   },
   "EWN": {
     "name_en": "iShares MSCI Netherlands ETF",
@@ -2772,10 +2772,10 @@
     "name": "Edgewise Therapeutics, Inc."
   },
   "EWU": {
-    "name_en": "iShares MSCI",
+    "name_en": "iShares MSCI United Kingdom ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI"
+    "name": "iShares MSCI United Kingdom ETF"
   },
   "EWW": {
     "name_en": "iShares MSCI Mexico ETF",
@@ -3846,10 +3846,10 @@
     "name": "Goldman Sachs Ultra Short Bond ETF"
   },
   "GSY": {
-    "name_en": "Invesco Ultra Short Duration ET",
+    "name_en": "Invesco Ultra Short Duration ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Invesco Ultra Short Duration ET"
+    "name": "Invesco Ultra Short Duration ETF"
   },
   "GTES": {
     "name_en": "Gates Industrial Corporation plc",
@@ -3900,10 +3900,10 @@
     "name": "iShares MSCI Switzerland ETF"
   },
   "EWQ": {
-    "name_en": "iShares MSCI France Index Fund",
+    "name_en": "iShares MSCI France ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares MSCI France Index Fund"
+    "name": "iShares MSCI France ETF"
   },
   "BKU": {
     "name_en": "BankUnited, Inc.",
@@ -5718,10 +5718,10 @@
     "name": "First Trust Global Tactical Commodity Strategy Fund"
   },
   "FVD": {
-    "name_en": "First Trust VL Dividend",
+    "name_en": "First Trust Value Line Dividend Index Fund",
     "market_cap": 0,
     "sector": "",
-    "name": "First Trust VL Dividend"
+    "name": "First Trust Value Line Dividend Index Fund"
   },
   "GEF": {
     "name_en": "Greif, Inc.",
@@ -5850,10 +5850,10 @@
     "name": "VanEck High Yield Muni ETF"
   },
   "HYG": {
-    "name_en": "iShares iBoxx $ High Yield Corp",
+    "name_en": "iShares iBoxx $ High Yield Corporate Bond ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares iBoxx $ High Yield Corp"
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
   },
   "HYLB": {
     "name_en": "Xtrackers USD High Yield Corporate Bond ETF",
@@ -7816,5 +7816,47 @@
     "market_cap": 0,
     "sector": "",
     "name": "Fidelity MSCI Real Estate Index ETF"
+  },
+  "CGAU": {
+    "name_en": "Centerra Gold Inc.",
+    "market_cap": 4592864768,
+    "sector": "Basic Materials",
+    "name": "Centerra Gold Inc."
+  },
+  "CWST": {
+    "name_en": "Casella Waste Systems, Inc.",
+    "market_cap": 6031803904,
+    "sector": "Industrials",
+    "name": "Casella Waste Systems, Inc."
+  },
+  "GNK": {
+    "name_en": "Genco Shipping & Trading Limited",
+    "market_cap": 1174223104,
+    "sector": "Industrials",
+    "name": "Genco Shipping & Trading Limited"
+  },
+  "GSHD": {
+    "name_en": "Goosehead Insurance, Inc.",
+    "market_cap": 3463944704,
+    "sector": "Financial Services",
+    "name": "Goosehead Insurance, Inc."
+  },
+  "GVI": {
+    "name_en": "iShares Intermediate Government/Credit Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Intermediate Government/Credit Bond ETF"
+  },
+  "HLT": {
+    "name_en": "Hilton Worldwide Holdings Inc.",
+    "market_cap": 74287177728,
+    "sector": "Consumer Cyclical",
+    "name": "Hilton Worldwide Holdings Inc."
+  },
+  "HOOD": {
+    "name_en": "Robinhood Markets, Inc.",
+    "market_cap": 93162913792,
+    "sector": "Financial Services",
+    "name": "Robinhood Markets, Inc."
   }
 }
