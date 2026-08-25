@@ -7858,5 +7858,11 @@
     "market_cap": 93162913792,
     "sector": "Financial Services",
     "name": "Robinhood Markets, Inc."
+  },
+  "FSEC": {
+    "name_en": "Fidelity Investment Grade Securitized ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Fidelity Investment Grade Securitized ETF"
   }
 }
