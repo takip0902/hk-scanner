@@ -8197,9 +8197,9 @@
   },
   "2820.HK": {
     "name_en": "Global X ETF Series - Global X China Biotech ETF",
-    "name": "Global X ETF Series - Global X China Biotech ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "2820"
   },
   "2823.HK": {
     "name_en": "iShares Asia Trust - iShares FTSE A50 China Index ETF",
@@ -11094,7 +11094,7 @@
     "name": "2827"
   },
   "3421.HK": {
-    "name_en": "Value Partners Hkd Money Market Etf",
+    "name_en": "Value Ptnrs HKD Mny Mkt ETFHK$CntrAcc",
     "market_cap": 0,
     "sector": "",
     "name": "3421"
@@ -11340,7 +11340,7 @@
     "name": "方圓生活服務"
   },
   "6228.HK": {
-    "name_en": "MERDEKAGOLD-DRS",
+    "name_en": "PT Merdeka Gold Resources Tbk",
     "market_cap": 0,
     "sector": "Basic Materials",
     "name": "6228"
@@ -11506,5 +11506,29 @@
     "market_cap": 25209683968,
     "sector": "Healthcare",
     "name": "諾誠健華"
+  },
+  "1793.HK": {
+    "name_en": "Wecon Holdings Limited",
+    "market_cap": 868558336,
+    "sector": "Industrials",
+    "name": "偉工控股"
+  },
+  "2099.HK": {
+    "name_en": "China Gold International Resources Corp. Ltd.",
+    "market_cap": 101561212928,
+    "sector": "Basic Materials",
+    "name": "中國黃金國際"
+  },
+  "2315.HK": {
+    "name_en": "Biocytogen Pharmaceuticals (Beijing) Co., Ltd.",
+    "market_cap": 27495516160,
+    "sector": "Healthcare",
+    "name": "百奧賽圖－Ｂ"
+  },
+  "2451.HK": {
+    "name_en": "Luyuan Group Holding (Cayman) Limited",
+    "market_cap": 5214131200,
+    "sector": "Consumer Cyclical",
+    "name": "綠源集團控股"
   }
 }
