@@ -186,10 +186,10 @@
     "name": "Biogen Inc."
   },
   "BIL": {
-    "name_en": "State Street SPDR Bloomberg 1-3",
+    "name_en": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "State Street SPDR Bloomberg 1-3"
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
   },
   "BILS": {
     "name_en": "State Street SPDR Bloomberg 3-12 Month T-Bill ETF",
@@ -2946,10 +2946,10 @@
     "name": "Edison International"
   },
   "EMB": {
-    "name_en": "iShares J.P. Morgan USD Emergin",
+    "name_en": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares J.P. Morgan USD Emergin"
+    "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
   },
   "EME": {
     "name_en": "EMCOR Group, Inc.",
@@ -7795,7 +7795,7 @@
   },
   "DCI": {
     "name_en": "Donaldson Company, Inc.",
-    "market_cap": 0,
+    "market_cap": 11039369216,
     "sector": "Industrials",
     "name": "Donaldson Company, Inc."
   },
@@ -7864,5 +7864,59 @@
     "market_cap": 0,
     "sector": "",
     "name": "Fidelity Investment Grade Securitized ETF"
+  },
+  "AZTA": {
+    "name_en": "Azenta, Inc.",
+    "market_cap": 1470647680,
+    "sector": "Healthcare",
+    "name": "Azenta, Inc."
+  },
+  "BOND": {
+    "name_en": "PIMCO Active Bond Exchange-Traded Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "PIMCO Active Bond Exchange-Traded Fund"
+  },
+  "BX": {
+    "name_en": "Blackstone Inc.",
+    "market_cap": 171166646272,
+    "sector": "Financial Services",
+    "name": "Blackstone Inc."
+  },
+  "BXSL": {
+    "name_en": "Blackstone Secured Lending Fund",
+    "market_cap": 5807943680,
+    "sector": "Financial Services",
+    "name": "Blackstone Secured Lending Fund"
+  },
+  "CERT": {
+    "name_en": "Certara, Inc.",
+    "market_cap": 1253868800,
+    "sector": "Healthcare",
+    "name": "Certara, Inc."
+  },
+  "CRSP": {
+    "name_en": "CRISPR Therapeutics AG",
+    "market_cap": 5727106048,
+    "sector": "Healthcare",
+    "name": "CRISPR Therapeutics AG"
+  },
+  "CRVS": {
+    "name_en": "Corvus Pharmaceuticals, Inc.",
+    "market_cap": 1239101440,
+    "sector": "Healthcare",
+    "name": "Corvus Pharmaceuticals, Inc."
+  },
+  "GCT": {
+    "name_en": "GigaCloud Technology Inc.",
+    "market_cap": 1859789184,
+    "sector": "Technology",
+    "name": "GigaCloud Technology Inc."
+  },
+  "GERN": {
+    "name_en": "Geron Corporation",
+    "market_cap": 982984320,
+    "sector": "Healthcare",
+    "name": "Geron Corporation"
   }
 }
