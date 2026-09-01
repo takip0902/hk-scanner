@@ -3798,10 +3798,10 @@
     "name": "Genworth Financial, Inc."
   },
   "GPIQ": {
-    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
+    "name_en": "Goldman Sachs Nasdaq-100 Premium Income ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "Goldman Sachs Nasdaq-100 Premiu"
+    "name": "Goldman Sachs Nasdaq-100 Premium Income ETF"
   },
   "GPIX": {
     "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
@@ -7918,5 +7918,95 @@
     "market_cap": 982984320,
     "sector": "Healthcare",
     "name": "Geron Corporation"
+  },
+  "BILL": {
+    "name_en": "BILL Holdings, Inc.",
+    "market_cap": 4903147008,
+    "sector": "Technology",
+    "name": "BILL Holdings, Inc."
+  },
+  "BIZD": {
+    "name_en": "VanEck BDC Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck BDC Income ETF"
+  },
+  "CCC": {
+    "name_en": "CCC Intelligent Solutions Holdings Inc.",
+    "market_cap": 4393900544,
+    "sector": "Technology",
+    "name": "CCC Intelligent Solutions Holdings Inc."
+  },
+  "CF": {
+    "name_en": "CF Industries Holdings, Inc.",
+    "market_cap": 19678496768,
+    "sector": "Basic Materials",
+    "name": "CF Industries Holdings, Inc."
+  },
+  "COKE": {
+    "name_en": "Coca-Cola Consolidated, Inc.",
+    "market_cap": 13017979904,
+    "sector": "Consumer Defensive",
+    "name": "Coca-Cola Consolidated, Inc."
+  },
+  "CXM": {
+    "name_en": "Sprinklr, Inc.",
+    "market_cap": 1923018240,
+    "sector": "Technology",
+    "name": "Sprinklr, Inc."
+  },
+  "DOCU": {
+    "name_en": "DocuSign, Inc.",
+    "market_cap": 12653898752,
+    "sector": "Technology",
+    "name": "DocuSign, Inc."
+  },
+  "DUOL": {
+    "name_en": "Duolingo, Inc.",
+    "market_cap": 6941210624,
+    "sector": "Technology",
+    "name": "Duolingo, Inc."
+  },
+  "EQNR": {
+    "name_en": "Equinor ASA",
+    "market_cap": 101604597760,
+    "sector": "Energy",
+    "name": "Equinor ASA"
+  },
+  "FNDB": {
+    "name_en": "Schwab Fundamental U.S. Broad Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Schwab Fundamental U.S. Broad Market ETF"
+  },
+  "FSLY": {
+    "name_en": "Fastly, Inc.",
+    "market_cap": 3630447104,
+    "sector": "Technology",
+    "name": "Fastly, Inc."
+  },
+  "GCOW": {
+    "name_en": "Pacer Global Cash Cows Dividend ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Pacer Global Cash Cows Dividend ETF"
+  },
+  "GILD": {
+    "name_en": "Gilead Sciences, Inc.",
+    "market_cap": 181455044608,
+    "sector": "Healthcare",
+    "name": "Gilead Sciences, Inc."
+  },
+  "GMAB": {
+    "name_en": "Genmab A/S",
+    "market_cap": 20676339712,
+    "sector": "Healthcare",
+    "name": "Genmab A/S"
+  },
+  "GUSH": {
+    "name_en": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares"
   }
 }
