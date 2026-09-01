@@ -8196,7 +8196,7 @@
     "name": "2807"
   },
   "2820.HK": {
-    "name_en": "Global X China Biotech ETF",
+    "name_en": "Global X ETF Series - Global X China Biotech ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2820"
@@ -8502,7 +8502,7 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera HKD Money Market ETF HKD Counter",
+    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
@@ -10452,7 +10452,7 @@
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Core MSCI Taiwan ETF",
+    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
@@ -10602,7 +10602,7 @@
     "name": "精技集團"
   },
   "3483.HK": {
-    "name_en": "E Fund (HK) MSCI Asia Pacific Select High Dividend Index ETF",
+    "name_en": "E Fund Etfs Trust - E Fund (hk) Msci Asia Pacific Select High Dividend Index Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3483"
@@ -11530,5 +11530,23 @@
     "market_cap": 5214131200,
     "sector": "Consumer Cyclical",
     "name": "綠源集團控股"
+  },
+  "1449.HK": {
+    "name_en": "Leader Education Limited",
+    "market_cap": 956667136,
+    "sector": "Consumer Defensive",
+    "name": "立德教育"
+  },
+  "1579.HK": {
+    "name_en": "Yihai International Holding Ltd.",
+    "market_cap": 14940032000,
+    "sector": "Consumer Defensive",
+    "name": "頤海國際"
+  },
+  "6616.HK": {
+    "name_en": "Global New Material International Holdings Limited",
+    "market_cap": 12596776960,
+    "sector": "Basic Materials",
+    "name": "環球新材國際"
   }
 }
