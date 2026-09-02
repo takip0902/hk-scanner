@@ -4932,10 +4932,10 @@
     "name": "Helen of Troy Limited"
   },
   "HFXI": {
-    "name_en": "NYLI FTSE International Equity Currency Neutral ETF",
+    "name_en": "NYLIM FTSE International Equity Currency Neutral ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "NYLI FTSE International Equity Currency Neutral ETF"
+    "name": "NYLIM FTSE International Equity Currency Neutral ETF"
   },
   "HG": {
     "name_en": "Hamilton Insurance Group, Ltd.",
@@ -6096,16 +6096,16 @@
     "name": "iShares Cybersecurity and Tech ETF"
   },
   "IHE": {
-    "name_en": "iShares U.S. Pharmaceutical ETF",
+    "name_en": "iShares U.S. Pharmaceuticals ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares U.S. Pharmaceutical ETF"
+    "name": "iShares U.S. Pharmaceuticals ETF"
   },
   "IHF": {
-    "name_en": "iShares U.S. Health Care Provid",
+    "name_en": "iShares U.S. Healthcare Providers ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares U.S. Health Care Provid"
+    "name": "iShares U.S. Healthcare Providers ETF"
   },
   "IIPR": {
     "name_en": "Innovative Industrial Properties, Inc.",
@@ -8008,5 +8008,107 @@
     "market_cap": 0,
     "sector": "",
     "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares"
+  },
+  "COP": {
+    "name_en": "ConocoPhillips",
+    "market_cap": 163610148864,
+    "sector": "Energy",
+    "name": "ConocoPhillips"
+  },
+  "HCWC": {
+    "name_en": "Healthy Choice Wellness Corp.",
+    "market_cap": 6899610,
+    "sector": "Consumer Defensive",
+    "name": "Healthy Choice Wellness Corp."
+  },
+  "HLN": {
+    "name_en": "Haleon plc",
+    "market_cap": 44284002304,
+    "sector": "Healthcare",
+    "name": "Haleon plc"
+  },
+  "IBN": {
+    "name_en": "ICICI Bank Limited",
+    "market_cap": 108331163648,
+    "sector": "Financial Services",
+    "name": "ICICI Bank Limited"
+  },
+  "IBRX": {
+    "name_en": "ImmunityBio, Inc.",
+    "market_cap": 8340911616,
+    "sector": "Healthcare",
+    "name": "ImmunityBio, Inc."
+  },
+  "ICFI": {
+    "name_en": "ICF International, Inc.",
+    "market_cap": 1592708224,
+    "sector": "Industrials",
+    "name": "ICF International, Inc."
+  },
+  "IDEQ": {
+    "name_en": "Lazard Active ETF Trust - Lazard International Dynamic Equity ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Lazard Active ETF Trust - Lazard International Dynamic Equity ETF"
+  },
+  "IDVO": {
+    "name_en": "Amplify CWP International Enhanced Dividend Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Amplify CWP International Enhanced Dividend Income ETF"
+  },
+  "IEMG": {
+    "name_en": "iShares Core MSCI Emerging Markets ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core MSCI Emerging Markets ETF"
+  },
+  "IEO": {
+    "name_en": "iShares U.S. Oil & Gas Exploration & Production ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Oil & Gas Exploration & Production ETF"
+  },
+  "IGE": {
+    "name_en": "iShares North American Natural Resources ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares North American Natural Resources ETF"
+  },
+  "IGM": {
+    "name_en": "iShares Expanded Tech Sector ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Expanded Tech Sector ETF"
+  },
+  "IGV": {
+    "name_en": "iShares Expanded Tech-Software Sector ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Expanded Tech-Software Sector ETF"
+  },
+  "IMCR": {
+    "name_en": "Immunocore Holdings plc",
+    "market_cap": 1898238976,
+    "sector": "Healthcare",
+    "name": "Immunocore Holdings plc"
+  },
+  "IMMX": {
+    "name_en": "Immix Biopharma, Inc.",
+    "market_cap": 997371264,
+    "sector": "Healthcare",
+    "name": "Immix Biopharma, Inc."
+  },
+  "IMNM": {
+    "name_en": "Immunome, Inc.",
+    "market_cap": 3073978624,
+    "sector": "Healthcare",
+    "name": "Immunome, Inc."
+  },
+  "IMTM": {
+    "name_en": "iShares MSCI Intl Momentum Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Intl Momentum Factor ETF"
   }
 }
