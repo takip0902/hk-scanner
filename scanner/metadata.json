@@ -11548,5 +11548,17 @@
     "market_cap": 12596776960,
     "sector": "Basic Materials",
     "name": "環球新材國際"
+  },
+  "2698.HK": {
+    "name_en": "Softcare Limited",
+    "market_cap": 19032938496,
+    "sector": "Consumer Defensive",
+    "name": "樂舒適"
+  },
+  "3096.HK": {
+    "name_en": "CSOP ETF Series - CSOP US Dollar Money Market ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3096"
   }
 }
