@@ -8226,7 +8226,7 @@
     "sector": ""
   },
   "2834.HK": {
-    "name_en": "iShares Asia Trust - iShares NASDAQ 100 Index ETF",
+    "name_en": "iShares NASDAQ 100 ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2834"
@@ -10788,7 +10788,7 @@
     "name": "中國心連心化肥"
   },
   "3455.HK": {
-    "name_en": "Invesco QQQ Trust, Series 1",
+    "name_en": "Invesco QQQ Trust",
     "market_cap": 0,
     "sector": "",
     "name": "3455"
@@ -11556,7 +11556,7 @@
     "name": "樂舒適"
   },
   "3096.HK": {
-    "name_en": "CSOP ETF Series - CSOP US Dollar Money Market ETF",
+    "name_en": "CSOP US Dollar Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3096"
@@ -11578,5 +11578,11 @@
     "market_cap": 46293630976,
     "sector": "Financial Services",
     "name": "陽光保險"
+  },
+  "1825.HK": {
+    "name_en": "Sterling Group Holdings Limited",
+    "market_cap": 350438400,
+    "sector": "Consumer Cyclical",
+    "name": "STERLING GP"
   }
 }
