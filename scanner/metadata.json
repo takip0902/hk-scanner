@@ -8724,7 +8724,7 @@
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
@@ -10602,7 +10602,7 @@
     "name": "精技集團"
   },
   "3483.HK": {
-    "name_en": "E Fund (HK) MSCI Asia Pacific Select High Dividend Index ETF",
+    "name_en": "E Fund Etfs Trust - E Fund (hk) Msci Asia Pacific Select High Dividend Index Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3483"
@@ -10788,7 +10788,7 @@
     "name": "中國心連心化肥"
   },
   "3455.HK": {
-    "name_en": "Invesco QQQ Trust",
+    "name_en": "Invesco QQQ Trust, Series 1",
     "market_cap": 0,
     "sector": "",
     "name": "3455"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "CSOP FTSE East-West Equity Select ETF",
+    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11094,7 +11094,7 @@
     "name": "2827"
   },
   "3421.HK": {
-    "name_en": "Value Partners Fund Series OFC - Value Partners HKD Money Market ETF HKD Counter Acc",
+    "name_en": "Value Partners Hkd Money Market Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3421"
@@ -11136,7 +11136,7 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
@@ -11584,5 +11584,17 @@
     "market_cap": 350438400,
     "sector": "Consumer Cyclical",
     "name": "STERLING GP"
+  },
+  "3537.HK": {
+    "name_en": "Csop ETF Series - Csop Kospi 200 Covered Call Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3537"
+  },
+  "6886.HK": {
+    "name_en": "Huatai Securities Co., Ltd.",
+    "market_cap": 157789585408,
+    "sector": "Financial Services",
+    "name": "HTSC"
   }
 }
