@@ -8502,7 +8502,7 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera HKD Money Market ETF HKD Counter",
+    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
@@ -10452,7 +10452,7 @@
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Core MSCI Taiwan ETF",
+    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
@@ -10584,13 +10584,13 @@
     "name": "2822"
   },
   "3119.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X Asia Semiconductor ETF",
+    "name_en": "Global X Asia Semiconductor ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3119"
   },
   "3195.HK": {
-    "name_en": "Hang Seng S&P 500 Index ETF",
+    "name_en": "Hang Seng S&P 500 Index Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3195"
@@ -10788,7 +10788,7 @@
     "name": "中國心連心化肥"
   },
   "3455.HK": {
-    "name_en": "Invesco QQQ Trust, Series 1",
+    "name_en": "Invesco QQQ Trust",
     "market_cap": 0,
     "sector": "",
     "name": "3455"
@@ -11556,7 +11556,7 @@
     "name": "樂舒適"
   },
   "3096.HK": {
-    "name_en": "CSOP US Dollar Money Market ETF",
+    "name_en": "CSOP ETF Series - CSOP US Dollar Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3096"
@@ -11596,5 +11596,11 @@
     "market_cap": 157789585408,
     "sector": "Financial Services",
     "name": "HTSC"
+  },
+  "3308.HK": {
+    "name_en": "Zhongji Innolight Co., Ltd.",
+    "market_cap": 1367553081344,
+    "sector": "Technology",
+    "name": "3308"
   }
 }
