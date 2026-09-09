@@ -8508,7 +8508,7 @@
     "name": "3152"
   },
   "3160.HK": {
-    "name_en": "ChinaAMC MSCI Japan Hedged to USD ETF",
+    "name_en": "ChinaAMC MSCI Japan Hedged to USD",
     "market_cap": 0,
     "sector": "",
     "name": "3160"
@@ -8539,9 +8539,9 @@
   },
   "3174.HK": {
     "name_en": "CSOP ETF Series OFC - CSOP Hang Seng Biotech ETF",
-    "name": "CSOP ETF Series OFC - CSOP Hang Seng Biotech ETF",
     "market_cap": 0,
-    "sector": ""
+    "sector": "",
+    "name": "3174"
   },
   "3176.HK": {
     "name_en": "Taikang Hong Kong Etf Series - Taikang Hong Kong Usd Money Market Etf",
@@ -11602,5 +11602,11 @@
     "market_cap": 1367553081344,
     "sector": "Technology",
     "name": "3308"
+  },
+  "3069.HK": {
+    "name_en": "CHINAAMC Hang Seng Biotech ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3069"
   }
 }
