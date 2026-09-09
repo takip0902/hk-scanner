@@ -8110,5 +8110,65 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares MSCI Intl Momentum Factor ETF"
+  },
+  "BWMN": {
+    "name_en": "Bowman Consulting Group Ltd.",
+    "market_cap": 737897792,
+    "sector": "Industrials",
+    "name": "Bowman Consulting Group Ltd."
+  },
+  "CBLL": {
+    "name_en": "CeriBell, Inc.",
+    "market_cap": 932971584,
+    "sector": "Healthcare",
+    "name": "CeriBell, Inc."
+  },
+  "CMG": {
+    "name_en": "Chipotle Mexican Grill, Inc.",
+    "market_cap": 46769848320,
+    "sector": "Consumer Cyclical",
+    "name": "Chipotle Mexican Grill, Inc."
+  },
+  "CORN": {
+    "name_en": "Teucrium Corn Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Teucrium Corn Fund"
+  },
+  "COTY": {
+    "name_en": "Coty Inc.",
+    "market_cap": 2430087424,
+    "sector": "Consumer Defensive",
+    "name": "Coty Inc."
+  },
+  "EGO": {
+    "name_en": "Eldorado Gold Corporation",
+    "market_cap": 11444358144,
+    "sector": "Basic Materials",
+    "name": "Eldorado Gold Corporation"
+  },
+  "FIVE": {
+    "name_en": "Five Below, Inc.",
+    "market_cap": 13987578880,
+    "sector": "Consumer Cyclical",
+    "name": "Five Below, Inc."
+  },
+  "FRPT": {
+    "name_en": "Freshpet, Inc.",
+    "market_cap": 3233347072,
+    "sector": "Consumer Defensive",
+    "name": "Freshpet, Inc."
+  },
+  "GENI": {
+    "name_en": "Genius Sports Limited",
+    "market_cap": 1956353024,
+    "sector": "Communication Services",
+    "name": "Genius Sports Limited"
+  },
+  "GNR": {
+    "name_en": "State Street SPDR S&P Global Natural Resources ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "State Street SPDR S&P Global Natural Resources ETF"
   }
 }
