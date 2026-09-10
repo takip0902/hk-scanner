@@ -8226,7 +8226,7 @@
     "sector": ""
   },
   "2834.HK": {
-    "name_en": "iShares NASDAQ 100 ETF",
+    "name_en": "iShares Asia Trust - iShares NASDAQ 100 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "2834"
@@ -11608,5 +11608,35 @@
     "market_cap": 0,
     "sector": "",
     "name": "3069"
+  },
+  "1658.HK": {
+    "name_en": "Postal Savings Bank of China Co., Ltd.",
+    "market_cap": 644309975040,
+    "sector": "Financial Services",
+    "name": "郵儲銀行"
+  },
+  "1753.HK": {
+    "name_en": "Duiba Group Limited",
+    "market_cap": 640709824,
+    "sector": "Communication Services",
+    "name": "兌吧"
+  },
+  "2381.HK": {
+    "name_en": "SMC Electric Limited",
+    "market_cap": 680000000,
+    "sector": "Consumer Cyclical",
+    "name": "蜆壳電業"
+  },
+  "2423.HK": {
+    "name_en": "KE Holdings Inc.",
+    "market_cap": 145843847168,
+    "sector": "Real Estate",
+    "name": "貝殼－Ｗ"
+  },
+  "3199.HK": {
+    "name_en": "CSOP ETF Series II - CSOP China 5-Year Treasury Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "3199"
   }
 }
