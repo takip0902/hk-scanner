@@ -912,10 +912,10 @@
     "name": "Arista Networks, Inc."
   },
   "AOA": {
-    "name_en": "iShares Core 80/20 Aggressive A",
+    "name_en": "iShares Core 80/20 Aggressive Allocation ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares Core 80/20 Aggressive A"
+    "name": "iShares Core 80/20 Aggressive Allocation ETF"
   },
   "AOR": {
     "name_en": "iShares Core 60/40 Balanced All",
@@ -3798,10 +3798,10 @@
     "name": "Genworth Financial, Inc."
   },
   "GPIQ": {
-    "name_en": "Goldman Sachs Nasdaq-100 Premium Income ETF",
+    "name_en": "Goldman Sachs Nasdaq-100 Premiu",
     "market_cap": 0,
     "sector": "",
-    "name": "Goldman Sachs Nasdaq-100 Premium Income ETF"
+    "name": "Goldman Sachs Nasdaq-100 Premiu"
   },
   "GPIX": {
     "name_en": "Goldman Sachs S&P 500 Premium Income ETF",
@@ -8170,5 +8170,197 @@
     "market_cap": 0,
     "sector": "",
     "name": "State Street SPDR S&P Global Natural Resources ETF"
+  },
+  "ACYS": {
+    "name_en": "FT Vest Laddered Autocallable Barrier & Resilient Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "FT Vest Laddered Autocallable Barrier & Resilient Income ETF"
+  },
+  "ALKT": {
+    "name_en": "Alkami Technology, Inc.",
+    "market_cap": 2038314112,
+    "sector": "Technology",
+    "name": "Alkami Technology, Inc."
+  },
+  "AN": {
+    "name_en": "AutoNation, Inc.",
+    "market_cap": 6850860032,
+    "sector": "Consumer Cyclical",
+    "name": "AutoNation, Inc."
+  },
+  "APA": {
+    "name_en": "APA Corporation",
+    "market_cap": 15601153024,
+    "sector": "Energy",
+    "name": "APA Corporation"
+  },
+  "APPF": {
+    "name_en": "AppFolio, Inc.",
+    "market_cap": 7287399936,
+    "sector": "Technology",
+    "name": "AppFolio, Inc."
+  },
+  "APPN": {
+    "name_en": "Appian Corporation",
+    "market_cap": 2440352256,
+    "sector": "Technology",
+    "name": "Appian Corporation"
+  },
+  "ARCT": {
+    "name_en": "Arcturus Therapeutics Holdings Inc.",
+    "market_cap": 397354464,
+    "sector": "Healthcare",
+    "name": "Arcturus Therapeutics Holdings Inc."
+  },
+  "ASMB": {
+    "name_en": "Assembly Biosciences, Inc.",
+    "market_cap": 620183744,
+    "sector": "Healthcare",
+    "name": "Assembly Biosciences, Inc."
+  },
+  "ASST": {
+    "name_en": "Strive, Inc.",
+    "market_cap": 2553739520,
+    "sector": "Financial Services",
+    "name": "Strive, Inc."
+  },
+  "BLTE": {
+    "name_en": "Belite Bio, Inc",
+    "market_cap": 7050444800,
+    "sector": "Healthcare",
+    "name": "Belite Bio, Inc"
+  },
+  "CACI": {
+    "name_en": "CACI International Inc",
+    "market_cap": 13790368768,
+    "sector": "Technology",
+    "name": "CACI International Inc"
+  },
+  "CYPH": {
+    "name_en": "Cypherpunk Technologies Inc.",
+    "market_cap": 237081648,
+    "sector": "Financial Services",
+    "name": "Cypherpunk Technologies Inc."
+  },
+  "DFIN": {
+    "name_en": "Donnelley Financial Solutions, Inc.",
+    "market_cap": 1189195008,
+    "sector": "Technology",
+    "name": "Donnelley Financial Solutions, Inc."
+  },
+  "EDU": {
+    "name_en": "New Oriental Education & Technology Group Inc.",
+    "market_cap": 0,
+    "sector": "Consumer Defensive",
+    "name": "New Oriental Education & Technology Group Inc."
+  },
+  "FCG": {
+    "name_en": "First Trust Natural Gas ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Natural Gas ETF"
+  },
+  "GPRK": {
+    "name_en": "GeoPark Limited",
+    "market_cap": 776802176,
+    "sector": "Energy",
+    "name": "GeoPark Limited"
+  },
+  "GUNR": {
+    "name_en": "Northern Trust Morningstar Global Upstream Natural Resources ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Northern Trust Morningstar Global Upstream Natural Resources ETF"
+  },
+  "HAS": {
+    "name_en": "Hasbro, Inc.",
+    "market_cap": 12716569600,
+    "sector": "Consumer Cyclical",
+    "name": "Hasbro, Inc."
+  },
+  "HCC": {
+    "name_en": "Warrior Met Coal, Inc.",
+    "market_cap": 5367332352,
+    "sector": "Basic Materials",
+    "name": "Warrior Met Coal, Inc."
+  },
+  "HP": {
+    "name_en": "Helmerich & Payne, Inc.",
+    "market_cap": 4453279232,
+    "sector": "Energy",
+    "name": "Helmerich & Payne, Inc."
+  },
+  "IGPT": {
+    "name_en": "Invesco AI and Next Gen Software ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco AI and Next Gen Software ETF"
+  },
+  "IHS": {
+    "name_en": "IHS Holding Limited",
+    "market_cap": 2865746176,
+    "sector": "Real Estate",
+    "name": "IHS Holding Limited"
+  },
+  "IMO": {
+    "name_en": "Imperial Oil Limited",
+    "market_cap": 0,
+    "sector": "Energy",
+    "name": "Imperial Oil Limited"
+  },
+  "IMRN": {
+    "name_en": "Immuron Limited",
+    "market_cap": 13156059,
+    "sector": "Healthcare",
+    "name": "Immuron Limited"
+  },
+  "INTA": {
+    "name_en": "Intapp, Inc.",
+    "market_cap": 2910484224,
+    "sector": "Technology",
+    "name": "Intapp, Inc."
+  },
+  "INVX": {
+    "name_en": "Innovex International, Inc.",
+    "market_cap": 2076394624,
+    "sector": "Energy",
+    "name": "Innovex International, Inc."
+  },
+  "IPAC": {
+    "name_en": "iShares Core MSCI Pacific ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core MSCI Pacific ETF"
+  },
+  "IQV": {
+    "name_en": "IQVIA Holdings Inc.",
+    "market_cap": 42351579136,
+    "sector": "Healthcare",
+    "name": "IQVIA Holdings Inc."
+  },
+  "ITRI": {
+    "name_en": "Itron, Inc.",
+    "market_cap": 4096250880,
+    "sector": "Technology",
+    "name": "Itron, Inc."
+  },
+  "IUSG": {
+    "name_en": "iShares Core S&P U.S. Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core S&P U.S. Growth ETF"
+  },
+  "IVV": {
+    "name_en": "iShares Core S&P 500 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Core S&P 500 ETF"
+  },
+  "IVW": {
+    "name_en": "iShares S&P 500 Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares S&P 500 Growth ETF"
   }
 }
