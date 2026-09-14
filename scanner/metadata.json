@@ -8352,7 +8352,7 @@
     "name": "3010"
   },
   "3011.HK": {
-    "name_en": "CICC USD Money Market ETF USD",
+    "name_en": "China International Capital Corporation Hong Kong Asset Management - ICBC CICC USD Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3011"
@@ -8502,7 +8502,7 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera HKD Money Market ETF HKD Counter",
+    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
@@ -8538,7 +8538,7 @@
     "sector": ""
   },
   "3174.HK": {
-    "name_en": "CSOP Hang Seng Biotech ETF",
+    "name_en": "CSOP ETF Series OFC - CSOP Hang Seng Biotech ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3174"
@@ -8724,7 +8724,7 @@
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
@@ -10452,7 +10452,7 @@
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Core MSCI Taiwan ETF",
+    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "CSOP FTSE East-West Equity Select ETF",
+    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11136,7 +11136,7 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
@@ -11556,7 +11556,7 @@
     "name": "樂舒適"
   },
   "3096.HK": {
-    "name_en": "CSOP US Dollar Money Market ETF",
+    "name_en": "CSOP ETF Series - CSOP US Dollar Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3096"
@@ -11604,7 +11604,7 @@
     "name": "3308"
   },
   "3069.HK": {
-    "name_en": "ChinaAMC Hang Seng Hong Kong Biotech Index ETF",
+    "name_en": "CHINAAMC Hang Seng Biotech ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3069"
@@ -11634,9 +11634,27 @@
     "name": "貝殼－Ｗ"
   },
   "3199.HK": {
-    "name_en": "ICBC CSOP FTSE Chinese Government and Policy Bank Bond Index ETF",
+    "name_en": "CSOP ETF Series II - CSOP China 5-Year Treasury Bond ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3199"
+  },
+  "1536.HK": {
+    "name_en": "Yuk Wing Group Holdings Limited",
+    "market_cap": 330600000,
+    "sector": "Industrials",
+    "name": "煜榮集團"
+  },
+  "1815.HK": {
+    "name_en": "Mount Everest Gold Group Company Limited",
+    "market_cap": 2689567744,
+    "sector": "Consumer Cyclical",
+    "name": "珠峰黃金"
+  },
+  "1826.HK": {
+    "name_en": "FDB Holdings Limited",
+    "market_cap": 1294704000,
+    "sector": "Industrials",
+    "name": "豐展控股"
   }
 }
