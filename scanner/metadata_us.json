@@ -918,10 +918,10 @@
     "name": "iShares Core 80/20 Aggressive Allocation ETF"
   },
   "AOR": {
-    "name_en": "iShares Core 60/40 Balanced All",
+    "name_en": "iShares Core 60/40 Balanced Allocation ETF",
     "market_cap": 0,
     "sector": "",
-    "name": "iShares Core 60/40 Balanced All"
+    "name": "iShares Core 60/40 Balanced Allocation ETF"
   },
   "AOSL": {
     "name_en": "Alpha and Omega Semiconductor Limited",
@@ -8362,5 +8362,89 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares S&P 500 Growth ETF"
+  },
+  "BEKE": {
+    "name_en": "KE Holdings Inc.",
+    "market_cap": 18404720640,
+    "sector": "Real Estate",
+    "name": "KE Holdings Inc."
+  },
+  "BETA": {
+    "name_en": "BETA Technologies, Inc.",
+    "market_cap": 5013711872,
+    "sector": "Industrials",
+    "name": "BETA Technologies, Inc."
+  },
+  "CRGY": {
+    "name_en": "Crescent Energy Company",
+    "market_cap": 5739751424,
+    "sector": "Energy",
+    "name": "Crescent Energy Company"
+  },
+  "DSGX": {
+    "name_en": "The Descartes Systems Group Inc.",
+    "market_cap": 6845594624,
+    "sector": "Technology",
+    "name": "The Descartes Systems Group Inc."
+  },
+  "FSK": {
+    "name_en": "FS KKR Capital Corp.",
+    "market_cap": 3324373504,
+    "sector": "Financial Services",
+    "name": "FS KKR Capital Corp."
+  },
+  "GRAL": {
+    "name_en": "GRAIL, Inc.",
+    "market_cap": 3373640448,
+    "sector": "Healthcare",
+    "name": "GRAIL, Inc."
+  },
+  "HAFN": {
+    "name_en": "Hafnia Limited",
+    "market_cap": 4662959616,
+    "sector": "Industrials",
+    "name": "Hafnia Limited"
+  },
+  "ILF": {
+    "name_en": "iShares Latin America 40 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Latin America 40 ETF"
+  },
+  "ITT": {
+    "name_en": "ITT Inc.",
+    "market_cap": 0,
+    "sector": "Industrials",
+    "name": "ITT Inc."
+  },
+  "IWB": {
+    "name_en": "iShares Russell 1000 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell 1000 ETF"
+  },
+  "IWV": {
+    "name_en": "iShares Russell 3000 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell 3000 ETF"
+  },
+  "IX": {
+    "name_en": "ORIX Corporation",
+    "market_cap": 41537048576,
+    "sector": "Financial Services",
+    "name": "ORIX Corporation"
+  },
+  "IXC": {
+    "name_en": "iShares Global Energy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global Energy ETF"
+  },
+  "IXN": {
+    "name_en": "iShares Global Tech ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Global Tech ETF"
   }
 }
