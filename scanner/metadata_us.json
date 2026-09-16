@@ -8446,5 +8446,197 @@
     "market_cap": 0,
     "sector": "",
     "name": "iShares Global Tech ETF"
+  },
+  "AKRE": {
+    "name_en": "Akre Focus ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Akre Focus ETF"
+  },
+  "ALLE": {
+    "name_en": "Allegion plc",
+    "market_cap": 13146687488,
+    "sector": "Industrials",
+    "name": "Allegion plc"
+  },
+  "ARLO": {
+    "name_en": "Arlo Technologies, Inc.",
+    "market_cap": 1454931968,
+    "sector": "Industrials",
+    "name": "Arlo Technologies, Inc."
+  },
+  "AU": {
+    "name_en": "AngloGold Ashanti plc",
+    "market_cap": 50936020992,
+    "sector": "Basic Materials",
+    "name": "AngloGold Ashanti plc"
+  },
+  "BP": {
+    "name_en": "BP p.l.c.",
+    "market_cap": 120940994560,
+    "sector": "Energy",
+    "name": "BP p.l.c."
+  },
+  "DHR": {
+    "name_en": "Danaher Corporation",
+    "market_cap": 147177160704,
+    "sector": "Healthcare",
+    "name": "Danaher Corporation"
+  },
+  "EWH": {
+    "name_en": "iShares MSCI Hong Kong ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares MSCI Hong Kong ETF"
+  },
+  "FNV": {
+    "name_en": "Franco-Nevada Corporation",
+    "market_cap": 50743169024,
+    "sector": "Basic Materials",
+    "name": "Franco-Nevada Corporation"
+  },
+  "FSM": {
+    "name_en": "Fortuna Mining Corp.",
+    "market_cap": 3444943872,
+    "sector": "Basic Materials",
+    "name": "Fortuna Mining Corp."
+  },
+  "FXN": {
+    "name_en": "First Trust Energy AlphaDEX Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "First Trust Energy AlphaDEX Fund"
+  },
+  "GFL": {
+    "name_en": "GFL Environmental Inc.",
+    "market_cap": 15222354944,
+    "sector": "Industrials",
+    "name": "GFL Environmental Inc."
+  },
+  "HURN": {
+    "name_en": "Huron Consulting Group Inc.",
+    "market_cap": 2452378368,
+    "sector": "Industrials",
+    "name": "Huron Consulting Group Inc."
+  },
+  "ICOP": {
+    "name_en": "iShares Copper and Metals Mining ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Copper and Metals Mining ETF"
+  },
+  "ITUB": {
+    "name_en": "Itaú Unibanco Holding S.A.",
+    "market_cap": 91040669696,
+    "sector": "Financial Services",
+    "name": "Itaú Unibanco Holding S.A."
+  },
+  "IYE": {
+    "name_en": "iShares U.S. Energy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Energy ETF"
+  },
+  "IYW": {
+    "name_en": "iShares U.S. Technology ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Technology ETF"
+  },
+  "J": {
+    "name_en": "Jacobs Solutions Inc.",
+    "market_cap": 16960065536,
+    "sector": "Industrials",
+    "name": "Jacobs Solutions Inc."
+  },
+  "JANX": {
+    "name_en": "Janux Therapeutics, Inc.",
+    "market_cap": 1005088576,
+    "sector": "Healthcare",
+    "name": "Janux Therapeutics, Inc."
+  },
+  "JEPQ": {
+    "name_en": "JPMorgan Nasdaq Equity Premium Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan Nasdaq Equity Premium Income ETF"
+  },
+  "JJSF": {
+    "name_en": "J&J Snack Foods Corp.",
+    "market_cap": 1509100288,
+    "sector": "Consumer Defensive",
+    "name": "J&J Snack Foods Corp."
+  },
+  "JQUA": {
+    "name_en": "JPMorgan U.S. Quality Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan U.S. Quality Factor ETF"
+  },
+  "JXN": {
+    "name_en": "Jackson Financial Inc.",
+    "market_cap": 9360790528,
+    "sector": "Financial Services",
+    "name": "Jackson Financial Inc."
+  },
+  "KB": {
+    "name_en": "KB Financial Group Inc.",
+    "market_cap": 45499838464,
+    "sector": "Financial Services",
+    "name": "KB Financial Group Inc."
+  },
+  "KDP": {
+    "name_en": "Keurig Dr Pepper Inc.",
+    "market_cap": 42852409344,
+    "sector": "Consumer Defensive",
+    "name": "Keurig Dr Pepper Inc."
+  },
+  "KMLM": {
+    "name_en": "KraneShares Mount Lucas Managed Futures Index Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "KraneShares Mount Lucas Managed Futures Index Strategy ETF"
+  },
+  "KMX": {
+    "name_en": "CarMax, Inc.",
+    "market_cap": 8494798848,
+    "sector": "Consumer Cyclical",
+    "name": "CarMax, Inc."
+  },
+  "KNSA": {
+    "name_en": "Kiniksa Pharmaceuticals International, plc",
+    "market_cap": 5863504896,
+    "sector": "Healthcare",
+    "name": "Kiniksa Pharmaceuticals International, plc"
+  },
+  "KNSL": {
+    "name_en": "Kinsale Capital Group, Inc.",
+    "market_cap": 8409794560,
+    "sector": "Financial Services",
+    "name": "Kinsale Capital Group, Inc."
+  },
+  "KNTK": {
+    "name_en": "Kinetik Holdings Inc.",
+    "market_cap": 9255233536,
+    "sector": "Energy",
+    "name": "Kinetik Holdings Inc."
+  },
+  "KO": {
+    "name_en": "The Coca-Cola Company",
+    "market_cap": 381679108096,
+    "sector": "Consumer Defensive",
+    "name": "The Coca-Cola Company"
+  },
+  "KOF": {
+    "name_en": "Coca-Cola FEMSA, S.A.B. de C.V.",
+    "market_cap": 0,
+    "sector": "Consumer Defensive",
+    "name": "Coca-Cola FEMSA, S.A.B. de C.V."
+  },
+  "KOLD": {
+    "name_en": "ProShares UltraShort Bloomberg Natural Gas",
+    "market_cap": 0,
+    "sector": "",
+    "name": "ProShares UltraShort Bloomberg Natural Gas"
   }
 }
