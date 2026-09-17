@@ -11668,5 +11668,17 @@
     "market_cap": 34027827200,
     "sector": "",
     "name": "靈寶黃金"
+  },
+  "1392.HK": {
+    "name_en": "Shenzhen HQVT Technology Co., Ltd.",
+    "market_cap": 28707651584,
+    "sector": "Technology",
+    "name": "1392"
+  },
+  "3306.HK": {
+    "name_en": "JNBY Design Limited",
+    "market_cap": 11395450880,
+    "sector": "Consumer Cyclical",
+    "name": "江南布衣"
   }
 }
