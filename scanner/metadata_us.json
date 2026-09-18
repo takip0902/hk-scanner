@@ -8251,7 +8251,7 @@
   },
   "EDU": {
     "name_en": "New Oriental Education & Technology Group Inc.",
-    "market_cap": 0,
+    "market_cap": 9259191296,
     "sector": "Consumer Defensive",
     "name": "New Oriental Education & Technology Group Inc."
   },
@@ -8305,7 +8305,7 @@
   },
   "IMO": {
     "name_en": "Imperial Oil Limited",
-    "market_cap": 0,
+    "market_cap": 64780165120,
     "sector": "Energy",
     "name": "Imperial Oil Limited"
   },
@@ -8629,7 +8629,7 @@
   },
   "KOF": {
     "name_en": "Coca-Cola FEMSA, S.A.B. de C.V.",
-    "market_cap": 0,
+    "market_cap": 23636465664,
     "sector": "Consumer Defensive",
     "name": "Coca-Cola FEMSA, S.A.B. de C.V."
   },
@@ -8638,5 +8638,473 @@
     "market_cap": 0,
     "sector": "",
     "name": "ProShares UltraShort Bloomberg Natural Gas"
+  },
+  "AUGO": {
+    "name_en": "Aura Minerals Inc.",
+    "market_cap": 7437166080,
+    "sector": "",
+    "name": "Aura Minerals Inc."
+  },
+  "BBNX": {
+    "name_en": "Beta Bionics, Inc.",
+    "market_cap": 964129024,
+    "sector": "Healthcare",
+    "name": "Beta Bionics, Inc."
+  },
+  "CAI": {
+    "name_en": "Caris Life Sciences, Inc.",
+    "market_cap": 8737843200,
+    "sector": "Healthcare",
+    "name": "Caris Life Sciences, Inc."
+  },
+  "CNR": {
+    "name_en": "Core Natural Resources, Inc.",
+    "market_cap": 4632055296,
+    "sector": "Energy",
+    "name": "Core Natural Resources, Inc."
+  },
+  "CRM": {
+    "name_en": "Salesforce, Inc.",
+    "market_cap": 199865548800,
+    "sector": "Technology",
+    "name": "Salesforce, Inc."
+  },
+  "CSTL": {
+    "name_en": "Castle Biosciences, Inc.",
+    "market_cap": 1123610880,
+    "sector": "Healthcare",
+    "name": "Castle Biosciences, Inc."
+  },
+  "DVN": {
+    "name_en": "Devon Energy Corporation",
+    "market_cap": 53592002560,
+    "sector": "Energy",
+    "name": "Devon Energy Corporation"
+  },
+  "EXLS": {
+    "name_en": "ExlService Holdings, Inc.",
+    "market_cap": 5420738048,
+    "sector": "Technology",
+    "name": "ExlService Holdings, Inc."
+  },
+  "EXPO": {
+    "name_en": "Exponent, Inc.",
+    "market_cap": 3242167552,
+    "sector": "Industrials",
+    "name": "Exponent, Inc."
+  },
+  "HMY": {
+    "name_en": "Harmony Gold Mining Company Limited",
+    "market_cap": 12487048192,
+    "sector": "Basic Materials",
+    "name": "Harmony Gold Mining Company Limited"
+  },
+  "IVES": {
+    "name_en": "Dan IVES Wedbush AI Revolution ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Dan IVES Wedbush AI Revolution ETF"
+  },
+  "KLMN": {
+    "name_en": "Invesco MSCI North America Climate ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Invesco MSCI North America Climate ETF"
+  },
+  "KSPI": {
+    "name_en": "Joint Stock Company Kaspi.kz",
+    "market_cap": 18514356224,
+    "sector": "Technology",
+    "name": "Joint Stock Company Kaspi.kz"
+  },
+  "KURA": {
+    "name_en": "Kura Oncology, Inc.",
+    "market_cap": 1042618432,
+    "sector": "Healthcare",
+    "name": "Kura Oncology, Inc."
+  },
+  "KYMR": {
+    "name_en": "Kymera Therapeutics, Inc.",
+    "market_cap": 9851684864,
+    "sector": "Healthcare",
+    "name": "Kymera Therapeutics, Inc."
+  },
+  "LB": {
+    "name_en": "LandBridge Company LLC",
+    "market_cap": 6623949312,
+    "sector": "Energy",
+    "name": "LandBridge Company LLC"
+  },
+  "LBRX": {
+    "name_en": "LB Pharmaceuticals Inc",
+    "market_cap": 1359401600,
+    "sector": "Healthcare",
+    "name": "LB Pharmaceuticals Inc"
+  },
+  "LFST": {
+    "name_en": "LifeStance Health Group, Inc.",
+    "market_cap": 4793743872,
+    "sector": "Healthcare",
+    "name": "LifeStance Health Group, Inc."
+  },
+  "LH": {
+    "name_en": "Labcorp Holdings Inc.",
+    "market_cap": 26173403136,
+    "sector": "Healthcare",
+    "name": "Labcorp Holdings Inc."
+  },
+  "LILAK": {
+    "name_en": "Liberty Latin America Ltd.",
+    "market_cap": 1678862976,
+    "sector": "Communication Services",
+    "name": "Liberty Latin America Ltd."
+  },
+  "LITX": {
+    "name_en": "Tradr 2X Long Lite Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Tradr 2X Long Lite Daily ETF"
+  },
+  "LPG": {
+    "name_en": "Dorian LPG Ltd.",
+    "market_cap": 2494658048,
+    "sector": "Energy",
+    "name": "Dorian LPG Ltd."
+  },
+  "LTC": {
+    "name_en": "LTC Properties, Inc.",
+    "market_cap": 2344892160,
+    "sector": "Real Estate",
+    "name": "LTC Properties, Inc."
+  },
+  "LVHI": {
+    "name_en": "Franklin International Low Volatility High Dividend Index ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Franklin International Low Volatility High Dividend Index ETF"
+  },
+  "LXP": {
+    "name_en": "LXP Industrial Trust",
+    "market_cap": 3588728576,
+    "sector": "Real Estate",
+    "name": "LXP Industrial Trust"
+  },
+  "MA": {
+    "name_en": "Mastercard Incorporated",
+    "market_cap": 495585067008,
+    "sector": "Financial Services",
+    "name": "Mastercard Incorporated"
+  },
+  "MAGS": {
+    "name_en": "Roundhill Magnificent Seven ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Roundhill Magnificent Seven ETF"
+  },
+  "MAIN": {
+    "name_en": "Main Street Capital Corporation",
+    "market_cap": 5332787712,
+    "sector": "Financial Services",
+    "name": "Main Street Capital Corporation"
+  },
+  "MAN": {
+    "name_en": "ManpowerGroup Inc.",
+    "market_cap": 2681976064,
+    "sector": "Industrials",
+    "name": "ManpowerGroup Inc."
+  },
+  "MANE": {
+    "name_en": "Veradermics, Incorporated",
+    "market_cap": 4540665344,
+    "sector": "Healthcare",
+    "name": "Veradermics, Incorporated"
+  },
+  "MANH": {
+    "name_en": "Manhattan Associates, Inc.",
+    "market_cap": 12291854336,
+    "sector": "Technology",
+    "name": "Manhattan Associates, Inc."
+  },
+  "MATX": {
+    "name_en": "Matson, Inc.",
+    "market_cap": 7019836928,
+    "sector": "Industrials",
+    "name": "Matson, Inc."
+  },
+  "MCK": {
+    "name_en": "McKesson Corporation",
+    "market_cap": 102549381120,
+    "sector": "Healthcare",
+    "name": "McKesson Corporation"
+  },
+  "MCRI": {
+    "name_en": "Monarch Casino & Resort, Inc.",
+    "market_cap": 2197480192,
+    "sector": "Consumer Cyclical",
+    "name": "Monarch Casino & Resort, Inc."
+  },
+  "MDLZ": {
+    "name_en": "Mondelez International, Inc.",
+    "market_cap": 79637635072,
+    "sector": "Consumer Defensive",
+    "name": "Mondelez International, Inc."
+  },
+  "MEDP": {
+    "name_en": "Medpace Holdings, Inc.",
+    "market_cap": 17170692096,
+    "sector": "Healthcare",
+    "name": "Medpace Holdings, Inc."
+  },
+  "MET": {
+    "name_en": "MetLife, Inc.",
+    "market_cap": 61863677952,
+    "sector": "Financial Services",
+    "name": "MetLife, Inc."
+  },
+  "MFC": {
+    "name_en": "Manulife Financial Corporation",
+    "market_cap": 72982740992,
+    "sector": "Financial Services",
+    "name": "Manulife Financial Corporation"
+  },
+  "MFG": {
+    "name_en": "Mizuho Financial Group, Inc.",
+    "market_cap": 133980635136,
+    "sector": "Financial Services",
+    "name": "Mizuho Financial Group, Inc."
+  },
+  "MGK": {
+    "name_en": "Vanguard Morningstar Mega Cap Growth ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Vanguard Morningstar Mega Cap Growth ETF"
+  },
+  "MGNI": {
+    "name_en": "Magnite, Inc.",
+    "market_cap": 3675961088,
+    "sector": "Communication Services",
+    "name": "Magnite, Inc."
+  },
+  "MHK": {
+    "name_en": "Mohawk Industries, Inc.",
+    "market_cap": 8696900608,
+    "sector": "Consumer Cyclical",
+    "name": "Mohawk Industries, Inc."
+  },
+  "MINT": {
+    "name_en": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
+    "market_cap": 0,
+    "sector": "",
+    "name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund"
+  },
+  "MLAB": {
+    "name_en": "Mesa Laboratories, Inc.",
+    "market_cap": 711458752,
+    "sector": "Technology",
+    "name": "Mesa Laboratories, Inc."
+  },
+  "MMSI": {
+    "name_en": "Merit Medical Systems, Inc.",
+    "market_cap": 5109420544,
+    "sector": "Healthcare",
+    "name": "Merit Medical Systems, Inc."
+  },
+  "MOO": {
+    "name_en": "VanEck Agribusiness ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "VanEck Agribusiness ETF"
+  },
+  "MORN": {
+    "name_en": "Morningstar, Inc.",
+    "market_cap": 7609628160,
+    "sector": "Financial Services",
+    "name": "Morningstar, Inc."
+  },
+  "MPC": {
+    "name_en": "Marathon Petroleum Corporation",
+    "market_cap": 123185586176,
+    "sector": "Energy",
+    "name": "Marathon Petroleum Corporation"
+  },
+  "MRK": {
+    "name_en": "Merck & Co., Inc.",
+    "market_cap": 363044274176,
+    "sector": "Healthcare",
+    "name": "Merck & Co., Inc."
+  },
+  "MRNA": {
+    "name_en": "Moderna, Inc.",
+    "market_cap": 63107223552,
+    "sector": "Healthcare",
+    "name": "Moderna, Inc."
+  },
+  "MRNY": {
+    "name_en": "YieldMax MRNA Option Income Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "YieldMax MRNA Option Income Strategy ETF"
+  },
+  "MRX": {
+    "name_en": "Marex Group Limited",
+    "market_cap": 5270374912,
+    "sector": "Financial Services",
+    "name": "Marex Group Limited"
+  },
+  "MSFT": {
+    "name_en": "Microsoft Corporation",
+    "market_cap": 3696065511424,
+    "sector": "Technology",
+    "name": "Microsoft Corporation"
+  },
+  "MSFU": {
+    "name_en": "Direxion Daily MSFT Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily MSFT Bull 2X Shares"
+  },
+  "MSGE": {
+    "name_en": "Madison Square Garden Entertainment Corp.",
+    "market_cap": 3651017728,
+    "sector": "Communication Services",
+    "name": "Madison Square Garden Entertainment Corp."
+  },
+  "MSI": {
+    "name_en": "Motorola Solutions, Inc.",
+    "market_cap": 76074188800,
+    "sector": "Technology",
+    "name": "Motorola Solutions, Inc."
+  },
+  "MT": {
+    "name_en": "ArcelorMittal S.A.",
+    "market_cap": 56568553472,
+    "sector": "Basic Materials",
+    "name": "ArcelorMittal S.A."
+  },
+  "MTCH": {
+    "name_en": "Match Group, Inc.",
+    "market_cap": 10047447040,
+    "sector": "Communication Services",
+    "name": "Match Group, Inc."
+  },
+  "MTD": {
+    "name_en": "Mettler-Toledo International Inc.",
+    "market_cap": 28260364288,
+    "sector": "Healthcare",
+    "name": "Mettler-Toledo International Inc."
+  },
+  "MTRN": {
+    "name_en": "Materion Corporation",
+    "market_cap": 5218223104,
+    "sector": "Basic Materials",
+    "name": "Materion Corporation"
+  },
+  "MU": {
+    "name_en": "Micron Technology, Inc.",
+    "market_cap": 1103981838336,
+    "sector": "Technology",
+    "name": "Micron Technology, Inc."
+  },
+  "MUFG": {
+    "name_en": "Mitsubishi UFJ Financial Group, Inc.",
+    "market_cap": 264510472192,
+    "sector": "Financial Services",
+    "name": "Mitsubishi UFJ Financial Group, Inc."
+  },
+  "NAT": {
+    "name_en": "Nordic American Tankers Limited",
+    "market_cap": 1725767808,
+    "sector": "Energy",
+    "name": "Nordic American Tankers Limited"
+  },
+  "NBN": {
+    "name_en": "Northeast Bank",
+    "market_cap": 1134930304,
+    "sector": "Financial Services",
+    "name": "Northeast Bank"
+  },
+  "NCNO": {
+    "name_en": "nCino, Inc.",
+    "market_cap": 2263811584,
+    "sector": "Technology",
+    "name": "nCino, Inc."
+  },
+  "NDSN": {
+    "name_en": "Nordson Corporation",
+    "market_cap": 17369511936,
+    "sector": "Industrials",
+    "name": "Nordson Corporation"
+  },
+  "NEM": {
+    "name_en": "Newmont Corporation",
+    "market_cap": 131068780544,
+    "sector": "Basic Materials",
+    "name": "Newmont Corporation"
+  },
+  "NEO": {
+    "name_en": "NeoGenomics, Inc.",
+    "market_cap": 2589912064,
+    "sector": "Healthcare",
+    "name": "NeoGenomics, Inc."
+  },
+  "NEOG": {
+    "name_en": "Neogen Corporation",
+    "market_cap": 2798299904,
+    "sector": "Healthcare",
+    "name": "Neogen Corporation"
+  },
+  "NESR": {
+    "name_en": "National Energy Services Reunited Corp.",
+    "market_cap": 3276673536,
+    "sector": "Energy",
+    "name": "National Energy Services Reunited Corp."
+  },
+  "NET": {
+    "name_en": "Cloudflare, Inc.",
+    "market_cap": 118909263872,
+    "sector": "Technology",
+    "name": "Cloudflare, Inc."
+  },
+  "NEU": {
+    "name_en": "NewMarket Corporation",
+    "market_cap": 8177352192,
+    "sector": "Basic Materials",
+    "name": "NewMarket Corporation"
+  },
+  "NHC": {
+    "name_en": "National HealthCare Corporation",
+    "market_cap": 3521307904,
+    "sector": "Healthcare",
+    "name": "National HealthCare Corporation"
+  },
+  "NIQ": {
+    "name_en": "NIQ Global Intelligence plc",
+    "market_cap": 5294458368,
+    "sector": "",
+    "name": "NIQ Global Intelligence plc"
+  },
+  "NMAX": {
+    "name_en": "Newsmax, Inc.",
+    "market_cap": 1325188224,
+    "sector": "Communication Services",
+    "name": "Newsmax, Inc."
+  },
+  "NMM": {
+    "name_en": "Navios Maritime Partners L.P.",
+    "market_cap": 2710637056,
+    "sector": "Industrials",
+    "name": "Navios Maritime Partners L.P."
+  },
+  "NOV": {
+    "name_en": "NOV Inc.",
+    "market_cap": 7318495744,
+    "sector": "Energy",
+    "name": "NOV Inc."
+  },
+  "NOW": {
+    "name_en": "ServiceNow, Inc.",
+    "market_cap": 143158870016,
+    "sector": "Technology",
+    "name": "ServiceNow, Inc."
   }
 }
