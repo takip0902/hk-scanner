@@ -11680,5 +11680,23 @@
     "market_cap": 11395450880,
     "sector": "Consumer Cyclical",
     "name": "江南布衣"
+  },
+  "1400.HK": {
+    "name_en": "Moody Technology Holdings Limited",
+    "market_cap": 152070688,
+    "sector": "Consumer Cyclical",
+    "name": "滿地科技股份"
+  },
+  "2829.HK": {
+    "name_en": "iShares Asia Trust - iShares China Government Bond ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "2829"
+  },
+  "6601.HK": {
+    "name_en": "Cheerwin Group Limited",
+    "market_cap": 3113333760,
+    "sector": "Consumer Defensive",
+    "name": "朝雲集團"
   }
 }
