@@ -11698,5 +11698,17 @@
     "market_cap": 3113333760,
     "sector": "Consumer Defensive",
     "name": "朝雲集團"
+  },
+  "3223.HK": {
+    "name_en": "Ingenic Semiconductor Co., Ltd.",
+    "market_cap": 52010119168,
+    "sector": "Technology",
+    "name": "3223"
+  },
+  "9858.HK": {
+    "name_en": "China Youran Dairy Group Limited",
+    "market_cap": 18414032896,
+    "sector": "Consumer Defensive",
+    "name": "優然牧業"
   }
 }
