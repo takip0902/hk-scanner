@@ -8418,7 +8418,7 @@
     "sector": ""
   },
   "3070.HK": {
-    "name_en": "Ping An of China Trust - Ping An of China CSI HK Dividend ETF",
+    "name_en": "Ping An of China CSI HK Dividend ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3070"
@@ -8502,13 +8502,13 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
+    "name_en": "Bosera HKD Money Market ETF HKD Counter",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
   },
   "3160.HK": {
-    "name_en": "ChinaAMC MSCI Japan Hedged to USD",
+    "name_en": "ChinaAMC MSCI Japan Hedged to USD ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3160"
@@ -8538,7 +8538,7 @@
     "sector": ""
   },
   "3174.HK": {
-    "name_en": "CSOP ETF Series OFC - CSOP Hang Seng Biotech ETF",
+    "name_en": "CSOP Hang Seng Biotech ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3174"
@@ -8724,7 +8724,7 @@
     "name": "3448"
   },
   "3451.HK": {
-    "name_en": "Global X Exchange Traded Funds Series Ofc - Global X Nasdaq 100 Covered Call Active Etf",
+    "name_en": "Global X NADAQ 100 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3451"
@@ -10452,7 +10452,7 @@
     "name": "2848"
   },
   "3074.HK": {
-    "name_en": "iShares Asia Trust - iShares Core MSCI Taiwan Index ETF",
+    "name_en": "iShares Core MSCI Taiwan ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3074"
@@ -10470,7 +10470,7 @@
     "name": "3151"
   },
   "3175.HK": {
-    "name_en": "Samsung ETFs Trust - Samsung S&P GSCI Crude Oil ER Futures ETF",
+    "name_en": "Samsung S&P GSCI Crude Oil ER Futures ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3175"
@@ -10590,7 +10590,7 @@
     "name": "3119"
   },
   "3195.HK": {
-    "name_en": "Hang Seng S&P 500 Index Etf",
+    "name_en": "Hang Seng S&P 500 Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3195"
@@ -10794,7 +10794,7 @@
     "name": "3455"
   },
   "3097.HK": {
-    "name_en": "Global X ETF Series II - Global X S&P Crude Oil Futures Enhanced ER ETF",
+    "name_en": "Global X S&P Crude Oil Futures Enhanced ER ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3097"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
+    "name_en": "CSOP FTSE East-West Equity Select ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11136,13 +11136,13 @@
     "name": "3193"
   },
   "3415.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X S&P 500 Covered Call Active ETF",
+    "name_en": "Global X S&P 500 Covered Call Active ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3415"
   },
   "3486.HK": {
-    "name_en": "E Fund ETFs Trust - E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
+    "name_en": "E Fund (HK) Solactive Asia Semiconductor Select Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3486"
@@ -11556,7 +11556,7 @@
     "name": "樂舒適"
   },
   "3096.HK": {
-    "name_en": "CSOP ETF Series - CSOP US Dollar Money Market ETF",
+    "name_en": "CSOP US Dollar Money Market ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3096"
@@ -11586,7 +11586,7 @@
     "name": "STERLING GP"
   },
   "3537.HK": {
-    "name_en": "Csop ETF Series - Csop Kospi 200 Covered Call Active ETF",
+    "name_en": "CSOP KOSPI 200 Covered Call Active ETF USD",
     "market_cap": 0,
     "sector": "",
     "name": "3537"
@@ -11604,7 +11604,7 @@
     "name": "3308"
   },
   "3069.HK": {
-    "name_en": "CHINAAMC Hang Seng Biotech ETF",
+    "name_en": "ChinaAMC Hang Seng Hong Kong Biotech Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3069"
@@ -11634,7 +11634,7 @@
     "name": "貝殼－Ｗ"
   },
   "3199.HK": {
-    "name_en": "CSOP ETF Series II - CSOP China 5-Year Treasury Bond ETF",
+    "name_en": "ICBC CSOP FTSE Chinese Government and Policy Bank Bond Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3199"
@@ -11688,7 +11688,7 @@
     "name": "滿地科技股份"
   },
   "2829.HK": {
-    "name_en": "iShares Asia Trust - iShares China Government Bond ETF",
+    "name_en": "iShares China Government Bond ETF RMB",
     "market_cap": 0,
     "sector": "",
     "name": "2829"
@@ -11710,5 +11710,17 @@
     "market_cap": 18414032896,
     "sector": "Consumer Defensive",
     "name": "優然牧業"
+  },
+  "2005.HK": {
+    "name_en": "SSY Group Limited",
+    "market_cap": 8028954624,
+    "sector": "Healthcare",
+    "name": "石四藥集團"
+  },
+  "6980.HK": {
+    "name_en": "BAMA TEA Co., Ltd.",
+    "market_cap": 3179847680,
+    "sector": "Consumer Defensive",
+    "name": "八馬茶業"
   }
 }
