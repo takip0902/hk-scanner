@@ -2394,10 +2394,10 @@
     "name": "Global X Data Center & Digital Infrastructure ETF"
   },
   "DUHP": {
-    "name_en": "Dimensional US High Profitability ETF",
+    "name_en": "DFA U.S. High Relative Profitability Portfolio – ETF Class Shares",
     "market_cap": 0,
     "sector": "",
-    "name": "Dimensional US High Profitability ETF"
+    "name": "DFA U.S. High Relative Profitability Portfolio – ETF Class Shares"
   },
   "DUSB": {
     "name_en": "Dimensional Ultrashort Fixed Income ETF",
@@ -4758,10 +4758,10 @@
     "name": "Citi Trends, Inc."
   },
   "DCOR": {
-    "name_en": "Dimensional US Core Equity 1 ETF",
+    "name_en": "DFA U.S. Core Equity 1 Portfolio – ETF Class Shares",
     "market_cap": 0,
     "sector": "",
-    "name": "Dimensional US Core Equity 1 ETF"
+    "name": "DFA U.S. Core Equity 1 Portfolio – ETF Class Shares"
   },
   "DEI": {
     "name_en": "Douglas Emmett, Inc.",
@@ -8413,7 +8413,7 @@
   },
   "ITT": {
     "name_en": "ITT Inc.",
-    "market_cap": 0,
+    "market_cap": 18613014528,
     "sector": "Industrials",
     "name": "ITT Inc."
   },
@@ -9106,5 +9106,389 @@
     "market_cap": 143158870016,
     "sector": "Technology",
     "name": "ServiceNow, Inc."
+  },
+  "ANGX": {
+    "name_en": "Angel Studios, Inc.",
+    "market_cap": 853476416,
+    "sector": "Communication Services",
+    "name": "Angel Studios, Inc."
+  },
+  "AQST": {
+    "name_en": "Aquestive Therapeutics, Inc.",
+    "market_cap": 596180352,
+    "sector": "Healthcare",
+    "name": "Aquestive Therapeutics, Inc."
+  },
+  "ARHS": {
+    "name_en": "Arhaus, Inc.",
+    "market_cap": 1365069184,
+    "sector": "Consumer Cyclical",
+    "name": "Arhaus, Inc."
+  },
+  "BJ": {
+    "name_en": "BJ's Wholesale Club Holdings, Inc.",
+    "market_cap": 12228525056,
+    "sector": "Consumer Defensive",
+    "name": "BJ's Wholesale Club Holdings, Inc."
+  },
+  "BKUI": {
+    "name_en": "BNY Mellon Ultra Short Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "BNY Mellon Ultra Short Income ETF"
+  },
+  "BNTX": {
+    "name_en": "BioNTech SE",
+    "market_cap": 24889329664,
+    "sector": "Healthcare",
+    "name": "BioNTech SE"
+  },
+  "BSEP": {
+    "name_en": "Innovator U.S. Equity Buffer ETF - September",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Innovator U.S. Equity Buffer ETF - September"
+  },
+  "BTG": {
+    "name_en": "B2Gold Corp.",
+    "market_cap": 6975253504,
+    "sector": "Basic Materials",
+    "name": "B2Gold Corp."
+  },
+  "BUFD": {
+    "name_en": "FT Vest Laddered Deep Buffer ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "FT Vest Laddered Deep Buffer ETF"
+  },
+  "CHA": {
+    "name_en": "Chagee Holdings Limited",
+    "market_cap": 2184240128,
+    "sector": "Consumer Cyclical",
+    "name": "Chagee Holdings Limited"
+  },
+  "CHPT": {
+    "name_en": "ChargePoint Holdings, Inc.",
+    "market_cap": 234671824,
+    "sector": "Consumer Cyclical",
+    "name": "ChargePoint Holdings, Inc."
+  },
+  "CHT": {
+    "name_en": "Chunghwa Telecom Co., Ltd.",
+    "market_cap": 35668738048,
+    "sector": "Communication Services",
+    "name": "Chunghwa Telecom Co., Ltd."
+  },
+  "CRMG": {
+    "name_en": "Leverage Shares 2X Long CRM Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Leverage Shares 2X Long CRM Daily ETF"
+  },
+  "DDS": {
+    "name_en": "Dillard's, Inc.",
+    "market_cap": 10651528192,
+    "sector": "Consumer Cyclical",
+    "name": "Dillard's, Inc."
+  },
+  "DIS": {
+    "name_en": "The Walt Disney Company",
+    "market_cap": 182320857088,
+    "sector": "Communication Services",
+    "name": "The Walt Disney Company"
+  },
+  "EDRY": {
+    "name_en": "EuroDry Ltd.",
+    "market_cap": 164768368,
+    "sector": "Industrials",
+    "name": "EuroDry Ltd."
+  },
+  "EL": {
+    "name_en": "The Estée Lauder Companies Inc.",
+    "market_cap": 34576740352,
+    "sector": "Consumer Defensive",
+    "name": "The Estée Lauder Companies Inc."
+  },
+  "FIGS": {
+    "name_en": "FIGS, Inc.",
+    "market_cap": 2262830080,
+    "sector": "Consumer Cyclical",
+    "name": "FIGS, Inc."
+  },
+  "FLRT": {
+    "name_en": "Pacer Aristotle Pacific Floating Rate High Income ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Pacer Aristotle Pacific Floating Rate High Income ETF"
+  },
+  "FWDI": {
+    "name_en": "Forward Industries, Inc.",
+    "market_cap": 614120128,
+    "sector": "Consumer Cyclical",
+    "name": "Forward Industries, Inc."
+  },
+  "GEF-B": {
+    "name_en": "Greif, Inc.",
+    "market_cap": 4052136704,
+    "sector": "Consumer Cyclical",
+    "name": "Greif, Inc."
+  },
+  "HBM": {
+    "name_en": "Hudbay Minerals Inc.",
+    "market_cap": 11934170112,
+    "sector": "Basic Materials",
+    "name": "Hudbay Minerals Inc."
+  },
+  "IAG": {
+    "name_en": "IAMGOLD Corporation",
+    "market_cap": 10666279936,
+    "sector": "Basic Materials",
+    "name": "IAMGOLD Corporation"
+  },
+  "IAUX": {
+    "name_en": "i-80 Gold Corp.",
+    "market_cap": 1428737792,
+    "sector": "Basic Materials",
+    "name": "i-80 Gold Corp."
+  },
+  "IDCC": {
+    "name_en": "InterDigital, Inc.",
+    "market_cap": 8442178048,
+    "sector": "Technology",
+    "name": "InterDigital, Inc."
+  },
+  "INBX": {
+    "name_en": "Inhibrx Biosciences, Inc.",
+    "market_cap": 1496933248,
+    "sector": "Healthcare",
+    "name": "Inhibrx Biosciences, Inc."
+  },
+  "INRO": {
+    "name_en": "iShares U.S. Industry Rotation Active ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Industry Rotation Active ETF"
+  },
+  "IPDN": {
+    "name_en": "Professional Diversity Network, Inc.",
+    "market_cap": 2590004,
+    "sector": "Industrials",
+    "name": "Professional Diversity Network, Inc."
+  },
+  "IRD": {
+    "name_en": "Opus Genetics, Inc.",
+    "market_cap": 420138912,
+    "sector": "Healthcare",
+    "name": "Opus Genetics, Inc."
+  },
+  "IT": {
+    "name_en": "Gartner, Inc.",
+    "market_cap": 11728659456,
+    "sector": "Technology",
+    "name": "Gartner, Inc."
+  },
+  "IWL": {
+    "name_en": "iShares Russell Top 200 ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares Russell Top 200 ETF"
+  },
+  "JMOM": {
+    "name_en": "JPMorgan U.S. Momentum Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "JPMorgan U.S. Momentum Factor ETF"
+  },
+  "JOE": {
+    "name_en": "The St. Joe Company",
+    "market_cap": 3756840448,
+    "sector": "Real Estate",
+    "name": "The St. Joe Company"
+  },
+  "KMTS": {
+    "name_en": "Kestra Medical Technologies, Ltd.",
+    "market_cap": 1675473280,
+    "sector": "Healthcare",
+    "name": "Kestra Medical Technologies, Ltd."
+  },
+  "KOD": {
+    "name_en": "Kodiak Sciences Inc.",
+    "market_cap": 5651422720,
+    "sector": "Healthcare",
+    "name": "Kodiak Sciences Inc."
+  },
+  "LAUR": {
+    "name_en": "Laureate Education, Inc.",
+    "market_cap": 5182130688,
+    "sector": "Consumer Defensive",
+    "name": "Laureate Education, Inc."
+  },
+  "LECO": {
+    "name_en": "Lincoln Electric Holdings, Inc.",
+    "market_cap": 14780870656,
+    "sector": "Industrials",
+    "name": "Lincoln Electric Holdings, Inc."
+  },
+  "LGND": {
+    "name_en": "Ligand Pharmaceuticals Incorporated",
+    "market_cap": 6261774848,
+    "sector": "Healthcare",
+    "name": "Ligand Pharmaceuticals Incorporated"
+  },
+  "LIND": {
+    "name_en": "Lindblad Expeditions Holdings, Inc.",
+    "market_cap": 1944967552,
+    "sector": "Consumer Cyclical",
+    "name": "Lindblad Expeditions Holdings, Inc."
+  },
+  "LLY": {
+    "name_en": "Eli Lilly and Company",
+    "market_cap": 1056062046208,
+    "sector": "Healthcare",
+    "name": "Eli Lilly and Company"
+  },
+  "LRGF": {
+    "name_en": "iShares U.S. Equity Factor ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "iShares U.S. Equity Factor ETF"
+  },
+  "MDT": {
+    "name_en": "Medtronic plc",
+    "market_cap": 114482847744,
+    "sector": "Healthcare",
+    "name": "Medtronic plc"
+  },
+  "MEOH": {
+    "name_en": "Methanex Corporation",
+    "market_cap": 4624835584,
+    "sector": "Basic Materials",
+    "name": "Methanex Corporation"
+  },
+  "MGC": {
+    "name_en": "Vanguard Morningstar Mega Cap ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Vanguard Morningstar Mega Cap ETF"
+  },
+  "MRNX": {
+    "name_en": "Defiance Daily Target 2X Long MRNA ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Defiance Daily Target 2X Long MRNA ETF"
+  },
+  "MRVI": {
+    "name_en": "Maravai LifeSciences Holdings, Inc.",
+    "market_cap": 2825829376,
+    "sector": "Healthcare",
+    "name": "Maravai LifeSciences Holdings, Inc."
+  },
+  "MRVU": {
+    "name_en": "Direxion Daily MRVL Bull 2X ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily MRVL Bull 2X ETF"
+  },
+  "MSGS": {
+    "name_en": "Madison Square Garden Sports Corp.",
+    "market_cap": 10025442304,
+    "sector": "Communication Services",
+    "name": "Madison Square Garden Sports Corp."
+  },
+  "MSM": {
+    "name_en": "MSC Industrial Direct Co., Inc.",
+    "market_cap": 6821066752,
+    "sector": "Industrials",
+    "name": "MSC Industrial Direct Co., Inc."
+  },
+  "NGVT": {
+    "name_en": "Ingevity Corporation",
+    "market_cap": 2500649728,
+    "sector": "Basic Materials",
+    "name": "Ingevity Corporation"
+  },
+  "NPK": {
+    "name_en": "National Presto Industries, Inc.",
+    "market_cap": 1043863872,
+    "sector": "Industrials",
+    "name": "National Presto Industries, Inc."
+  },
+  "NSIT": {
+    "name_en": "Insight Enterprises, Inc.",
+    "market_cap": 4577246720,
+    "sector": "Technology",
+    "name": "Insight Enterprises, Inc."
+  },
+  "NTAP": {
+    "name_en": "NetApp, Inc.",
+    "market_cap": 40150011904,
+    "sector": "Technology",
+    "name": "NetApp, Inc."
+  },
+  "NTNX": {
+    "name_en": "Nutanix, Inc.",
+    "market_cap": 18588170240,
+    "sector": "Technology",
+    "name": "Nutanix, Inc."
+  },
+  "NTRA": {
+    "name_en": "Natera, Inc.",
+    "market_cap": 59354247168,
+    "sector": "Healthcare",
+    "name": "Natera, Inc."
+  },
+  "NTSK": {
+    "name_en": "Netskope, Inc.",
+    "market_cap": 7293291520,
+    "sector": "Technology",
+    "name": "Netskope, Inc."
+  },
+  "NUAI": {
+    "name_en": "New Era Energy & Digital, Inc.",
+    "market_cap": 840747712,
+    "sector": "Technology",
+    "name": "New Era Energy & Digital, Inc."
+  },
+  "NUTX": {
+    "name_en": "Nutex Health Inc.",
+    "market_cap": 1456803584,
+    "sector": "Healthcare",
+    "name": "Nutex Health Inc."
+  },
+  "NVDA": {
+    "name_en": "NVIDIA Corporation",
+    "market_cap": 5526282305536,
+    "sector": "Technology",
+    "name": "NVIDIA Corporation"
+  },
+  "NVDL": {
+    "name_en": "GraniteShares 2x Long NVDA Daily ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "GraniteShares 2x Long NVDA Daily ETF"
+  },
+  "NVDU": {
+    "name_en": "Direxion Daily Nvda Bull 2X Shares",
+    "market_cap": 0,
+    "sector": "",
+    "name": "Direxion Daily Nvda Bull 2X Shares"
+  },
+  "NVDY": {
+    "name_en": "YieldMax NVDA Option Income Strategy ETF",
+    "market_cap": 0,
+    "sector": "",
+    "name": "YieldMax NVDA Option Income Strategy ETF"
+  },
+  "NVEC": {
+    "name_en": "NVE Corporation",
+    "market_cap": 531169312,
+    "sector": "Technology",
+    "name": "NVE Corporation"
+  },
+  "NVGS": {
+    "name_en": "Navigator Holdings Ltd.",
+    "market_cap": 1409422464,
+    "sector": "Energy",
+    "name": "Navigator Holdings Ltd."
   }
 }
