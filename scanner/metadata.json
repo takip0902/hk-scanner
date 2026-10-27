@@ -11806,5 +11806,23 @@
     "market_cap": 46087340032,
     "sector": "Industrials",
     "name": "中國建築國際"
+  },
+  "1280.HK": {
+    "name_en": "China Qidian Guofeng Holdings Limited",
+    "market_cap": 5007248384,
+    "sector": "",
+    "name": "奇點國峰"
+  },
+  "2409.HK": {
+    "name_en": "Seacon Shipping Group Holdings Limited",
+    "market_cap": 2672499968,
+    "sector": "Industrials",
+    "name": "洲際船務"
+  },
+  "3369.HK": {
+    "name_en": "Qinhuangdao Port Co., Ltd.",
+    "market_cap": 14750768128,
+    "sector": "Industrials",
+    "name": "秦港股份"
   }
 }
