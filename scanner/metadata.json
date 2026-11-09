@@ -8418,7 +8418,7 @@
     "sector": ""
   },
   "3070.HK": {
-    "name_en": "Ping An of China Trust - Ping An of China CSI HK Dividend ETF",
+    "name_en": "Ping An of China CSI HK Dividend ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3070"
@@ -8502,7 +8502,7 @@
     "name": "3145"
   },
   "3152.HK": {
-    "name_en": "Bosera Global Exchange Traded Funds Series Open-Ended Fund Company - Bosera Hkd Money Market ETF",
+    "name_en": "Bosera HKD Money Market ETF HKD Counter",
     "market_cap": 0,
     "sector": "",
     "name": "3152"
@@ -8712,7 +8712,7 @@
     "name": "3437"
   },
   "3440.HK": {
-    "name_en": "Global X Exchange Traded Funds Series OFC - Global X US Treasury 0-3 Month ETF",
+    "name_en": "Global X US Treasury 0-3 Month ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3440"
@@ -10932,7 +10932,7 @@
     "name": "3433"
   },
   "3441.HK": {
-    "name_en": "Csop Etf Series - Csop Ftse Etf Connect East-west Succession Equity Select Etf",
+    "name_en": "CSOP FTSE East-West Equity Select ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3441"
@@ -11364,9 +11364,9 @@
     "name": "9971"
   },
   "1770.HK": {
-    "name_en": "DKE",
+    "name_en": "DKE Holding Company Limited",
     "market_cap": 0,
-    "sector": "Technology",
+    "sector": "",
     "name": "1770"
   },
   "2630.HK": {
@@ -11634,7 +11634,7 @@
     "name": "貝殼－Ｗ"
   },
   "3199.HK": {
-    "name_en": "CSOP ETF Series II - CSOP China 5-Year Treasury Bond ETF",
+    "name_en": "ICBC CSOP FTSE Chinese Government and Policy Bank Bond Index ETF",
     "market_cap": 0,
     "sector": "",
     "name": "3199"
@@ -11688,7 +11688,7 @@
     "name": "滿地科技股份"
   },
   "2829.HK": {
-    "name_en": "iShares Asia Trust - iShares China Government Bond ETF",
+    "name_en": "iShares China Government Bond ETF RMB",
     "market_cap": 0,
     "sector": "",
     "name": "2829"
@@ -11824,5 +11824,17 @@
     "market_cap": 14750768128,
     "sector": "Industrials",
     "name": "秦港股份"
+  },
+  "2586.HK": {
+    "name_en": "Dmall Inc.",
+    "market_cap": 6601116672,
+    "sector": "Technology",
+    "name": "多點數智"
+  },
+  "2657.HK": {
+    "name_en": "Shanghai Forest Cabin Cosmetics Group Co., Ltd.",
+    "market_cap": 8147763200,
+    "sector": "Consumer Defensive",
+    "name": "林清軒"
   }
 }
